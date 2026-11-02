@@ -1,0 +1,27 @@
+# Segredos e Mistérios
+
+Esta nota registra o que está oculto, para quem está oculto e o que ainda é desconhecido. Ela não deve revelar automaticamente segredos aos personagens. “Segredo do jogador/narrador” significa informação para continuidade do vault; não significa que o personagem a conheça.
+
+## O que Isabella ainda não sabe
+- Henrico apresentou três cenários hipotéticos e disse que apenas um corresponde à realidade, mas não revelou qual. O registro disponível não identifica qual cenário é verdadeiro; não preencher por inferência.
+- Não está estabelecido que Isabella conheça a existência real de vampiros ou os detalhes da família Giovanni.
+
+## Mistérios da San Michele
+- Identidade da manifestação feminina e sua possível relação com [[Vittoria Giovanni]].
+- Significado de “Tragam o herdeiro”, “O sangue de Augusto ainda está aqui” e “A última porta já está aberta”.
+- Destino e condição de [[Dario Nascimento]].
+- Paradeiro e condição atuais de [[Augusto Giovanni]].
+- Propósito completo do [[Projeto Sepulcro]] e conteúdo dos 32 registros.
+- Papel de [[Enzo Bellini]] e razão das divergências entre seu relato e o de [[Lorenzo]].
+
+## Limites sobre o herdeiro
+Não associar automaticamente o herdeiro mencionado pela manifestação a Henrico. A identidade permanece desconhecida.
+
+## Segredo não é confirmação
+A hipótese de que a entidade seja Vittoria não é fato. As mensagens são registradas como ouvidas; suas interpretações continuam abertas. Ver também [[Informações Não Confirmadas]] e [[Em Aberto]].
+
+## Referências
+[[Matriz de Conhecimento]] · [[Cronologia]] · [[Projeto Sepulcro]] · [[Vittoria Giovanni]] · [[Dario Nascimento]]
+
+## Descendência de Augusto e Vittoria
+Lorenzo não conhece descendentes confirmados. A possibilidade de terem tido descendente antes de um dos dois ser Abraçado foi mencionada como possibilidade geral, não como pista ou confirmação. Não presumir que exista descendente nem relacionar automaticamente “o herdeiro” a Henrico.

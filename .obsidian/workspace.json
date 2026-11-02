@@ -1,0 +1,405 @@
+{
+  "main": {
+    "id": "8a0a7f6fdf9cc2f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "952e1e7cac0b92c6",
+        "type": "tabs",
+        "dimension": 44.79695431472081,
+        "children": [
+          {
+            "id": "6112e4f515e2595c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Painel/Cronologia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cronologia"
+            }
+          },
+          {
+            "id": "896d8c67f74ae936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Personagens/Henrico Giovanni.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Henrico Giovanni"
+            }
+          },
+          {
+            "id": "80d07d9029409837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Personagens/Roberto Giovanni.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roberto Giovanni"
+            }
+          },
+          {
+            "id": "185a171668b0290b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Personagens/Aldo Giovanni.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aldo Giovanni"
+            }
+          },
+          {
+            "id": "333b81fcee257586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Personagens/Lorenzo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lorenzo"
+            }
+          },
+          {
+            "id": "aee8659e42754db5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Personagens/Isabella Moretti.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Isabella Moretti"
+            }
+          },
+          {
+            "id": "aeef8196008ca5b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Personagens/Elena Giovanni.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elena Giovanni"
+            }
+          },
+          {
+            "id": "6e3c10169f9ca351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Personagens/Matteo Giovanni.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Matteo Giovanni"
+            }
+          },
+          {
+            "id": "205c608b6eedb35d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Personagens/Augusto Giovanni.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Augusto Giovanni"
+            }
+          },
+          {
+            "id": "0c05f4194b421cd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Personagens/Rafael Moreira.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rafael Moreira"
+            }
+          },
+          {
+            "id": "6992aae05c0baf20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99 - Modelos/Modelo - Local.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modelo - Local"
+            }
+          },
+          {
+            "id": "012a3ba618d6cafd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Personagens/Vittoria Giovanni.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vittoria Giovanni"
+            }
+          }
+        ],
+        "currentTab": 11
+      },
+      {
+        "id": "c566f5ae9147b368",
+        "type": "tabs",
+        "dimension": 55.203045685279186,
+        "children": [
+          {
+            "id": "8a28427244899059",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ac29e3e6b6799cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3578e8466c4474c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83f9f5c23c99f120",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "786054d7afa4bd40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "aa6e8209030b4d7b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "deba185155a01b55",
+    "type": "split",
+    "children": [
+      {
+        "id": "388ca4ed6a8cdbf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9557f0f934d0fd5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "99 - Modelos/Modelo - Local.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "f5d4767f078ce4ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "99 - Modelos/Modelo - Local.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "1cb13fa60356b845",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "4c3eccb87a72172e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "beea6edfebda1531",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "99 - Modelos/Modelo - Local.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "vault-assistant:Open chat": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8a28427244899059",
+  "lastOpenFiles": [
+    "01 - Personagens/Vittoria Giovanni.md",
+    "01 - Personagens/Enzo Bellini.md",
+    "00 - Painel/Direção da Campanha — Reservado ao Mestre.md",
+    "01 - Personagens/Tommaso Giovanni.md",
+    "01 - Personagens/Lorenzo.md",
+    "01 - Personagens/Aldo Giovanni.md",
+    "00 - Painel/Cronologia.md",
+    "02 - Conhecimento/Mitsubishi Lancer Evo X.md",
+    "04 - Locais/San Michele.md",
+    "05 - Ocultismo/Custode delle Anime.md",
+    "01 - Personagens/Dario Nascimento.md",
+    "03 - Famílias e Facções/Projeto Sepulcro.md",
+    "98 - Saves atuais/README.md",
+    "02 - Conhecimento/Objetos e Documentos.md",
+    "02 - Conhecimento/Matriz de Conhecimento.md",
+    "01 - Personagens/Isabella Moretti.md",
+    "01 - Personagens/Henrico Giovanni.md",
+    "00 - Painel/Estado Atual.md",
+    "00 - Painel/Início.md",
+    "98 - Saves atuais/Terceiro Salve.md",
+    "98 - Saves atuais/Segundo Salve.md",
+    "98 - Saves atuais/Convenção de comunicação e primeiro salve.md",
+    "98 - Saves atuais",
+    "99 - Modelos/Modelo - Informação.md",
+    "99 - Modelos/Modelo - Sessão.md",
+    "99 - Modelos/Modelo - Personagem.md",
+    "01 - Personagens/Roberto Giovanni.md",
+    "99 - Modelos",
+    "08 - Investigações e Mistérios",
+    "07 - Sessões",
+    "06 - Relações e Compromissos",
+    "05 - Ocultismo",
+    "04 - Locais",
+    "03 - Famílias e Facções",
+    "02 - Conhecimento",
+    "01 - Personagens"
+  ]
+}
