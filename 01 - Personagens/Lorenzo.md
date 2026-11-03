@@ -37,4 +37,17 @@ Direção integral: [[Direção da Campanha — Reservado ao Mestre]].
 - **Conhece pessoalmente:** Henrico e Tommaso (seu senhor); conheceu Aldo no dia anterior à reunião atual.
 - **Contato atual:** está na mesma sala que Roberto; relação anterior não estabelecida.
 - **Conheceu por colaboração no Sepulcro:** Augusto. Conhecia Vittoria como esposa de Augusto, segundo seu relato; não inferir outros detalhes de convivência.
-- **Não estabelecido que conheça pessoalmente:** Isabella, Enzo, Dario, Rafael, Elena ou Matteo.
+- **Conhece dos acontecimentos da San Michele:** Enzo Bellini e Dario Nascimento; Lorenzo ameaçou Enzo durante a primeira missão e foi responsável por experimentos em Dario, conforme Salve mais recente.
+- **Não estabelecido que conheça pessoalmente:** Isabella Moretti, Rafael Moreira, Elena Giovanni ou Matteo Giovanni.
+
+## Atualização — noite de 01/11/2026
+Depois de algumas horas de estudo na residência de Roberto, Lorenzo aceitou sair para jantar com Henrico no Evo X. Roberto lhe emprestou roupas para cobrir as queimaduras solares. Durante a conversa, Lorenzo explicou aspectos do Abraço, fome, Besta, alimentação, hierarquia vampírica, relação senhor/cria e os efeitos potenciais sobre a relação de Henrico com Isabella. Lorenzo não ofereceu o Abraço e não pretende decidir por Henrico. Disse que aceitaria alimentar-se de Henrico com permissão em outra ocasião, mas recusou fazê-lo naquela noite por estar debilitado e pela falta de experiência de Henrico.
+
+Lorenzo alimentou-se de Marina na Maison Belle após ela consentir com a mordida no pescoço e a retirada de pequena quantidade de sangue. A alimentação foi moderada, sem perda de controle; Marina permaneceu consciente e relatou tontura leve. Lorenzo fechou as perfurações com saliva. Ficou visivelmente melhor, mas as queimaduras solares não desapareceram.
+
+Henrico disse que os Meta Glasses eram necessários pela pouca iluminação quando Lorenzo perguntou se ele estava gravando. Lorenzo desconfiou, mas não insistiu. **Lorenzo não confirmou que sabia da gravação; registrá-lo como suspeita, não conhecimento.**
+
+No Evo X estacionado em um beco próximo à Maison Belle, Lorenzo perguntou a Henrico se ele considera a possibilidade de ferir alguém parte do preço do Abraço. A resposta ainda não ocorreu.
+
+## Informação de histórico registrada no Salve
+O Salve identifica Lorenzo como responsável pelos experimentos em [[Dario Nascimento]] e registra que participou do roubo do cadáver de Dario para pesquisa. A natureza exata de sua responsabilidade, a ocasião/local do roubo e o que Dario ou outros personagens sabem sobre isso não são detalhados aqui. Não atribuir automaticamente esse conhecimento a Henrico ou a outros personagens.

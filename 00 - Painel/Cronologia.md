@@ -312,9 +312,9 @@ Henrico apresentou três cenários hipotéticos envolvendo atividades familiares
 
 ---
 
-# 6. Ponto atual da crônica
+# 6. Ponto de retomada registrado originalmente — superado
 
-## Após a noite de 31 de outubro de 2026
+## Após a noite de 31 de outubro de 2026 (estado histórico)
 
 - **Local:** residência de Isabella Moretti.
     
@@ -325,7 +325,7 @@ Henrico apresentou três cenários hipotéticos envolvendo atividades familiares
 - **Próximo acontecimento:** ainda não narrado.
     
 
-O despertar e a manhã seguinte não foram descritos. Não há horário confirmado, conversa posterior ou acontecimento adicional registrado.
+Naquele registro, o despertar e a manhã seguinte ainda não haviam sido descritos. Esse ponto foi superado por atualizações posteriores de 01/11/2026 nas seções 9 e 10, em [[Estado Atual]] e em [[Sessão 003]]. A informação preserva o estado da crônica antes da continuação.
 
 ---
 
@@ -402,7 +402,7 @@ Henrico apontou como prioridades localizar Dario Nascimento e descobrir o que ac
 Aldo ofereceu-se para tentar localizar Augusto por contatos antigos e intermediários. Não possui contato direto garantido; pretende verificar se Augusto pode ser localizado e em quais condições, sem revelar inicialmente todos os detalhes. Isso é uma tentativa planejada, não resultado confirmado.
 
 ## Contato com Enzo
-Henrico sugeriu chamar Enzo, por seu conhecimento operacional da instalação. Aldo concordou e iniciou uma ligação. **A ligação permanece sem resultado confirmado:** não se sabe se Enzo atendeu ou se aceitará comparecer.
+Henrico sugeriu chamar Enzo, por seu conhecimento operacional da instalação. Aldo ligou. Enzo recusou comparecer à residência de Roberto enquanto Lorenzo estivesse presente, mas disse que poderia conversar com Aldo; não aceitou encontro nem indicou local. Aldo decidiu providenciar acesso à San Michele para visita posterior com Henrico e Lorenzo. A visita ainda não ocorreu.
 
 ## Informações e hipóteses compartilhadas por Lorenzo
 Lorenzo disse que colaborou com Augusto no Sepulcro sobretudo na parte necromântica, mas não conhecia o projeto completo; alguns procedimentos não lhe eram explicados. Disse ter perdido contato com Augusto e não saber se ele se afastou ou se algo ocorreu. Ouviu, mas não presenciou, a alegação de que Augusto teria diablerizado Cappadocius. Também não conhece descendentes confirmados de Augusto e Vittoria.
@@ -410,3 +410,42 @@ Lorenzo disse que colaborou com Augusto no Sepulcro sobretudo na parte necromân
 Durante a conversa foram consideradas hipóteses sobre preservação de consciência, transferência para outro corpo, reconstrução, preservação indefinida ou comunicação com mortos. Nenhuma foi confirmada como objetivo do Projeto Sepulcro. Os sentidos das mensagens sobre sangue de Augusto e última porta permanecem desconhecidos.
 
 **Fonte:** Salve fornecido pelo jogador; as informações históricas e interpretações de Lorenzo são relatos atribuídos a ele, salvo quando explicitamente indicadas como hipóteses.
+
+# 10. Noite de 01/11/2026 — conversa sobre o Abraço e Maison Belle
+
+> Continuação registrada pelo Salve fornecido pelo jogador. A noite é aproximada; horário exato não estabelecido. A numeração da sessão segue sem confirmação.
+
+## Após a reunião e os estudos na residência de Roberto
+- **Acontecimento:** depois da reunião matinal, Henrico e Lorenzo estudaram por algumas horas na residência de Roberto.
+- **Acontecimento:** Roberto emprestou roupas a Lorenzo para cobrir as queimaduras solares.
+- **Acontecimento:** Henrico convidou Lorenzo para jantar e o levou no Mitsubishi Lancer Evo X.
+- **Fonte:** Salve fornecido pelo jogador.
+- **Certeza:** acontecimentos registrados; horário e detalhes adicionais não estabelecidos.
+
+## Conversa sobre o Abraço e a vida vampírica
+Henrico explicou que queria conhecer Lorenzo além das aulas e compreender o que estaria aceitando caso um dia escolhesse o Abraço. Não declarou decisão de ser Abraçado e esclareceu que não pretendia receber o Abraço de Lorenzo. Lorenzo não ofereceu o Abraço e não pretende decidir por Henrico.
+
+Lorenzo explicou morte e renascimento pelo sangue, fome, exposição solar, mudanças em experiências mortais, influência da Besta, hierarquia vampírica, limites de poder e influência de um recém-criado e possíveis vantagens de tempo e Disciplinas. Explicou que sobrenome Giovanni pode abrir portas e também fazer do recém-criado uma peça disputada. Sobre alimentação, mencionou doadores, bolsas, intermediários e caça; disse que virgindade não torna o sangue universalmente superior. Relatou que já usou intermediários, doadores e caça e que sua conduta nem sempre foi impecável.
+
+Henrico perguntou sobre a relação senhor/cria e sobre continuar com Isabella caso se tornasse vampiro. Lorenzo explicou obediência, ensino e a desigualdade de poder, que pode fazer do senhor protetor, professor, aliado ou carcereiro. Relatou que seu Abraço por Tommaso não resultou em relação simples. Não prometeu ser senhor de Henrico.
+
+Henrico perguntou se Lorenzo aceitaria alimentar-se dele com permissão. Lorenzo respondeu que sim, mas não naquela noite, devido à própria condição debilitada e à falta de experiência de Henrico com a situação. Não se estabeleceu acordo de alimentação.
+
+## Alimentação na Maison Belle
+Henrico revelou que escolhera a Maison Belle para que Lorenzo pudesse alimentar-se enquanto ele observava. Disse ter pesquisado o local e que era frequentado por pessoas que valorizavam discrição, incluindo políticos e homens casados. Sua intenção declarada era evitar expor uma terceira pessoa a riscos sem conhecer as condições, embora também considerasse oferecer o próprio sangue. Na recepção, conversou com uma funcionária e depois com a gerente Sílvia. Henrico ofereceu inicialmente R$ 5.000; Sílvia consultou Marina, que aceitou conversar após uma descrição geral.
+
+Marina perguntou sobre mordida, dor, marcas, quantidade de sangue e possibilidade de Lorenzo perder o controle. Lorenzo explicou que poderia haver dor inicial, que a saliva vampírica poderia tornar a experiência mais agradável e fechar as perfurações, e que não pretendia retirar uma quantidade perigosa. Henrico entregou R$ 2.500 como adiantamento. Na sala reservada, Marina concordou com mordida no pescoço e retirada de pequena quantidade, podendo pedir para parar.
+
+Lorenzo alimentou-se sem perder o controle. Marina permaneceu consciente, reagiu com surpresa e depois relaxou; Lorenzo interrompeu, fechou as perfurações com saliva e se afastou. Marina relatou tontura leve e disse estar bem. Lorenzo ficou visivelmente melhor, mas as queimaduras não desapareceram.
+
+Henrico pagou R$ 2.500 adiantados e mais R$ 3.500 como adicional pela discrição, total de R$ 6.000, embora a proposta inicial tivesse sido de R$ 5.000. Marina afirmou não ter interesse em comentar sobre clientes e que manteria a experiência em privado. Ela consentiu com alimentação e mordida, mas não com gravação.
+
+## Gravação secreta e retorno ao carro
+Antes da alimentação, Henrico iniciou uma gravação secreta com Meta Glasses. Marina e Sílvia não foram informadas. Quando Lorenzo perguntou se Henrico estava gravando, Henrico negou e disse precisar dos óculos por causa da pouca luz. Lorenzo desconfiou, mas não insistiu. O que Henrico fará com o material não foi declarado.
+
+Henrico e Lorenzo voltaram ao Evo X, estacionado em beco escuro próximo à Maison Belle. Lorenzo comentou que gostaria de saber detalhes de futuros experimentos antes de chegar ao local; Henrico respondeu que aprecia um bom mistério. Na conversa seguinte, Henrico disse acreditar que conseguiria alimentar-se de uma pessoa e machucá-la seriamente se algum dia se tornasse vampiro. Lorenzo respondeu que isso seria possível, advertiu que a primeira alimentação poderia ser diferente e que a fome pode comprometer o julgamento, e perguntou se Henrico considera ferir alguém parte do preço do Abraço. **A resposta de Henrico permanece pendente.**
+
+## Correção de regra registrada no Salve
+A referência de regras adotada corrige a explicação anterior: o vínculo de sangue decorre do consumo de vitae vampírica pela outra pessoa; não surge simplesmente porque um vampiro se alimenta repetidamente de uma pessoa mortal. Não perpetuar a explicação equivocada do diálogo.
+
+**Fonte:** Salve fornecido pelo jogador. Distinguir fatos da cena, relatos de Lorenzo, suspeita de Lorenzo sobre a gravação e desconhecimento dos demais.

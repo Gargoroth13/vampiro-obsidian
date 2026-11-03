@@ -49,3 +49,11 @@ Direção integral: [[Direção da Campanha — Reservado ao Mestre]].
 - **Conhece pessoalmente:** Roberto, Aldo, Isabella, Lorenzo, Rafael e Enzo; encontrou Dario na San Michele.
 - **Conhece por relatos/informações, sem convivência pessoal estabelecida:** Augusto e Vittoria.
 - **Não estabelecido que tenha conhecido:** Tommaso, Elena e Matteo.
+
+## Atualização — noite de 01/11/2026
+Henrico levou Lorenzo para jantar no Mitsubishi Lancer Evo X e explicou que quer compreender a natureza vampírica antes de qualquer decisão futura sobre o Abraço. Considera essa possibilidade, mas não tomou decisão nem pediu que Lorenzo o abrace. Perguntou sobre alimentação, Besta, senhor e cria, Isabella e o vínculo de sangue. Disse que acredita conseguir alimentar-se de alguém e machucá-la seriamente caso venha a ser vampiro; a resposta à pergunta de Lorenzo sobre aceitar isso como parte do preço do Abraço continua pendente.
+
+Henrico levou Lorenzo à Maison Belle para que ele se alimentasse enquanto observava. Pagou R$ 2.500 de adiantamento e mais R$ 3.500 a Marina, total de R$ 6.000. Marina consentiu com a mordida e a retirada de pequena quantidade de sangue, mas não com a gravação secreta feita por Henrico com Meta Glasses. O que ele fará com o arquivo não foi declarado. Não atribuir conhecimento da gravação a Marina ou Sílvia; Lorenzo suspeita, mas não confirmou.
+
+## Conhecimentos que Henrico não compartilhou
+A gravação é conhecida por Henrico; Marina e Sílvia não foram informadas. Lorenzo perguntou se havia gravação, Henrico negou e Lorenzo demonstrou desconfiança, sem confirmar o que suspeita. Isabella não conhece Lorenzo como vampiro nem os acontecimentos na Maison Belle.

@@ -413,7 +413,7 @@ Ao adicionar novas informações à matriz:
 O Salve registra Henrico, Roberto e Lorenzo na sala; Aldo participa da conversa e depois se afasta para ligar a Enzo. As informações ditas na sala ficam disponíveis aos presentes, não a personagens ausentes.
 
 ### Henrico
-- **Sabe agora:** Aldo tentará localizar Augusto por contatos/intermediários, sem contato direto garantido e sem revelar inicialmente todos os detalhes; Aldo concordou em tentar falar com Enzo, mas a ligação não tem resultado conhecido.
+- **Sabe agora:** Aldo tentará localizar Augusto por contatos/intermediários, sem contato direto garantido e sem revelar inicialmente todos os detalhes. O resultado da tentativa com Enzo foi atualizado abaixo: Enzo recusou comparecer enquanto Lorenzo estivesse presente, mas disse que poderia conversar com Aldo.
 - **Ouviu de Lorenzo:** ele colaborou com Augusto principalmente na parte necromântica, não conhecia o projeto inteiro, não recebia explicação sobre alguns procedimentos e perdeu contato com Augusto. Lorenzo não conhece descendentes confirmados de Augusto e Vittoria.
 - **Relato de segunda mão de Lorenzo:** Augusto teria diablerizado Cappadocius; Lorenzo não presenciou.
 - **Hipóteses discutidas:** transferência de consciência, preservação, reconstrução de corpo ou comunicação entre mortos e vivos. Nenhuma foi confirmada como objetivo do Sepulcro.
@@ -439,3 +439,34 @@ O Salve registra Henrico, Roberto e Lorenzo na sala; Aldo participa da conversa 
 - A chamada de Aldo ainda não está confirmada como atendida. Não atribuir a Enzo conhecimento desta conversa ou convite aceito.
 
 **Fonte:** Salve fornecido pelo jogador. Registrar relatos, hipóteses e desconhecidos sem promovê-los a fatos.
+
+## Atualização — acontecimentos da noite de 01/11/2026
+
+### Henrico
+- **Sabe por participação direta:** a conversa com Lorenzo sobre Abraço, fome, Besta, alimentação, hierarquia, senhor/cria e efeitos possíveis sobre a relação com Isabella; a recusa de Lorenzo em alimentar-se dele naquela noite; a conversa e alimentação de Marina na Maison Belle; o pagamento total de R$ 6.000; e a situação física posterior de Lorenzo.
+- **Sabe como autor da ação:** iniciou gravação secreta da alimentação com Meta Glasses, sem informar Marina ou Sílvia. O uso futuro do arquivo ainda não foi decidido/registrado.
+- **Pendente:** ainda não respondeu se considera ferir alguém parte do preço do Abraço. Não decidiu aceitar o Abraço.
+
+### Lorenzo
+- **Sabe por participação direta:** os assuntos que discutiu com Henrico, sua própria alimentação de Marina, a concordância dela com a mordida e pequena retirada de sangue, sua melhora parcial e as queimaduras ainda presentes.
+- **Suspeita, sem confirmação:** perguntou a Henrico se estava gravando; Henrico negou e alegou precisar dos óculos pela pouca luz. Lorenzo desconfiou, mas não insistiu. Não registrar como certeza que ele saiba da gravação.
+- **Não ofereceu o Abraço** nem prometeu ser senhor de Henrico. Disse que aceitaria alimentar-se dele com permissão em outra ocasião, mas recusou naquela noite.
+
+### Marina
+- **Sabe por participação direta:** aceitou participar após receber explicação e fazer perguntas; consentiu com mordida no pescoço e retirada de pequena quantidade de sangue, podendo pedir para parar. Permaneceu consciente, sentiu tontura leve, disse estar bem e recebeu R$ 6.000 no total. Disse que manteria a experiência em privado.
+- **Não sabe:** que Henrico a gravou; não conhece os nomes de Henrico ou Lorenzo. Não consentiu com gravação.
+
+### Sílvia
+- **Sabe:** recebeu a proposta, consultou Marina e permitiu que a conversa avançasse depois de Marina aceitar. O Salve não estabelece exatamente o que ela presenciou da alimentação ou do pagamento final.
+- **Não sabe:** que Henrico gravou a cena. Não recebeu os nomes de Henrico ou Lorenzo.
+
+### Aldo, Roberto, Enzo e Isabella
+- **Aldo:** sabe que Enzo recusou comparecer à residência de Roberto enquanto Lorenzo estivesse presente, mas disse que poderia conversar com Aldo; Enzo ainda não aceitou encontro nem indicou local. Aldo decidiu providenciar acesso à San Michele para visita posterior de Henrico e Lorenzo. A visita ainda não ocorreu.
+- **Roberto:** emprestou roupas a Lorenzo para cobrir as queimaduras. Não está estabelecido que Roberto saiba do destino ou das atividades posteriores na Maison Belle.
+- **Enzo:** sabe que recusou ir à residência de Roberto com Lorenzo presente e que poderia conversar com Aldo; não há registro de que conheça a conversa sobre Abraço ou a alimentação de Marina.
+- **Isabella:** não estava presente e não recebeu informação sobre Lorenzo como vampiro, Maison Belle, alimentação ou gravação. O envio da mensagem de chegada e reunião continua não confirmado.
+
+**Fonte:** Salve fornecido pelo jogador. Quando o Salve não estabelece quem ouviu ou presenciou algo, manter o conhecimento como desconhecido em vez de inferir.
+
+### Limite de atribuição — experimentos e cadáver de Dario
+O Salve identifica Lorenzo como responsável pelos experimentos em Dario e diz que Lorenzo participou do roubo do cadáver para pesquisa. Não especifica quando nem como Henrico recebeu essa informação, nem o que Dario ou os demais sabem sobre isso. Registrar como informação de continuidade sobre Lorenzo; não atribuí-la automaticamente ao conhecimento de Henrico ou de qualquer outro personagem.

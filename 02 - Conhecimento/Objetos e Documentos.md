@@ -24,3 +24,9 @@ Registro de objetos relevantes e de sua situação conhecida. Não inferir posse
 
 ## Referências
 [[Henrico Giovanni]] · [[Isabella Moretti]] · [[Lorenzo]] · [[Aldo Giovanni]] · [[Rafael Moreira]] · [[San Michele]] · [[Projeto Sepulcro]]
+
+## Noite de 01/11/2026
+- **Mitsubishi Lancer Evo X:** Henrico o dirigiu com Lorenzo até a Maison Belle e depois o estacionou em um beco escuro próximo ao estabelecimento. A cena atual ocorre no interior do carro. Não há atualização sobre o estado mecânico.
+- **Meta Glasses e gravação:** Henrico iniciou gravação secreta da alimentação de Marina. Marina e Sílvia não foram informadas nem consentiram. Lorenzo perguntou se Henrico estava gravando; Henrico negou e Lorenzo desconfiou, sem confirmar. Localização, cópias e uso futuro do arquivo não estabelecidos.
+- **Pagamento a Marina:** Henrico ofereceu inicialmente R$ 5.000; pagou R$ 2.500 de adiantamento e R$ 3.500 adicionais pela discrição; total R$ 6.000. Marina disse que manteria a experiência em privado.
+- **Roupas de Lorenzo:** Roberto lhe emprestou roupas para cobrir as queimaduras solares; devolução e situação atual não registradas.

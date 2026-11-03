@@ -25,3 +25,9 @@ A hipótese de que a entidade seja Vittoria não é fato. As mensagens são regi
 
 ## Descendência de Augusto e Vittoria
 Lorenzo não conhece descendentes confirmados. A possibilidade de terem tido descendente antes de um dos dois ser Abraçado foi mencionada como possibilidade geral, não como pista ou confirmação. Não presumir que exista descendente nem relacionar automaticamente “o herdeiro” a Henrico.
+
+## Gravação secreta na Maison Belle — 01/11/2026
+- Henrico iniciou uma gravação da alimentação de Marina com Meta Glasses, sem informá-la. Marina não consentiu com a gravação e não sabe que foi gravada.
+- Sílvia também não foi informada. Lorenzo perguntou se Henrico estava gravando; Henrico negou e alegou precisar dos óculos por causa da pouca luz. Lorenzo demonstrou desconfiança, mas não confirmou a gravação.
+- **Quem sabe:** Henrico sabe que gravou. Lorenzo suspeita. Marina e Sílvia desconhecem. Não atribuir conhecimento aos demais sem nova cena.
+- O local de armazenamento, conteúdo integral, cópias e uso futuro do material não foram estabelecidos.

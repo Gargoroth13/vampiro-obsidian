@@ -15,6 +15,14 @@
 ## Referências
 [[Matriz de Conhecimento]] · [[Promessas]] · [[Dívidas e Favores]] · [[Família Giovanni]]
 
+## Atualização — noite de 01/11/2026
+- **Henrico–Lorenzo:** conversaram sobre o Abraço, alimentação, Besta, hierarquia, senhor/cria e efeitos possíveis sobre a relação de Henrico com Isabella. Não houve proposta de Abraço nem decisão de Henrico. Lorenzo recusou alimentar-se de Henrico naquela noite, mas disse que aceitaria com permissão em outra ocasião.
+- **Lorenzo–Marina:** alimentação pontual após consentimento de Marina para mordida no pescoço e retirada de pequena quantidade de sangue. Não há vínculo ou compromisso futuro registrado.
+- **Henrico–Marina:** interação transacional na Maison Belle; Marina consentiu com a alimentação, recebeu R$ 6.000 e disse que manteria a experiência em privado. Henrico a gravou secretamente sem seu conhecimento ou consentimento; ela não sabe disso.
+- **Henrico–Sílvia:** negociação pontual por meio da gerente da Maison Belle; não há relação além da proposta e consulta a Marina.
+- **Aldo–Enzo:** Enzo recusou comparecer à residência de Roberto com Lorenzo presente, mas disse que poderia conversar com Aldo. Não aceitou encontro nem indicou local. Aldo pretende providenciar acesso à San Michele para visita posterior com Henrico e Lorenzo; nada foi realizado ainda.
+- **Roberto–Lorenzo:** Roberto emprestou roupas a Lorenzo para cobrir as queimaduras solares. Não há compromisso de devolução registrado.
+
 ## Atualização — manhã de 01/11/2026
 - **Henrico–Isabella:** passaram a manhã juntos. Isabella pediu que Henrico avisasse quando chegasse à residência de Roberto e depois contasse como foi a reunião. O envio da mensagem não está confirmado.
 - **Henrico–Aldo:** Henrico propôs chamar Enzo; Aldo concordou, afastou-se e tentou telefonar. Resultado desconhecido.

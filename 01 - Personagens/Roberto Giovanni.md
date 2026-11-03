@@ -26,3 +26,6 @@ Direção integral: [[Direção da Campanha — Reservado ao Mestre]].
 - **Conhece pessoalmente:** Henrico e Aldo.
 - **Contato pessoal atual:** está na mesma sala que Lorenzo na reunião de 01/11/2026; relação anterior não estabelecida.
 - **Não estabelecido que conheça pessoalmente:** Enzo, Isabella, Dario, Augusto, Vittoria, Tommaso, Rafael, Elena ou Matteo.
+
+## Atualização — após a reunião de 01/11/2026
+Roberto emprestou roupas a Lorenzo para cobrir as queimaduras solares. Depois, Henrico levou Lorenzo para jantar no Evo X. O Salve não especifica se Roberto soube do destino ou das atividades posteriores na Maison Belle; não atribuir a ele conhecimento da alimentação de Marina ou da gravação.

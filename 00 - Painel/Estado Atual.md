@@ -1,57 +1,47 @@
 # Estado Atual — Crônica Giovanni
 
 ## Situação da narrativa
-- **Status:** Cena em andamento; ponto de continuidade no meio de uma ligação ainda não concluída.
-- **Personagem acompanhado:** Henrico Giovanni, controlado pelo jogador.
-- **Data de referência:** manhã de 1º de novembro de 2026, aproximadamente.
-- **Local:** residência de Roberto Giovanni, sala de estar.
-- **Chegada:** Henrico retornou da residência de Isabella dirigindo a Mercedes de Roberto.
-
-## Personagens na cena
-- **Henrico:** presente na sala.
-- **Roberto:** permanece na sala com Henrico e Lorenzo.
-- **Lorenzo:** permanece na sala com Henrico e Roberto.
-- **Aldo:** afastado alguns passos, tentando telefonar para Enzo Bellini.
+- **Status:** cena em andamento; retomada no meio de uma conversa dentro do carro.
+- **Data de referência:** noite de 01/11/2026, aproximadamente. Não há horário exato confirmado.
+- **Local:** interior do Mitsubishi Lancer Evo X de Henrico, estacionado em um beco escuro próximo à Maison Belle.
+- **Presentes na cena:** Henrico Giovanni e Lorenzo, o Doutor.
+- **Henrico:** humano, ainda não Abraçado; controlado exclusivamente pelo jogador.
+- **Lorenzo:** vampiro da nona geração; alimentou-se de Marina há pouco e está visivelmente melhor, mas ainda tem queimaduras solares.
 
 ## Ponto exato de retomada
-A ligação de Aldo para Enzo está em andamento. Ainda não está confirmado que Aldo conseguiu falar com Enzo nem que Enzo aceitou comparecer. A cena deve retomar enquanto essa tentativa permanece sem resultado conhecido.
+Henrico disse acreditar que conseguiria alimentar-se de uma pessoa e machucá-la seriamente caso se tornasse vampiro. Lorenzo respondeu que isso seria possível, mas que a primeira alimentação poderia ser diferente das seguintes e que a fome poderia comprometer o julgamento. Lorenzo perguntou se Henrico considera a possibilidade de ferir alguém parte do preço do Abraço. **Henrico ainda não respondeu.**
 
-## Acontecimentos recentes
-1. Na noite de 31 de outubro, Henrico e Isabella tiveram um jantar e uma conversa importante sobre relacionamento, riscos e negócios da família.
-2. Henrico apresentou a Isabella três cenários hipotéticos; ela sabe que um corresponde à realidade, mas não sabe qual.
-3. Henrico e Isabella passaram a noite juntos na residência dela.
-4. Na manhã seguinte, Henrico acordou cedo, vestiu uma calça e foi preparar o café da manhã. Isabella se juntou a ele; depois Henrico retornou à residência de Roberto.
-5. Isabella pediu que Henrico avisasse quando chegasse e depois contasse como foi a reunião. Não está confirmado que ele tenha enviado a mensagem.
-6. Na residência de Roberto, Henrico indicou duas prioridades: encontrar Dario Nascimento e descobrir o que aconteceu com Vittoria após a demonstração do Custode delle Anime.
-7. Aldo concordou que as prioridades merecem atenção, mas recomendou prudência e que ninguém retorne à San Michele sem informações suficientes.
-8. Aldo ofereceu-se para tentar localizar Augusto por contatos antigos e intermediários. Não possui contato direto garantido; pretende primeiro saber se Augusto pode ser localizado e em quais condições, sem revelar de início todos os detalhes.
-9. Lorenzo compartilhou o que sabe e os limites de seu conhecimento sobre Augusto, Vittoria e o Projeto Sepulcro.
-10. Henrico sugeriu chamar Enzo novamente por conhecer melhor os aspectos operacionais e materiais da instalação. Aldo concordou e iniciou a ligação.
+## Sequência recente
+1. Na manhã de 01/11, Henrico esteve na residência de Roberto com Roberto, Aldo e Lorenzo. Aldo tentou contato com Enzo.
+2. Enzo recusou comparecer à residência enquanto Lorenzo estivesse presente. Disse que poderia conversar com Aldo, mas não aceitou encontro nem indicou local.
+3. Aldo decidiu providenciar acesso à San Michele para uma visita posterior com Henrico e Lorenzo. É um plano, não uma visita já realizada nem autorização detalhada já obtida.
+4. Henrico e Lorenzo estudaram por algumas horas na residência de Roberto. Roberto emprestou roupas a Lorenzo para cobrir as queimaduras.
+5. Henrico convidou Lorenzo para jantar e o levou no Evo X. No carro, Henrico explicou que quer conhecer Lorenzo, a natureza vampírica e o que poderia estar aceitando caso um dia escolhesse o Abraço. **Não decidiu aceitar o Abraço.** Lorenzo não o ofereceu e não pretende decidir por ele.
+6. Conversaram sobre fome, Besta, alimentação, mudanças na vida mortal, hierarquia, senhor e cria, a relação com Isabella, caça e doadores. Lorenzo disse que a virgindade não torna o sangue universalmente superior; relatou que já usou intermediários, doadores e caça, e que sua conduta nem sempre foi impecável.
+7. Henrico perguntou se Lorenzo se alimentaria dele com permissão. Lorenzo respondeu que sim, mas não naquela noite, por estar debilitado e pela falta de experiência de Henrico com a situação.
+8. Henrico revelou que escolhera a Maison Belle para que Lorenzo pudesse alimentar-se enquanto ele observava, após pesquisar o local e considerar a discrição de seus frequentadores. Queria evitar expor alguém a riscos sem entender as condições, embora também considerasse oferecer o próprio sangue. Na recepção, falou com uma funcionária e depois com a gerente Sílvia. Henrico ofereceu inicialmente R$ 5.000; Sílvia consultou Marina, que aceitou conversar. Após explicar a situação e responder às perguntas dela, Marina aceitou uma mordida no pescoço e a retirada de pequena quantidade de sangue, podendo pedir para parar.
+9. Lorenzo alimentou-se de Marina sem perder o controle. Ela permaneceu consciente e relatou tontura leve, dizendo estar bem. Lorenzo fechou as perfurações com saliva e se afastou. A alimentação melhorou sua condição, mas não curou as queimaduras.
+10. Henrico pagou R$ 2.500 adiantados e mais R$ 3.500 depois, totalizando R$ 6.000. Marina disse que manteria a experiência em privado.
+11. Henrico gravou secretamente a cena com Meta Glasses. Marina e Sílvia não foram informadas e não consentiram com a gravação. Lorenzo perguntou se Henrico estava gravando; Henrico negou e alegou precisar dos óculos por causa da pouca luz. Lorenzo desconfiou, mas não insistiu. O destino e uso do material não foram declarados.
+12. Henrico e Lorenzo voltaram ao Evo X. Lorenzo comentou que preferiria conhecer detalhes de futuros experimentos antes de chegar ao local; Henrico respondeu que aprecia um bom mistério.
+13. A conversa no carro prosseguiu até a pergunta de Lorenzo registrada no ponto exato de retomada.
 
-## Informações recentes de Lorenzo
-- Augusto e Vittoria eram casados. Segundo Lorenzo, Augusto iniciou pesquisas após a morte de Vittoria com a intenção de recuperá-la.
-- Lorenzo colaborou com Augusto no Projeto Sepulcro, sobretudo na parte necromântica, mas não conhecia o projeto inteiro. Havia procedimentos cujas finalidades não lhe eram explicadas.
-- Lorenzo ouviu posteriormente que Augusto teria diablerizado Cappadocius; não presenciou o acontecimento.
-- Lorenzo perdeu contato com Augusto e não sabe se ele se afastou ou se algo lhe aconteceu.
-- Tommaso, senhor de Lorenzo, também desapareceu; seu corpo nunca foi encontrado.
-- Lorenzo não sabe se a San Michele continuou o projeto original, foi modificada por terceiros ou se outras pessoas aproveitaram instalações antigas.
-- Lorenzo não conhece descendentes de Augusto e Vittoria e não tem informação que confirme que existam.
-- Preservar consciência não significa necessariamente ressuscitar alguém. Transferência para outro corpo, preservação indefinida, reconstrução de corpo e comunicação entre mortos e vivos foram discutidas como possibilidades, não como fatos ou objetivos confirmados do projeto.
-- “O sangue de Augusto ainda está aqui” pode ser literal, indicar vínculo sobrenatural ou significar outra coisa. Lorenzo não sabe se havia material biológico de Augusto na instalação.
-- “A última porta já estava aberta” pode indicar conclusão, falha de contenção ou condição preexistente; não há confirmação.
+## Conhecimento e limites atuais
+- Henrico sabe que Marina aceitou a alimentação, recebeu R$ 6.000 e disse que manteria a experiência em privado. Ele sabe que iniciou a gravação secreta e que não contou a Marina ou Sílvia.
+- Lorenzo sabe que se alimentou de Marina com a concordância dela. Suspeita que Henrico gravou a cena, mas Henrico negou; não registrar que Lorenzo confirmou a gravação.
+- Marina não sabe que foi gravada; não sabe os nomes de Henrico e Lorenzo. Ela consentiu com a mordida e a retirada de pouco sangue, não com a gravação.
+- Sílvia ouviu a proposta e consultou Marina; não recebeu os nomes dos dois e não sabe da gravação.
+- Isabella não conhece Lorenzo como vampiro, Maison Belle, a alimentação ou a gravação. Não atribuir a ela informações dessa noite.
+- Aldo está tentando localizar Augusto por intermediários. Ainda não há resultado.
+- Não houve decisão de Henrico sobre o Abraço nem proposta de Abraço por Lorenzo.
 
-## Mistérios e prioridades
-- Encontrar Dario Nascimento.
-- Descobrir o que aconteceu com Vittoria após a demonstração do Custode delle Anime.
-- Saber se Augusto pode ser localizado e em que condições, sem presumir resposta positiva.
-- Obter informações de Enzo sobre procedimentos, registros e funcionamento da instalação, caso ele responda e aceite comparecer.
-- Continuar sem associar automaticamente “o herdeiro” a Henrico ou a manifestação a Vittoria.
-
-## Conhecimento individual e limites
-- Os presentes na sala ouviram as informações compartilhadas durante a conversa; não transferir esse conhecimento a Isabella ou a personagens ausentes.
-- Aldo está tentando ligar para Enzo; o resultado ainda é desconhecido.
-- Isabella pediu mensagem de chegada e relato posterior da reunião; envio não confirmado.
-- Henrico conhece os estudos e relatos compartilhados por Lorenzo, mas não sabe o resultado da chamada, o paradeiro de Augusto ou Dario, nem a identidade da manifestação.
+## Pendências imediatas
+- Resposta de Henrico à pergunta de Lorenzo sobre aceitar o risco de ferir alguém como parte do Abraço.
+- O que Henrico fará com a gravação secreta.
+- A condição das queimaduras de Lorenzo após a alimentação.
+- Enzo não aceitou encontro; Aldo pretende falar com ele e providenciar acesso posterior à San Michele.
+- Localizar Dario, esclarecer o que ocorreu com Vittoria, interpretar as mensagens e localizar Augusto continuam pendentes.
+- Mensagem de Henrico a Isabella sobre chegada e reunião não confirmada; ela continua sem conhecimento da noite com Lorenzo.
 
 ## Referências
-[[Cronologia]] · [[Matriz de Conhecimento]] · [[Sessão 003]] · [[Henrico Giovanni]] · [[Isabella Moretti]] · [[Aldo Giovanni]] · [[Roberto Giovanni]] · [[Lorenzo]] · [[Enzo Bellini]] · [[Dario Nascimento]] · [[Augusto Giovanni]] · [[Vittoria Giovanni]] · [[Projeto Sepulcro]] · [[Em Aberto]]
+[[Cronologia]] · [[Sessão 003]] · [[Henrico Giovanni]] · [[Lorenzo]] · [[Aldo Giovanni]] · [[Roberto Giovanni]] · [[Enzo Bellini]] · [[Isabella Moretti]] · [[Marina]] · [[Sílvia]] · [[Maison Belle]] · [[Matriz de Conhecimento]] · [[Objetos e Documentos]] · [[Em Aberto]] · [[Segredos]]

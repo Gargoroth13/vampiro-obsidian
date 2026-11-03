@@ -10,6 +10,9 @@ Indivíduo encontrado na câmara frigorífica da [[San Michele]], aparentemente 
 - [[Enzo Bellini]] relatou que o sujeito 03 já havia passado por procedimentos anteriores e que Dario foi o primeiro a falar.
 - Dario desapareceu; uma porta secundária foi encontrada aberta. Seu paradeiro e condição atuais são desconhecidos.
 
+## Informação de continuidade — Salve de 01/11/2026
+O Salve identifica [[Lorenzo]] como responsável pelos experimentos em Dario e registra que Lorenzo participou do roubo do cadáver de Dario para pesquisa. A extensão da responsabilidade, ocasião/local do roubo, procedimentos específicos e o que Dario sabia sobre Lorenzo não estão detalhados. Não atribuir automaticamente esse conhecimento a Dario ou a outros personagens.
+
 ## Limites
 Os relatos sobre sua recuperação divergem. Não há informação confirmada sobre o que Dario sabe, o que lhe aconteceu após desaparecer ou sua relação com a manifestação.
 

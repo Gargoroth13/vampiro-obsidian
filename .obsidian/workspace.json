@@ -6,118 +6,19 @@
       {
         "id": "952e1e7cac0b92c6",
         "type": "tabs",
-        "dimension": 44.79695431472081,
         "children": [
-          {
-            "id": "6112e4f515e2595c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Painel/Cronologia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cronologia"
-            }
-          },
-          {
-            "id": "896d8c67f74ae936",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Personagens/Henrico Giovanni.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Henrico Giovanni"
-            }
-          },
-          {
-            "id": "80d07d9029409837",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Personagens/Roberto Giovanni.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Roberto Giovanni"
-            }
-          },
-          {
-            "id": "185a171668b0290b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Personagens/Aldo Giovanni.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aldo Giovanni"
-            }
-          },
-          {
-            "id": "333b81fcee257586",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Personagens/Lorenzo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lorenzo"
-            }
-          },
-          {
-            "id": "aee8659e42754db5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Personagens/Isabella Moretti.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Isabella Moretti"
-            }
-          },
-          {
-            "id": "aeef8196008ca5b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Personagens/Elena Giovanni.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elena Giovanni"
-            }
-          },
           {
             "id": "6e3c10169f9ca351",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Personagens/Matteo Giovanni.md",
+                "file": "98 - Saves atuais/Convenção de comunicação e primeiro salve.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matteo Giovanni"
+              "title": "Convenção de comunicação e primeiro salve"
             }
           },
           {
@@ -168,30 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Personagens/Vittoria Giovanni.md",
+                "file": "01 - Personagens/Lorenzo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vittoria Giovanni"
-            }
-          }
-        ],
-        "currentTab": 11
-      },
-      {
-        "id": "c566f5ae9147b368",
-        "type": "tabs",
-        "dimension": 55.203045685279186,
-        "children": [
-          {
-            "id": "8a28427244899059",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "title": "Lorenzo"
             }
           }
         ]
@@ -272,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 - Modelos/Modelo - Local.md",
+                "file": "98 - Saves atuais/Convenção de comunicação e primeiro salve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -363,35 +246,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a28427244899059",
+  "active": "6e3c10169f9ca351",
   "lastOpenFiles": [
+    "04 - Locais/Maison Belle.md",
+    "01 - Personagens/Sílvia.md",
+    "01 - Personagens/Marina.md",
+    "00 - Painel/Estado Atual.md",
+    "01 - Personagens/Matteo Giovanni.md",
+    "01 - Personagens/Elena Giovanni.md",
+    "01 - Personagens/Lorenzo.md",
+    "04 - Locais/San Michele.md",
+    "04 - Locais/Residência de Roberto.md",
+    "02 - Conhecimento/Objetos e Documentos.md",
+    "01 - Personagens/Dario Nascimento.md",
+    "01 - Personagens/Roberto Giovanni.md",
+    "01 - Personagens/Tommaso Giovanni.md",
     "01 - Personagens/Vittoria Giovanni.md",
     "01 - Personagens/Enzo Bellini.md",
     "00 - Painel/Direção da Campanha — Reservado ao Mestre.md",
-    "01 - Personagens/Tommaso Giovanni.md",
-    "01 - Personagens/Lorenzo.md",
     "01 - Personagens/Aldo Giovanni.md",
     "00 - Painel/Cronologia.md",
     "02 - Conhecimento/Mitsubishi Lancer Evo X.md",
-    "04 - Locais/San Michele.md",
     "05 - Ocultismo/Custode delle Anime.md",
-    "01 - Personagens/Dario Nascimento.md",
     "03 - Famílias e Facções/Projeto Sepulcro.md",
     "98 - Saves atuais/README.md",
-    "02 - Conhecimento/Objetos e Documentos.md",
     "02 - Conhecimento/Matriz de Conhecimento.md",
     "01 - Personagens/Isabella Moretti.md",
     "01 - Personagens/Henrico Giovanni.md",
-    "00 - Painel/Estado Atual.md",
     "00 - Painel/Início.md",
-    "98 - Saves atuais/Terceiro Salve.md",
-    "98 - Saves atuais/Segundo Salve.md",
-    "98 - Saves atuais/Convenção de comunicação e primeiro salve.md",
     "98 - Saves atuais",
-    "99 - Modelos/Modelo - Informação.md",
-    "99 - Modelos/Modelo - Sessão.md",
-    "99 - Modelos/Modelo - Personagem.md",
-    "01 - Personagens/Roberto Giovanni.md",
     "99 - Modelos",
     "08 - Investigações e Mistérios",
     "07 - Sessões",

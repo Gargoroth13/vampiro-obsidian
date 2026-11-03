@@ -15,3 +15,6 @@ O colar de diamantes foi um presente afetivo, não uma dívida ou obrigação.
 
 ## Referências
 [[Promessas]] · [[Relações]] · [[Henrico Giovanni]] · [[Lorenzo]] · [[Rafael Moreira]] · [[Objetos e Documentos]]
+
+## Maison Belle — 01/11/2026
+Henrico pagou R$ 2.500 de adiantamento e mais R$ 3.500 a Marina após a alimentação, totalizando R$ 6.000. Não há dívida financeira pendente registrada. A promessa verbal de Marina de manter a experiência privada está em [[Promessas]]. A gravação secreta de Henrico não foi consentida por Marina e não deve ser tratada como parte do acordo.

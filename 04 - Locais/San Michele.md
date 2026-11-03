@@ -13,7 +13,10 @@ Após os acontecimentos, a equipe isolou a funerária, preservou gravações e i
 [[Projeto Sepulcro]] · [[Outros Locais]] · [[Cronologia]] · [[Dario Nascimento]] · [[Lorenzo]] · [[Em Aberto]]
 
 ## Discussão de 01/11/2026
-Henrico e Aldo consideram prioritário encontrar Dario e esclarecer o que aconteceu com Vittoria. Aldo recomenda não retornar à instalação sem informações suficientes. A ligação para Enzo permanece sem resposta confirmada; não há mudança registrada no isolamento nem na condição física do local.
+Henrico e Aldo consideram prioritário encontrar Dario e esclarecer o que aconteceu com Vittoria. Aldo recomenda não retornar à instalação sem informações suficientes. Enzo recusou comparecer à residência de Roberto enquanto Lorenzo estivesse presente, mas disse que poderia conversar com Aldo; encontro ou local ainda não definidos. Aldo pretende providenciar acesso posterior para Henrico e Lorenzo. Não há mudança registrada no isolamento nem na condição física do local.
+
+## Atualização — noite de 01/11/2026
+Enzo recusou comparecer à residência de Roberto enquanto Lorenzo estivesse presente. Disse que poderia conversar com Aldo, mas não aceitou encontro nem indicou local. Aldo decidiu providenciar acesso à San Michele para visita posterior com Henrico e Lorenzo. **A visita, autorização de acesso e qualquer mudança no isolamento ainda não ocorreram/não estão confirmadas.**
 
 ## Direção do Mestre — consequências da instalação
 **MESTRE — SPOILERS INTEGRAIS.** Informação reservada; não usar como conhecimento dos personagens antes de descoberta em jogo.

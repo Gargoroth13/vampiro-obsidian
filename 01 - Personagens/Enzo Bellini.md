@@ -20,7 +20,7 @@ O que sabia sobre Augusto, Vittoria e a manifestação; sua participação nos p
 [[Projeto Sepulcro]] · [[San Michele]] · [[Dario Nascimento]] · [[Matriz de Conhecimento]] · [[Em Aberto]]
 
 ## Situação de contato — 01/11/2026
-Aldo está tentando telefonar para Enzo a pedido de Henrico. Ainda não se sabe se a chamada foi atendida nem se Enzo aceitará comparecer. Não atribuir a Enzo conhecimento da conversa na residência de Roberto.
+Após a tentativa de contato, Enzo recusou comparecer à residência de Roberto enquanto Lorenzo estivesse presente. Disse que poderia conversar com Aldo, mas não aceitou encontro nem indicou local. Não há confirmação de que Enzo conheça a conversa de Henrico e Lorenzo ou a proposta de uma visita posterior à San Michele.
 
 ## Planos futuros — Mestre (spoilers)
 **MESTRE — SPOILERS.** Conteúdo reservado; as possibilidades não são acontecimentos já ocorridos nem resultados obrigatórios.

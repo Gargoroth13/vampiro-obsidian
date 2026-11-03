@@ -18,8 +18,8 @@ Isabella também falou sobre os riscos para o casal e sobre a educação de even
 ## Presente
 Henrico presenteou Isabella com um colar de pequenos diamantes. A gravação do cartão era “Al mio amore, da H.G.”. Ela ficou emocionada, beijou Henrico e demonstrou vontade de usar o presente.
 
-## Última cena registrada
-Na noite de 31 de outubro de 2026, depois do jantar, Henrico foi com Isabella para a residência dela, pois a residência de Henrico estava indisponível. Os dois trocaram carinho; a cena íntima no banheiro terminou em fade-to-black. O despertar e a manhã seguinte não foram narrados.
+## Cena da noite de 31/10/2026 — registro histórico
+Depois do jantar, Henrico foi com Isabella para a residência dela, pois a residência de Henrico estava indisponível. Os dois trocaram carinho; a cena íntima no banheiro terminou em fade-to-black. O registro original foi posteriormente continuado; ver a atualização da manhã de 01/11/2026 abaixo e [[Estado Atual]].
 
 ## Limites de continuidade
 Não presumir que Isabella conhece Lorenzo, a [[San Michele]], o [[Projeto Sepulcro]], [[Vittoria Giovanni]] ou os detalhes da sociedade vampírica. Sua abertura para conversar sobre o sobrenatural não equivale a conhecimento ou consentimento para participar. Consultar [[Matriz de Conhecimento]] e [[Estado Atual]].

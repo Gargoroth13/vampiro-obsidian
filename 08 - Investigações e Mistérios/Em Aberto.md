@@ -12,14 +12,17 @@
 ## Relações e estudos
 - Retomar as aulas de necromancia e tradições Hecata com Lorenzo.
 - Conversar com Isabella sobre o que Henrico pode revelar dos assuntos familiares e sobrenaturais, respeitando a autonomia dela.
-- Atualizar o ponto da crônica após o despertar, quando for narrado.
+- Acompanhar a continuação da manhã e noite de 01/11/2026; o ponto atual está registrado em [[Estado Atual]] e [[Sessão 003]].
+- Esclarecer se Enzo aceitará conversar com Aldo e em que condições; Aldo pretende providenciar acesso posterior à San Michele, ainda pendente.
+- A resposta de Henrico à pergunta de Lorenzo sobre aceitar ferir alguém como possível custo do Abraço ainda não foi dada.
+- O destino e uso da gravação secreta feita por Henrico na Maison Belle não foram declarados. Marina e Sílvia não sabem da gravação; Lorenzo apenas suspeitou.
 
 ## Referências
 [[Segredos]] · [[Informações Não Confirmadas]] · [[Projeto Sepulcro]] · [[Cronologia]] · [[Matriz de Conhecimento]]
 
 ## Atualização da reunião — 01/11/2026
 - Aldo tentará localizar Augusto por contatos antigos e intermediários. A tentativa não garante que ele seja encontrado; o primeiro passo é descobrir se pode ser localizado e em quais condições.
-- Aldo iniciou uma ligação para Enzo a pedido de Henrico. Não há confirmação de atendimento ou de que Enzo aceite comparecer.
+- Enzo recusou comparecer à residência de Roberto enquanto Lorenzo estivesse presente, mas disse que poderia conversar com Aldo. Não aceitou encontro nem indicou local. Aldo pretende providenciar acesso à San Michele para visita posterior com Henrico e Lorenzo; tudo isso continua pendente.
 - Henrico priorizou localizar Dario e esclarecer o que aconteceu com Vittoria depois da demonstração.
 - Lorenzo não sabe se o Sepulcro continuou o projeto original ou foi alterado por terceiros.
 - Possíveis objetivos envolvendo consciência foram discutidos, mas permanecem hipóteses, não respostas.
