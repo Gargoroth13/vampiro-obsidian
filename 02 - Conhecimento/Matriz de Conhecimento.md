@@ -470,3 +470,35 @@ O Salve registra Henrico, Roberto e Lorenzo na sala; Aldo participa da conversa 
 
 ### Limite de atribuição — experimentos e cadáver de Dario
 O Salve identifica Lorenzo como responsável pelos experimentos em Dario e diz que Lorenzo participou do roubo do cadáver para pesquisa. Não especifica quando nem como Henrico recebeu essa informação, nem o que Dario ou os demais sabem sobre isso. Registrar como informação de continuidade sobre Lorenzo; não atribuí-la automaticamente ao conhecimento de Henrico ou de qualquer outro personagem.
+
+## Atualização — 03 e 04/11/2026
+
+### Henrico
+- **Decisão própria:** decidiu casar com Isabella; contou a Roberto na noite de 03/11 e recebeu aprovação com ressalvas. Ainda não pediu Isabella em casamento.
+- **Conversa com Isabella:** sabe que ela ouviu seus receios sobre seu caráter, disse que o ama como o conhece, quer conhecer suas partes difíceis e não quer que ele decida sozinho; ela perguntou se alguém pagava por atos dele e Henrico encerrou o assunto.
+- **Joalheria:** conhece os parâmetros do projeto e a apresentação privada prevista para 05/11; não escolheu pedra nem aprovou desenho. A consultora não sabe o nome da futura noiva.
+- **Clínica:** sabe o que conversou com Dr. Marcelo sobre coleta, armazenamento e documentação. Coleta concluída e Camila levou o material ao laboratório; análise pendente. Ainda não decidiu período, contrato, reunião jurídica ou documentação. Deseja indicar Isabella, mas não conversou com ela.
+- **Lorenzo/San Michele:** sabe que Lorenzo concordou em encontrá-lo às 19h e que Aldo organizou acesso para essa noite; registros e servidor não foram examinados.
+
+### Isabella
+- **Sabe:** Henrico compartilhou receios pessoais e encerrou sua pergunta sobre se alguém estava pagando por atos dele. Ela deseja honestidade e participação, mas não conhece os detalhes.
+- **Não sabe:** decisão de casamento, busca do anel, consulta/coleta, amostras ou intenção de ser indicada. Não se presume que ligação/visita combinadas para 04/11 tenham ocorrido.
+
+### Roberto
+- **Sabe:** Henrico decidiu que quer se casar com Isabella e buscava sua aprovação; ouviu suas preocupações sobre segredos familiares e mortalidade. Aprovou com ressalvas. Sabe da possibilidade de procurar o anel formal do avô e disse que tentaria falar com Aldo.
+- **Não estabelecido:** que saiba da joalheria, clínica ou coleta.
+
+### Lorenzo
+- **Sabe:** Henrico passaria o dia com Isabella e voltaria às 19h para buscá-lo; concordou. Aldo organizou acesso à San Michele conforme o planejamento.
+- **Não sabe:** decisão de casamento, joalheria, consulta, coleta ou documentação.
+
+### Aldo
+- **Sabe/fez:** organizou acesso à San Michele para Henrico e Lorenzo na noite de 04/11, para examinar registros e servidor independente. A visita ainda não ocorreu.
+- **Enzo:** sabe que Enzo recusou ir à casa de Roberto com Lorenzo presente, mas disse que poderia conversar; local, forma e encontro continuam indefinidos.
+- **Não estabelecido:** que Roberto já tenha falado com ele sobre o anel do avô.
+
+### Dr. Marcelo e Camila
+- **Dr. Marcelo:** sabe a motivação e preferências de Henrico para preservação; explicou armazenamento e necessidade de consentimento/documentação formal para destinação após morte. Perguntou se Henrico quer contratar o maior período; resposta pendente.
+- **Camila:** acompanhou a preparação, recebeu recipiente identificado e encaminhou a amostra ao laboratório. O que sabe além do procedimento não está estabelecido.
+
+**Fonte:** Salve fornecido pelo jogador. Não inferir resultados laboratoriais ou transferir informações pessoais aos NPCs ausentes.

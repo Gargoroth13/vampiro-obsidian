@@ -449,3 +449,26 @@ Henrico e Lorenzo voltaram ao Evo X, estacionado em beco escuro próximo à Mais
 A referência de regras adotada corrige a explicação anterior: o vínculo de sangue decorre do consumo de vitae vampírica pela outra pessoa; não surge simplesmente porque um vampiro se alimenta repetidamente de uma pessoa mortal. Não perpetuar a explicação equivocada do diálogo.
 
 **Fonte:** Salve fornecido pelo jogador. Distinguir fatos da cena, relatos de Lorenzo, suspeita de Lorenzo sobre a gravação e desconhecimento dos demais.
+
+## 11. Noite de 03/11 e manhã de 04/11/2026 — casamento, anel e preservação da fertilidade
+
+### Noite de 03/11 — conversa de Henrico e Roberto
+Henrico declarou que decidiu casar com Isabella e buscou a aprovação do pai. Falou dos segredos familiares e da própria mortalidade. Roberto aprovou, com ressalvas sobre não decidir por Isabella, não presumir que ela esteja pronta para todos os segredos e não tratar a própria vida como perdida. A possibilidade de procurar o anel formal do avô Giovanni foi levantada; Roberto tentaria falar com Aldo. O anel e a conversa com Aldo seguem sem resultado confirmado.
+
+### Noite de 03/11 — telefonema de Henrico e Isabella
+Henrico falou de dúvidas sobre o próprio caráter e receio de atos passados ou futuros. Isabella expressou amor, disposição para conhecer as partes difíceis e desejo de que Henrico não decida sozinho por ambos. Perguntou se alguém pagava por atos dele; Henrico encerrou o assunto. Combinaram ligação e tentativa de visita no dia seguinte; realização não confirmada. Isabella não foi informada da decisão de casamento.
+
+### Manhã de 04/11 — Lorenzo e San Michele
+Henrico encontrou Lorenzo na biblioteca da residência de Roberto. Lorenzo estava melhor, ainda com queimaduras em recuperação. Henrico fixou para 19h o horário de buscá-lo para ir à San Michele; Lorenzo concordou. Aldo organizou acesso para essa noite, mas a visita não ocorreu até o ponto atual. Pretendem examinar registros e servidor independente.
+
+### 04/11 — joalheria
+Henrico pediu projeto exclusivo de anel: diamante de seis quilates, lapidação esmeralda, platina, aro discreto, seis garras robustas e delicadas e gravação “Per sempre tuo. H.G.”. A consultora selecionará três pedras certificadas e preparará desenho e orçamento. Apresentação privada ficou pré-agendada para a manhã de 05/11, com possibilidade de antecipação. Não houve escolha, aprovação final, pagamento, fabricação ou entrega; a consultora não sabe o nome de Isabella.
+
+### 04/11 — clínica de reprodução humana
+Consulta originalmente marcada para 10h40 foi antecipada pelo Dr. Marcelo para cerca de 10h20. Henrico explicou que deseja preservar fertilidade por considerar perigosas suas atividades e manter a possibilidade de continuidade da linhagem caso morra. Quer o maior número de amostras e armazenamento pelo maior período possível; dinheiro não é problema. Deseja que Isabella possa decidir sobre eventual uso após sua morte, segundo requisitos legais.
+
+Foram solicitados exames clínicos e infecciosos e Henrico preencheu o histórico, sem resultados específicos confirmados. Henrico realizou pessoalmente a coleta e entregou recipiente identificado a Camila, que o levou ao laboratório. A amostra está no laboratório; a análise não foi concluída. Nenhuma informação sobre concentração, motilidade, morfologia, descongelamento, número de unidades ou coletas adicionais está disponível.
+
+Dr. Marcelo explicou que indicação de contato não basta para autorizar uso após a morte; serão necessários consentimento formal, documentação jurídica específica e observância das regras aplicáveis. Propôs revisar contrato, aguardar resultados, avaliar novas coletas e agendar reunião com o setor jurídico, incluindo Isabella. Ao final perguntou se Henrico quer contratar o maior período de armazenamento. **A cena parou antes da resposta.** Não há assinatura, pagamento, período escolhido ou reunião agendada.
+
+**Fonte:** Salve fornecido pelo jogador. Separar decisão de casar de pedido ainda não realizado; planos futuros de eventos já ocorridos; e dados laboratoriais desconhecidos. Para estado atual, ver [[Estado Atual]]; registro de sessão, [[Sessão 003]] e [[Quarto Salve]].

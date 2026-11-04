@@ -20,3 +20,10 @@ Não há outras promessas específicas registradas como vigentes. A conversa de 
 
 ## Atualização de 01/11/2026
 Isabella pediu que Henrico avisasse quando chegasse à residência de Roberto e depois lhe contasse como foi a reunião. Não está confirmado que ele tenha enviado a mensagem; registrar como pedido, não como promessa cumprida.
+
+## Atualização — 04/11/2026
+
+- **Henrico e Lorenzo:** Henrico disse que voltaria às 19h para buscá-lo; Lorenzo concordou. Plano de irem à San Michele, com acesso organizado por Aldo. Ainda não executado.
+- **Roberto:** disse que tentaria falar com Aldo sobre localizar o anel formal do avô Giovanni e que poderiam procurá-lo no dia seguinte. Conversa e busca não confirmadas.
+- **Dr. Marcelo/clínica:** proposta de revisar contrato, aguardar análise, avaliar coletas adicionais e agendar reunião jurídica com Isabella. Próximos passos propostos; nenhum contrato ou encontro agendado.
+- **Joalheria:** consultora apresentará três pedras certificadas, desenho e orçamento em sessão privada prevista para manhã de 05/11, com possibilidade de antecipação. Não é compromisso de compra ou fabricação.

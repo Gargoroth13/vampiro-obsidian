@@ -30,3 +30,10 @@ Registro de objetos relevantes e de sua situação conhecida. Não inferir posse
 - **Meta Glasses e gravação:** Henrico iniciou gravação secreta da alimentação de Marina. Marina e Sílvia não foram informadas nem consentiram. Lorenzo perguntou se Henrico estava gravando; Henrico negou e Lorenzo desconfiou, sem confirmar. Localização, cópias e uso futuro do arquivo não estabelecidos.
 - **Pagamento a Marina:** Henrico ofereceu inicialmente R$ 5.000; pagou R$ 2.500 de adiantamento e R$ 3.500 adicionais pela discrição; total R$ 6.000. Marina disse que manteria a experiência em privado.
 - **Roupas de Lorenzo:** Roberto lhe emprestou roupas para cobrir as queimaduras solares; devolução e situação atual não registradas.
+
+## Itens e documentos — 03 e 04/11/2026
+
+- **Projeto de anel de noivado:** em seleção/projeto com joalheria; diamante de seis quilates, lapidação esmeralda, platina, aro elegante e discreto, seis garras e gravação “Per sempre tuo. H.G.”. Três pedras certificadas, desenho e orçamento serão apresentados privadamente na manhã de 05/11 (possível antecipação). Não é propriedade entregue a Henrico: nada foi escolhido, pago, fabricado ou recebido. A consultora não sabe o nome de Isabella.
+- **Anel formal do avô Giovanni:** possível peça da família, talvez com Aldo ou entre outras peças. Localização não confirmada; Roberto tentaria falar com Aldo. Não confundir com o projeto novo.
+- **Amostra biológica de Henrico:** coleta realizada em 04/11; recipiente identificado entregue a Camila e encaminhado ao laboratório. Análise pendente; não há resultados, quantidade de unidades ou plano de coletas adicionais confirmado.
+- **Contrato e documentação da clínica:** ainda não assinados/concluídos. Período de armazenamento não escolhido. Reunião jurídica futura foi proposta, mas não agendada.

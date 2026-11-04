@@ -36,3 +36,11 @@ Direção integral: [[Direção da Campanha — Reservado ao Mestre]].
 
 ## Atualização — noite de 01/11/2026
 Enzo recusou comparecer à residência de Roberto enquanto Lorenzo estivesse presente. Disse que poderia conversar com Aldo, mas não aceitou encontro nem indicou local. Aldo decidiu providenciar acesso à San Michele para uma visita posterior com Henrico e Lorenzo. O acesso e a visita continuam pendentes; não registrar como autorização já obtida. A busca indireta por Augusto continua sem resultado.
+
+## Atualização — acesso à San Michele, noite de 04/11/2026
+
+Aldo organizou o acesso à San Michele para Henrico e Lorenzo na noite de 04/11. O propósito é examinar registros e servidor independente, conforme proposta anterior de Lorenzo. A visita ainda está no futuro neste ponto; resultado e situação do servidor permanecem desconhecidos.
+
+A tentativa de contato com Enzo continua sem reunião confirmada: Aldo ligou, Enzo atendeu e recusou ir à residência de Roberto com Lorenzo presente, dizendo que poderia conversar com Aldo. Não definiu local nem forma, e não confirmou encontro.
+
+Roberto pretende conversar com Aldo sobre procurar o anel formal do avô Giovanni, mas não há confirmação de que já o tenha feito nem que Aldo saiba dessa intenção.

@@ -655,3 +655,11 @@ Ao concluir, apresentar:
 **Princípio final:** o Mestre conhece a direção da campanha, seus segredos, seus conflitos e seus possíveis desfechos. O jogador conhece apenas o que Henrico descobre. A história deve avançar por iniciativa do mundo e dos NPCs, mas seu resultado deve continuar aberto às escolhas do protagonista.
 ## Referências de execução
 [[Estado Atual]] · [[Cronologia]] · [[Matriz de Conhecimento]] · [[Projeto Sepulcro]] · [[Custode delle Anime]] · [[Outras Facções]] · [[Em Aberto]]
+
+## Continuidade após o Salve de 04/11/2026
+
+**Nota reservada ao Mestre.** O estado e as decisões de 03–04/11 estão em [[Estado Atual]] e [[Quarto Salve]]. Não transferir esta direção reservada para o conhecimento de Henrico ou NPCs.
+
+A campanha deve deixar espaço concreto para as linhas pessoais, familiares, políticas, românticas e sociais de Henrico além do Projeto Sepulcro. A decisão de casar, a preservação da fertilidade, a relação com Isabella, os laços com Roberto e Aldo, a ambição, o patrimônio, o aprendizado de necromancia e as dúvidas sobre mortalidade/Abraço são fios independentes que podem avançar por iniciativa de NPCs e consequências plausíveis. Nenhum deles é trilho obrigatório nem resolve automaticamente outro. Isabella mantém autonomia e objetivos próprios; não presumir aceitação de casamento, participação na família ou responsabilidade legal pelas amostras. Preservar o espaço para mudança de rumo do jogador.
+
+A visita a San Michele às 19h de 04/11 está organizada, mas ainda não ocorreu no ponto atual. A próxima resposta de Henrico à pergunta do Dr. Marcelo é decisão do jogador. Não narrar consequências clínicas, resultado laboratorial, anel concluído ou encontro ocorrido sem cenas correspondentes.

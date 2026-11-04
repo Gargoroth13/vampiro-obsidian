@@ -37,3 +37,11 @@ Direção integral: [[Direção da Campanha — Reservado ao Mestre]].
 ## Personagens conhecidos
 - **Conhece pessoalmente:** Henrico.
 - **Não estabelecido que conheça pessoalmente:** Roberto, Aldo, Lorenzo, Enzo, Dario, Augusto, Vittoria, Tommaso, Rafael, Elena ou Matteo.
+
+## Atualização — telefonema de 03/11/2026
+
+Henrico telefonou e falou sobre receios pessoais: talvez não ser tão virtuoso quanto ela pensa, ter feito coisas ruins e poder vir a justificá-las. Isabella disse que não espera perfeição, ama o homem que conhece e deseja conhecer também as partes que ele teme mostrar. Reafirmou que não quer que Henrico decida sozinho o que é melhor para os dois. Perguntou se alguém estava pagando por atos dele; Henrico pediu para encerrar o assunto. Isabella não pressionou, mas disse que não quer que o silêncio se transforme numa parede entre eles. Combinaram que Henrico ligaria no dia seguinte e tentaria visitá-la; não está confirmado que isso ocorreu.
+
+Isabella ama Henrico e quer construir um futuro com ele; valoriza honestidade, confiança, autonomia e participação em decisões que possam afetar sua vida. Preocupa-se com os riscos que ele enfrenta e demonstrou disposição para conhecer aspectos difíceis de sua personalidade. Ela não exige participar de todas as atividades familiares nem aceita ser mantida na ignorância sob o argumento de proteção.
+
+**Não sabe:** que Henrico decidiu casar, está procurando um anel, pretende pedi-la em casamento, foi à clínica, realizou coleta ou quer indicá-la para decidir sobre o material após sua morte. Nada disso foi conversado com ela. Não registrar que aceitou casamento, pedido ou responsabilidade pelas amostras.

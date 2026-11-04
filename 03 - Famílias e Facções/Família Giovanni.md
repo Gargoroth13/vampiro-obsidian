@@ -6,7 +6,7 @@ Família de Henrico, ligada a negócios, influência e a tradições associadas 
 - [[Henrico Giovanni]] — protagonista, humano, filho de Roberto.
 - [[Roberto Giovanni]] — pai de Henrico e irmão de Aldo.
 - [[Aldo Giovanni]] — tio de Henrico, influente e conhecedor dos círculos Hecata.
-- [[Augusto Giovanni]] — ancestral associado ao [[Projeto Sepulcro]], conforme registros e relatos de Lorenzo.
+- [[Augustus Giovanni]] — ancestral associado ao [[Projeto Sepulcro]], conforme registros e relatos de Lorenzo.
 - [[Vittoria Giovanni]] — esposa de Augusto, falecida no século XIX segundo Lorenzo.
 - [[Elena Giovanni]] e [[Matteo Giovanni]] — nomes presentes no vault; parentesco e papel não estabelecidos.
 

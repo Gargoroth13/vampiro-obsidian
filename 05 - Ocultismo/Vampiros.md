@@ -8,7 +8,7 @@
 - As tradições Giovanni são associadas aos Hecata nos registros da crônica.
 
 ## Limites
-Os estudos não estabelecem que Henrico possua poderes, Disciplinas ou conhecimento completo sobre a sociedade vampírica. A informação de que [[Augusto Giovanni]] teria realizado diablerie de Cappadocius é relato de Lorenzo, não confirmação independente.
+Os estudos não estabelecem que Henrico possua poderes, Disciplinas ou conhecimento completo sobre a sociedade vampírica. A informação de que [[Augustus Giovanni]] teria realizado diablerie de Cappadocius é relato de Lorenzo, não confirmação independente.
 
 ## Referências
 [[Necromancia]] · [[Espíritos]] · [[Família Giovanni]] · [[Outras Facções]] · [[Matriz de Conhecimento]]

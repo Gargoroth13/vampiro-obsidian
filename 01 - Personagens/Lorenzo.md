@@ -5,10 +5,13 @@
 - Foi Abraçado em 1876, no norte da Itália, por [[Tommaso Giovanni]], vampiro da oitava geração.
 - Pesquisador de necromancia, morte e consciência.
 
+## Personalidade
+Culto, reservado, irônico, metódico, orgulhoso, pragmático e curioso. Tem interesses registrados por história, literatura, música, cidades antigas, igrejas, bibliotecas, viagens, jogos de estratégia, vinho e conversas. Mantém autonomia e limites morais próprios; não concorda automaticamente com Henrico.
+
 ## História e relações
 Tommaso estudava tradições necromânticas, desapareceu há muitas décadas e nunca foi encontrado por Lorenzo. Lorenzo herdou parte de sua coleção de pesquisas.
 
-Lorenzo colaborou historicamente com [[Augusto Giovanni]] no [[Projeto Sepulcro]], mas a extensão dessa colaboração não está estabelecida. Conhece [[Aldo Giovanni]] pela trajetória e posição nos círculos Hecata, sem relação pessoal antiga.
+Lorenzo colaborou historicamente com [[Augustus Giovanni]] no [[Projeto Sepulcro]], mas a extensão dessa colaboração não está estabelecida. Conhece [[Aldo Giovanni]] pela trajetória e posição nos círculos Hecata, sem relação pessoal antiga.
 
 Henrico o salvou durante a fuga da [[San Michele]]. Lorenzo prometeu ensinar a Henrico necromancia, tradições Hecata e sociedade vampírica. Os dois estabeleceram uma parceria intelectual para compartilhar conhecimento e organizar o acervo.
 
@@ -19,7 +22,7 @@ Lorenzo sofreu queimaduras solares durante a fuga e está em recuperação. Diss
 Lorenzo relata que Augusto iniciou o Projeto Sepulcro após a morte de [[Vittoria Giovanni]] e teria realizado diablerie de Cappadocius. Não confirmou que a manifestação feminina seja Vittoria. Seu relato sobre Dario diverge do de [[Enzo Bellini]]: Lorenzo o descreveu como o primeiro a recuperar a consciência espontaneamente, enquanto Enzo disse que Dario foi o primeiro a falar após procedimentos anteriores.
 
 ## Referências
-[[Henrico Giovanni]] · [[Aldo Giovanni]] · [[Augusto Giovanni]] · [[Tommaso Giovanni]] · [[Dario Nascimento]] · [[Matriz de Conhecimento]] · [[Promessas]] · [[Dívidas e Favores]]
+[[Henrico Giovanni]] · [[Aldo Giovanni]] · [[Augustus Giovanni]] · [[Tommaso Giovanni]] · [[Dario Nascimento]] · [[Matriz de Conhecimento]] · [[Promessas]] · [[Dívidas e Favores]]
 
 ## Atualização — conversa de 01/11/2026
 Lorenzo disse que colaborou com Augusto principalmente na parte necromântica, mas não conhecia o projeto inteiro; algumas finalidades de procedimentos não lhe eram explicadas. Perdeu contato com Augusto, sem saber se ele se afastou ou se algo ocorreu. Ouviu que Augusto teria diablerizado Cappadocius, mas não presenciou. Não conhece descendentes confirmados de Augusto e Vittoria, nem sabe se a San Michele manteve ou modificou o projeto original.
@@ -51,3 +54,9 @@ No Evo X estacionado em um beco próximo à Maison Belle, Lorenzo perguntou a He
 
 ## Informação de histórico registrada no Salve
 O Salve identifica Lorenzo como responsável pelos experimentos em [[Dario Nascimento]] e registra que participou do roubo do cadáver de Dario para pesquisa. A natureza exata de sua responsabilidade, a ocasião/local do roubo e o que Dario ou outros personagens sabem sobre isso não são detalhados aqui. Não atribuir automaticamente esse conhecimento a Henrico ou a outros personagens.
+
+## Atualização — manhã de 04/11/2026
+
+Henrico encontrou Lorenzo na biblioteca da residência de Roberto. Lorenzo estava fisicamente melhor do que antes, embora ainda em recuperação das queimaduras solares. Henrico brincou que a sessão com Marina na noite anterior parecia ter produzido bons resultados. Disse que passaria o dia com Isabella e voltaria às 19h para buscá-lo; o plano era ir à funerária/San Michele naquela noite. Lorenzo concordou com o horário. Aldo organizou o acesso à San Michele para a noite de 04/11; exame dos registros e servidor independente ainda não ocorreu. Lorenzo havia sugerido inicialmente 19h30; Henrico fixou 19h e Lorenzo concordou.
+
+Lorenzo não foi informado sobre consulta de fertilidade, coleta, anel ou decisão de casamento. Preservar seu temperamento culto, reservado, irônico, metódico, orgulhoso, pragmático e curioso; seus interesses por história, literatura, música, cidades antigas, igrejas, bibliotecas, viagens, estratégia, vinho e conversas; sua autonomia e limites morais. O jantar de 03/11 e a troca sobre música, carros e interesses pessoais permanecem nas entradas anteriores e não devem ser substituídos.

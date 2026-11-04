@@ -1,7 +1,7 @@
 # Projeto Sepulcro
 
 ## Visão geral
-Projeto associado a [[Augusto Giovanni]] e instalado em complexo subterrâneo anterior à funerária [[San Michele]]. O local possui vários setores, incluindo S-01, e pesquisas relacionadas a corpo, sangue, consciência e morte.
+Projeto associado a [[Augustus Giovanni]] e instalado em complexo subterrâneo anterior à funerária [[San Michele]]. O local possui vários setores, incluindo S-01, e pesquisas relacionadas a corpo, sangue, consciência e morte.
 
 ## Registros e administração
 - Segundo [[Lorenzo]], há registros de 32 procedimentos desde 1998.
@@ -19,7 +19,7 @@ Durante demonstração do [[Custode delle Anime]], uma manifestação feminina t
 A família isolou a San Michele e não pretende retornar até compreender melhor o ocorrido. [[Dario Nascimento]] desapareceu; sua localização não é conhecida.
 
 ## Referências
-[[San Michele]] · [[Augusto Giovanni]] · [[Vittoria Giovanni]] · [[Lorenzo]] · [[Enzo Bellini]] · [[Dario Nascimento]] · [[Cronologia]] · [[Matriz de Conhecimento]]
+[[San Michele]] · [[Augustus Giovanni]] · [[Vittoria Giovanni]] · [[Lorenzo]] · [[Enzo Bellini]] · [[Dario Nascimento]] · [[Cronologia]] · [[Matriz de Conhecimento]]
 
 ## Informação adicional compartilhada por Lorenzo — 01/11/2026
 Lorenzo disse que colaborou com Augusto sobretudo na parte necromântica, mas não conhecia o projeto inteiro e não recebia explicação sobre alguns procedimentos. Não sabe se a San Michele preservou o projeto original, foi modificada por terceiros ou se terceiros aproveitaram a estrutura antiga. Não conhece descendentes confirmados de Augusto e Vittoria.

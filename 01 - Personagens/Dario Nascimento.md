@@ -5,7 +5,7 @@ Indivíduo encontrado na câmara frigorífica da [[San Michele]], aparentemente 
 
 ## Acontecimentos registrados
 - Demonstrou consciência e capacidade de comunicação.
-- Pronunciou o nome de [[Augusto Giovanni]].
+- Pronunciou o nome de [[Augustus Giovanni]].
 - [[Lorenzo]] o descreveu como o primeiro a recuperar a consciência espontaneamente.
 - [[Enzo Bellini]] relatou que o sujeito 03 já havia passado por procedimentos anteriores e que Dario foi o primeiro a falar.
 - Dario desapareceu; uma porta secundária foi encontrada aberta. Seu paradeiro e condição atuais são desconhecidos.
@@ -17,7 +17,7 @@ O Salve identifica [[Lorenzo]] como responsável pelos experimentos em Dario e r
 Os relatos sobre sua recuperação divergem. Não há informação confirmada sobre o que Dario sabe, o que lhe aconteceu após desaparecer ou sua relação com a manifestação.
 
 ## Referências
-[[Lorenzo]] · [[Enzo Bellini]] · [[Augusto Giovanni]] · [[Projeto Sepulcro]] · [[Em Aberto]] · [[Matriz de Conhecimento]]
+[[Lorenzo]] · [[Enzo Bellini]] · [[Augustus Giovanni]] · [[Projeto Sepulcro]] · [[Em Aberto]] · [[Matriz de Conhecimento]]
 
 ## Planos futuros — Mestre (spoilers)
 **MESTRE — SPOILERS.** Conteúdo reservado; as possibilidades não são acontecimentos já ocorridos nem resultados obrigatórios.

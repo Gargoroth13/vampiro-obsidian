@@ -11,3 +11,7 @@ Henrico dirigiu o Evo X com Lorenzo até a [[Maison Belle]]. Depois da alimenta�
 
 ## Referências
 [[Henrico Giovanni]] · [[Rafael Moreira]] · [[Objetos e Documentos]] · [[Cronologia]]
+
+## Uso em 04/11/2026
+
+Henrico saiu da residência de Roberto com o Evo X, visitou uma joalheria e seguiu à clínica de reprodução humana em São Paulo. Situação mecânica e local atual do veículo não foram registrados. O plano de buscar Lorenzo às 19h permanece pendente.

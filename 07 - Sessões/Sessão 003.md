@@ -45,3 +45,22 @@ Henrico iniciou secretamente uma gravação com Meta Glasses. Marina e Sílvia n
 **Ponto atual:** Henrico e Lorenzo estão no Evo X, estacionado em um beco escuro próximo à Maison Belle. Lorenzo perguntou se Henrico considera a possibilidade de ferir alguém parte do preço do Abraço; Henrico ainda não respondeu. A data é noite de 01/11/2026, aproximadamente, sem horário exato. A numeração da sessão permanece sem confirmação.
 
 **Fonte:** Salve fornecido pelo jogador. Não atribuir a Isabella, Aldo, Roberto, Marina ou Sílvia conhecimentos que o Salve não estabelece.
+
+## Continuação — noite de 03/11 e manhã de 04/11/2026
+
+A numeração da sessão permanece sem confirmação. Este trecho registra a continuação mais recente, sem substituir acontecimentos anteriores.
+
+### Noite de 03/11 — Roberto e Isabella
+Henrico contou a Roberto que decidiu se casar com Isabella e pediu sua aprovação. Roberto aprovou com ressalvas: casamento não significa que Isabella esteja pronta para todos os segredos; Henrico não deve decidir sozinho por ela nem tratar a própria vida como perdida. A possibilidade de buscar o anel formal do avô Giovanni foi discutida; Roberto tentaria falar com Aldo. Pedido não realizado; Isabella não sabe.
+
+Henrico telefonou a Isabella e compartilhou receios sobre seu caráter e possíveis atos ruins. Isabella disse que não espera perfeição e quer conhecer as partes que ele teme mostrar; pediu que ele não decida sozinho por ambos. Perguntou se alguém estava pagando pelos atos dele; Henrico encerrou o assunto. Ela alertou que o silêncio não deve virar uma parede. Combinaram contato e tentativa de visita no dia seguinte, sem confirmação de cumprimento.
+
+### Manhã de 04/11 — biblioteca
+Henrico encontrou Lorenzo na biblioteca da residência de Roberto. Lorenzo estava melhor, ainda se recuperando das queimaduras solares. Henrico brincou sobre os resultados da alimentação de Marina e informou que passaria o dia com Isabella; voltaria às 19h para buscá-lo. Lorenzo concordou. Aldo organizou acesso à San Michele para a noite, visando examinar registros e servidor independente. A visita ainda não aconteceu.
+
+### 04/11 — joalheria e clínica
+Henrico pediu projeto exclusivo de anel com diamante de seis quilates, lapidação esmeralda, platina, aro discreto, seis garras e gravação “Per sempre tuo. H.G.”. A consultora apresentará três pedras certificadas, desenho e orçamento; apresentação privada prevista para a manhã de 05/11, possivelmente antecipável. Sem pedra escolhida, aprovação, pagamento, fabricação ou pedido de casamento. A consultora não sabe o nome de Isabella.
+
+Na clínica, após consulta antecipada para cerca de 10h20 (marcada inicialmente às 10h40), Henrico explicou sua motivação e realizou a coleta. Camila levou a amostra identificada ao laboratório. Resultados e unidades ainda desconhecidos; Dr. Marcelo explicou armazenamento e documentação necessária para eventual destinação após a morte e propôs revisão de contrato, avaliação de novas coletas e reunião jurídica com Isabella. **Ponto de parada:** por volta de 10h40, o médico perguntou se Henrico quer contratar o maior período de armazenamento. Henrico ainda não respondeu.
+
+Ver [[Estado Atual]], [[Cronologia]], [[Matriz de Conhecimento]] e [[Quarto Salve]]. Fonte: Salve fornecido pelo jogador.

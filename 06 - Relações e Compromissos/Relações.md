@@ -10,7 +10,7 @@
 | Henrico — [[Rafael Moreira]] | Melhor amigo desde os oito anos. | Conhecimento de Rafael sobre assuntos sobrenaturais não estabelecido. |
 | Aldo — Lorenzo | Desconfiança; não há intimidade pessoal antiga estabelecida. | Lorenzo conhecia a trajetória e posição de Aldo nos círculos Hecata. |
 | Lorenzo — [[Tommaso Giovanni]] | Senhor e cria. | Tommaso desapareceu; destino desconhecido. |
-| Lorenzo — [[Augusto Giovanni]] | Colaboração histórica no Sepulcro, segundo registros/relatos. | Extensão e natureza da colaboração não esclarecidas. |
+| Lorenzo — [[Augustus Giovanni]] | Colaboração histórica no Sepulcro, segundo registros/relatos. | Extensão e natureza da colaboração não esclarecidas. |
 
 ## Referências
 [[Matriz de Conhecimento]] · [[Promessas]] · [[Dívidas e Favores]] · [[Família Giovanni]]
@@ -28,3 +28,9 @@
 - **Henrico–Aldo:** Henrico propôs chamar Enzo; Aldo concordou, afastou-se e tentou telefonar. Resultado desconhecido.
 - **Henrico–Lorenzo:** Lorenzo compartilhou limites de seu conhecimento do Sepulcro e hipóteses, sem apresentar respostas definitivas.
 - **Henrico–Roberto:** reunidos na sala da residência de Roberto; nenhum acordo novo com Roberto foi registrado.
+
+## Atualização — 03/11/2026
+
+- **Henrico — Isabella:** Henrico decidiu que quer casar com ela e contou a Roberto, mas ainda não fez o pedido. Isabella não sabe dessa decisão. No telefonema, demonstrou amor e disposição para conhecer aspectos difíceis de Henrico, valorizando autonomia e honestidade; sua pergunta sobre se alguém pagava por atos dele foi encerrada por Henrico. Não há compromisso de casamento nem concordância de Isabella.
+- **Henrico — Roberto:** Roberto aprovou a decisão de Henrico casar, acompanhada de ressalvas sobre autonomia de Isabella, segredos familiares e mortalidade de Henrico. A conversa reforça proximidade e busca de aprovação paterna, sem apagar preocupações de Roberto.
+- **Henrico — Lorenzo:** encontro combinado para 19h de 04/11 para ir à San Michele; Lorenzo concordou. Não há informação de Lorenzo sobre casamento, anel ou clínica.

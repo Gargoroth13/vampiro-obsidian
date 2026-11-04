@@ -57,3 +57,31 @@ Henrico levou Lorenzo à Maison Belle para que ele se alimentasse enquanto obser
 
 ## Conhecimentos que Henrico não compartilhou
 A gravação é conhecida por Henrico; Marina e Sílvia não foram informadas. Lorenzo perguntou se havia gravação, Henrico negou e Lorenzo demonstrou desconfiança, sem confirmar o que suspeita. Isabella não conhece Lorenzo como vampiro nem os acontecimentos na Maison Belle.
+
+## Atualização — 03 e 04/11/2026
+
+### Decisão de casamento e conversa com Roberto — noite de 03/11
+Henrico declarou ao pai: “Eu decidi. Vou me casar com ela.” Disse que buscava a aprovação de Roberto e falou sobre segredos familiares, o desejo de não precisar mentir caso Isabella integrasse a família e o risco de morrer em suas atividades. Roberto aprovou, mas alertou que casamento não torna Isabella automaticamente preparada para todos os segredos, que Henrico não deve decidir por ela e que não deve tratar a própria vida como perdida nem fazer o pedido como se deixasse tudo resolvido antes de uma batalha. **Decidiu casar, mas ainda não pediu Isabella; ela não sabe da decisão.**
+
+Roberto comentou que o anel formal do avô Giovanni talvez esteja com Aldo ou entre peças da família. Tentaria conversar com Aldo e procurar no dia seguinte. Henrico não desistiu definitivamente dessa possibilidade.
+
+### Telefonema para Isabella — noite de 03/11
+Henrico falou de receios pessoais: talvez não ser virtuoso como Isabella acredita, ter feito coisas ruins e poder justificá-las. Isabella respondeu que não espera perfeição, ama o homem que conhece e quer conhecer também as partes que ele teme mostrar. Disse que não quer que ele decida sozinho o que é melhor para ambos. Perguntou se alguém estava pagando por coisas que Henrico fez; ele encerrou o assunto. Combinaram contato no dia seguinte e tentativa de visita; cumprimento não confirmado.
+
+Henrico ainda não contou a Isabella sobre a decisão de casar, o anel, a clínica, a coleta ou a intenção de indicá-la para decidir sobre o material após sua morte.
+
+### Encomenda de anel — 04/11
+Em joalheria de alto padrão em São Paulo, pediu projeto exclusivo: lapidação esmeralda, diamante de seis quilates, platina, aro elegante e discreto, seis garras robustas mas delicadas e inscrição “Per sempre tuo. H.G.”. Disse que Isabella costuma usar joias discretas, mas que o anel seria o foco central. A consultora selecionará três pedras certificadas, preparará desenho e orçamento. Apresentação privada pré-agendada para a manhã de 05/11, possivelmente antecipável. Henrico disse ter pressa e que dinheiro não é problema. Não escolheu pedra, aprovou desenho, pagou, encomendou fabricação ou recebeu o anel. A consultora não sabe o nome de Isabella.
+
+### Preservação da fertilidade — 04/11
+Henrico explicou ao Dr. Marcelo que deseja preservar o maior número possível de amostras e possibilidades de uso pelo maior período possível, pois trabalha em atividades perigosas e quer preservar a possibilidade de continuidade de sua linhagem caso morra. Dinheiro não é problema. Deseja indicar Isabella para decidir sobre eventual reprodução assistida após sua morte, conforme a lei e documentação necessária. Realizou pessoalmente a coleta e entregou o recipiente identificado a Camila, que o levou ao laboratório. **A amostra está com o laboratório; análise pendente.** Não há dados de concentração, motilidade, morfologia, qualidade pós-descongelamento, unidades ou necessidade de novas coletas.
+
+Dr. Marcelo explicou armazenamento longo com renovação, tanques de criopreservação e monitoramento; indicação de contato não basta para autorizar uso após a morte. Será preciso consentimento formal, documentação jurídica específica e observância das regras aplicáveis. Propôs revisar contrato, aguardar resultados, avaliar novas coletas e agendar reunião jurídica com Isabella. Ao final perguntou se Henrico quer contratar o maior período oferecido. **Resposta pendente:** sem contrato, pagamento, período escolhido ou reunião agendada.
+
+Não interpretar a preservação como plano de Abraço, decisão de se tornar vampiro ou conhecimento de reprodução sobrenatural.
+
+### Manhã de 04/11 — Lorenzo e San Michele
+Henrico encontrou Lorenzo na biblioteca da residência de Roberto. Lorenzo estava fisicamente melhor, embora ainda se recuperasse das queimaduras solares. Henrico brincou que a sessão com Marina parecia ter produzido bons resultados. Informou que passaria o dia com Isabella e voltaria às 19h para buscá-lo; Lorenzo concordou. Aldo organizou o acesso à San Michele para essa noite. O objetivo é examinar registros e servidor independente, conforme proposta anterior de Lorenzo; nada foi examinado ainda.
+
+### Conflito e traços a preservar
+A frase de Lorenzo — “Princípios não são testados quando mantê-los é conveniente. São testados quando abandoná-los parece resolver um problema que você deseja muito resolver.” — teve impacto profundo em Henrico e deve permanecer como referência. Preservar ambição, curiosidade, preparação, valor dado a acordos e sinceridade, desejo de chegar ao topo sem sacrificar quem ama, receio de que a ambição supere seus princípios, preocupação com mortalidade, necessidade de aprovação paterna e medo de perder o amor de Isabella.

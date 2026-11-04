@@ -3,13 +3,13 @@
 > Página inicial do vault. O estado atual é a referência para retomar a narrativa; a cronologia preserva os acontecimentos já registrados.
 
 ## Retomada
-- [[Estado Atual]]
+- [[Estado Atual]] · [[Quarto Salve]]
 - [[Cronologia]]
 - [[Sessão 003]]
 
 ## Personagens
 - [[Henrico Giovanni]] · [[Isabella Moretti]] · [[Roberto Giovanni]] · [[Aldo Giovanni]] · [[Lorenzo]]
-- [[Augusto Giovanni]] · [[Vittoria Giovanni]] · [[Rafael Moreira]] · [[Elena Giovanni]] · [[Matteo Giovanni]]
+- [[Augustus Giovanni]] · [[Vittoria Giovanni]] · [[Rafael Moreira]] · [[Elena Giovanni]] · [[Matteo Giovanni]]
 - [[Enzo Bellini]] · [[Dario Nascimento]] · [[Tommaso Giovanni]]
 - [[Marina]] · [[Sílvia]]
 
