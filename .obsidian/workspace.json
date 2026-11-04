@@ -27,57 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Personagens/Augusto Giovanni.md",
+                "file": "00 - Painel/Pontos Narrativos Estruturais — Reservado ao Mestre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Augusto Giovanni"
-            }
-          },
-          {
-            "id": "0c05f4194b421cd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Personagens/Rafael Moreira.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rafael Moreira"
-            }
-          },
-          {
-            "id": "6992aae05c0baf20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99 - Modelos/Modelo - Local.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modelo - Local"
-            }
-          },
-          {
-            "id": "012a3ba618d6cafd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Personagens/Lorenzo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lorenzo"
+              "title": "Pontos Narrativos Estruturais — Reservado ao Mestre"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "98 - Saves atuais/Convenção de comunicação e primeiro salve.md",
+                "file": "00 - Painel/Pontos Narrativos Estruturais — Reservado ao Mestre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,15 +205,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e3c10169f9ca351",
+  "active": "205c608b6eedb35d",
   "lastOpenFiles": [
+    "00 - Painel/Início.md",
+    "00 - Painel/Pontos Narrativos Estruturais — Reservado ao Mestre.md",
+    "01 - Personagens/Mireille Vautrin.md",
+    "98 - Saves atuais/Quarto Salve.md",
+    "01 - Personagens/Augustus Giovanni.md",
+    "01 - Personagens/Lorenzo.md",
+    "01 - Personagens/Rafael Moreira.md",
+    "99 - Modelos/Modelo - Local.md",
+    "98 - Saves atuais/Convenção de comunicação e primeiro salve.md",
     "04 - Locais/Maison Belle.md",
     "01 - Personagens/Sílvia.md",
     "01 - Personagens/Marina.md",
     "00 - Painel/Estado Atual.md",
     "01 - Personagens/Matteo Giovanni.md",
     "01 - Personagens/Elena Giovanni.md",
-    "01 - Personagens/Lorenzo.md",
     "04 - Locais/San Michele.md",
     "04 - Locais/Residência de Roberto.md",
     "02 - Conhecimento/Objetos e Documentos.md",
@@ -266,14 +233,6 @@
     "00 - Painel/Direção da Campanha — Reservado ao Mestre.md",
     "01 - Personagens/Aldo Giovanni.md",
     "00 - Painel/Cronologia.md",
-    "02 - Conhecimento/Mitsubishi Lancer Evo X.md",
-    "05 - Ocultismo/Custode delle Anime.md",
-    "03 - Famílias e Facções/Projeto Sepulcro.md",
-    "98 - Saves atuais/README.md",
-    "02 - Conhecimento/Matriz de Conhecimento.md",
-    "01 - Personagens/Isabella Moretti.md",
-    "01 - Personagens/Henrico Giovanni.md",
-    "00 - Painel/Início.md",
     "98 - Saves atuais",
     "99 - Modelos",
     "08 - Investigações e Mistérios",

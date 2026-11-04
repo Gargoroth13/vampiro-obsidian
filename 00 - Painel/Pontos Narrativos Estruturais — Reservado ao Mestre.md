@@ -252,7 +252,7 @@ Não converter qualquer reserva em traição automática. A confiança deve ser 
 **Categoria:** mistério central de longo prazo.  
 **Base canônica:** a manifestação transmitiu “Não deixem que ele abra a última porta”, “O sangue de Augusto ainda está aqui”, “Tragam o herdeiro” e “A última porta já está aberta”. A identidade da manifestação e o significado das mensagens não são conhecidos pelos personagens.
 
-A verdade reservada estabelece que o herdeiro é um papel de assumir estrutura/vínculo, não simplesmente um título genealógico. Henrico é um candidato possível, mas não único.
+A verdade reservada estabelece que o herdeiro é um papel de assumir estrutura/vínculo, não simplesmente um título genealógico. Henrico é o herdeiro.
 
 A campanha deve explorar quem deseja trazer o herdeiro, quem se beneficia dessa função e o que a pessoa precisaria assumir. Não transformar a mensagem numa confirmação de que Henrico é escolhido ou destinado a cumprir um papel.
 
@@ -335,6 +335,9 @@ Prioridades para as próximas cenas, sem exigir que todas ocorram numa única no
 4. Consequência da tentativa de Aldo de conversar com Enzo.
 5. Continuidade da relação com Isabella e decisões sobre o que Henrico compartilhará.
 6. Retomar o estudo de necromancia e tradições Hecata quando houver espaço orgânico.
+7. Introduzir antagonistas
+8. Introduzir mais do mundo de Vampiro: A máscara
+9. Introduzir Augusto e seu interesse em Henrico (principalmente como candidato ao Abraço)
 
 ## 25. Horizonte intermediário
 
