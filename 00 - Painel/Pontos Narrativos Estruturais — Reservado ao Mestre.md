@@ -450,3 +450,7 @@ O encontro com Lorenzo às 19h e a visita à San Michele ainda estão por aconte
 ## Referências
 
 [[Direção da Campanha — Reservado ao Mestre]] · [[Henrico Giovanni]] · [[Isabella Moretti]] · [[Aldo Giovanni]] · [[Roberto Giovanni]] · [[Lorenzo]] · [[Augustus Giovanni]] · [[Vittoria Giovanni]] · [[Tommaso Giovanni]] · [[Dario Nascimento]] · [[Enzo Bellini]] · [[Outras Facções]] · [[Projeto Sepulcro]] · [[San Michele]] · [[Matriz de Conhecimento]] · [[Em Aberto]] · [[Dívidas e Favores]] · [[Promessas]]
+
+### Outras referências citadas
+
+[[Cronologia]] · [[Estado Atual]] · [[Marina]] · [[Rafael Moreira]] · [[Sílvia]] · [[Segredos]] · [[Família Giovanni]] · [[Maison Belle]] · [[Residência de Roberto]] · [[Necromancia]] · [[Vampiros]] · [[Relações]]
