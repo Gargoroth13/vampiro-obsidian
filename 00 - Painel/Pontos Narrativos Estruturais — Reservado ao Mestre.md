@@ -3,352 +3,447 @@
 
 **Classificação:** Reservado ao Mestre  
 **Campanha:** Crônica Giovanni / Hecata  
-**Versão:** plano estrutural inicial, posterior ao Terceiro Salve  
+**Versão:** revisão após esclarecimento do jogador  
 **Ponto de continuidade vigente:** 04/11/2026, aproximadamente 10h40, clínica de reprodução humana em São Paulo.
 
-Este documento transforma a direção geral da campanha em acontecimentos concretos, com personagens, causas, preparação, interesses conflitantes e consequências. Os pontos estruturais não são sugestões vagas nem uma sequência de cenas que o Mestre deve improvisar apenas quando Henrico agir. O mundo tem direção própria.
+Este documento transforma a direção da campanha em arcos, marcos e pressões dramáticas concretas. Ele deve dar ao Mestre uma visão de futuro e permitir que NPCs ajam com objetivos próprios. Não é um roteiro fechado nem uma lista de cenas que só acontecem se Henrico as solicitar.
 
-## 1. Regra de condução: pontos firmes, caminhos abertos
-
-A campanha possui acontecimentos estruturais planejados. O Mestre deve preparar e conduzir o mundo para que eles aconteçam, em vez de esperar que Henrico seja o único motor da história.
-
-Ao mesmo tempo:
-
-- Henrico pertence exclusivamente ao jogador. Nunca decidir suas falas, pensamentos, sentimentos, ações voluntárias ou decisões.
-- NPCs possuem objetivos, recursos, limites, relações e informações próprias. Eles podem agir sem pedir autorização a Henrico.
-- NPCs podem recusar, discordar, negociar, omitir, mentir, ameaçar, trair, competir ou mudar de posição por razões próprias.
-- Não fazer todos os NPCs concordarem com Henrico, nem criar antagonismo sem causa.
-- Cada oposição deve decorrer de um interesse identificável: poder, segurança, sobrevivência, lealdade, ideologia, medo, ambição, dívida, afeto ou autopreservação.
-- Não entregar a Henrico respostas, alianças, perdões ou vitórias apenas porque ele pediu.
-- Não bloquear uma escolha legítima do jogador por conveniência do roteiro. Se uma intervenção realmente mudar as condições de um ponto, respeitar a mudança e recalcular as consequências.
-- Um ponto estrutural não significa que todas as cenas intermediárias estejam predeterminadas. O Mestre deve improvisar com base nos objetivos dos NPCs, no estado do mundo e nas ações do jogador.
-- Nunca revelar este documento, os nomes dos pontos futuros ou suas condições ao jogador.
-
-### Classificação dos pontos
-
-- **Ponto-âncora:** acontecimento que a campanha está planejada para alcançar. Deve ser preparado e perseguido ativamente.
-- **Condição de realização:** requisitos dramáticos e causais que tornam o acontecimento plausível.
-- **Variáveis do jogador:** aspectos que Henrico pode alterar de forma significativa.
-- **Rota alternativa:** adaptação caso o jogador produza uma mudança extraordinária. Não usar uma rota alternativa para apagar a consequência de uma escolha bem-sucedida.
+**Correção expressa:** referências anteriores a ataque na Normandia, morte planejada de Aldo Giovanni e à personagem Mireille Vautrin foram retiradas. Normandia foi apenas um exemplo abstrato dado pelo jogador. Não existe ataque planejado naquele local, Aldo não está marcado para morrer e Mireille não faz parte do cânone da crônica.
 
 ---
 
-# PARTE I — PONTOS-ÂNCORA DA CRÔNICA
+## 1. Regras de condução
 
-## 2. Ponto-âncora: Henrico Giovanni e Isabella Moretti se casarão
+- Henrico é controlado exclusivamente pelo jogador. Nunca decidir suas falas, pensamentos, sentimentos, ações voluntárias ou decisões.
+- NPCs têm objetivos, recursos, limites, relações, conhecimentos e interesses próprios. Eles agem mesmo quando Henrico não está presente.
+- NPCs podem discordar, recusar, negociar, omitir, mentir, pressionar, competir, trair, ameaçar ou mudar de posição por razões próprias.
+- Não fazer NPCs concordarem automaticamente com Henrico. Também não criar oposição gratuita: cada antagonismo deve decorrer de um interesse identificável.
+- Um aliado pode contrariar Henrico por preocupação, princípios ou objetivos incompatíveis. Um antagonista pode oferecer algo genuinamente útil se isso servir aos próprios interesses.
+- Favores, promessas, dívidas, reputação e acesso devem ter consequências. Não conceder respostas, perdões, alianças ou vitórias apenas porque Henrico pediu.
+- Não narrar acontecimentos distantes como se Henrico fosse onisciente. O mundo continua em movimento, mas o jogador só recebe informações por meios plausíveis.
+- Pontos estruturais orientam a história, não autorizam o Mestre a invalidar escolhas. Se uma ação bem-sucedida mudar causalmente o resultado, respeitar o resultado e recalcular o arco.
+- Não ressuscitar artificialmente um evento impedido, não substituir uma pessoa salva por outra morte equivalente e não criar coincidências para restaurar o roteiro.
+- Não inventar novos NPCs, facções, viagens ou incidentes apenas para preencher uma lista de marcos. Novas criações exigem função dramática e conexão com elementos já estabelecidos.
+- Distinguir sempre: fato canônico; verdade reservada ao Mestre; relato de personagem; hipótese; possibilidade condicional; evento futuro planejado.
+- Nunca revelar este documento ou seus spoilers ao jogador.
 
-**Estado:** planejado como acontecimento estrutural futuro. Ainda não ocorreu. Henrico declarou ao pai que decidiu se casar, mas ainda não fez o pedido. Isabella não sabe da decisão.
+### Categorias de planejamento
 
-### Preparação já existente
-- Henrico declarou a Roberto, na noite de 03/11/2026, que decidiu se casar com Isabella.
-- Roberto aprovou a decisão, mas alertou que casamento não autoriza Henrico a decidir por Isabella nem torna automaticamente a companheira preparada para os segredos familiares.
-- Henrico encomendou o projeto de um anel exclusivo: diamante de seis quilates, lapidação esmeralda, platina, seis garras delicadas e inscrição interna “Per sempre tuo. H.G.”.
-- A apresentação privada do projeto foi pré-agendada para a manhã de 05/11/2026. Pedra definitiva, orçamento, pagamento, fabricação e entrega continuam pendentes.
-- Henrico foi à clínica para preservar sua fertilidade e deseja que Isabella possa decidir sobre a utilização das amostras após sua morte. Ela ainda não sabe disso.
-
-### Motivação e autonomia de Isabella
-Isabella deseja construir um futuro com Henrico, mas valoriza honestidade, autonomia e participação nas decisões que possam afetar sua vida. Ela não quer ser incorporada à família Giovanni por casamento sem compreender o que isso significa. Também não quer que Henrico use proteção como justificativa para esconder indefinidamente fatos relevantes.
-
-O casamento deve acontecer porque ambos escolhem essa vida juntos. A aceitação de Isabella não é automática nem deve ser tratada como prêmio por um pedido caro. Ela precisa ter espaço real para perguntar, discordar, estabelecer condições e decidir o quanto deseja se envolver com a família.
-
-### Conflito que deve ser desenvolvido
-A dificuldade central não é falta de amor, mas a diferença entre o futuro que Henrico imagina e a quantidade de verdade que Isabella considera necessária para escolher esse futuro.
-
-O segredo sobre a natureza da família, os riscos enfrentados por Henrico, a possibilidade de Abraço, a preservação da fertilidade e a destinação das amostras pode criar tensão. Isabella não precisa exigir acesso a todos os segredos Hecata, mas precisa poder avaliar as consequências que atingem sua própria vida.
-
-Henrico também poderá sentir pressão para resolver o futuro do casal antes que alguma ameaça o alcance. Não converter esse medo em uma decisão automática por ele.
-
-### Realização
-A trajetória planejada culmina no casamento de Henrico e Isabella. A proposta, a resposta, o formato da cerimônia, a participação da família e o momento exato devem emergir da narrativa. Não narrar aceitação ou cerimônia antes de ocorrerem em cena.
-
-### Consequências
-O casamento não torna Isabella membro automático da sociedade vampírica, não lhe concede conhecimento sobrenatural por osmose e não resolve as divergências familiares. Ele cria compromissos afetivos, jurídicos e sociais que terão peso real. A família Giovanni poderá interpretar a união politicamente; Isabella poderá rejeitar ser tratada como instrumento de alianças.
-
-**Variáveis do jogador:** momento e forma do pedido, quanto Henrico revela, como lida com a clínica, se apresenta a verdade sobrenatural e como reage aos limites de Isabella.
-
-**Rota alternativa:** se o jogador alterar explicitamente o objetivo de casamento ou produzir uma ruptura irreversível, respeitar a escolha. Nesse caso, não forçar o casamento; transformar o ponto em uma decisão definitiva sobre o futuro do vínculo e registrar a alteração da direção. Não usar uma recusa de Isabella como punição arbitrária: ela deve decorrer de fatos, valores e escolhas apresentados em jogo.
-
-## 3. Ponto-âncora: Augusto Giovanni oferecerá o Abraço a Henrico
-
-**Agente da oferta:** Augusto Giovanni.  
-**Estado:** acontecimento futuro planejado. Não houve oferta até o ponto atual.  
-**Janela narrativa:** depois de Henrico descobrir o suficiente sobre o papel de “herdeiro” e sobre a condição de Augusto; antes do clímax da última porta.
-
-### Motivação de Augusto
-Augusto verá em Henrico um candidato possível para assumir uma função de continuidade do legado e da estrutura ligada ao Sepulcro. Não é apenas uma questão de parentesco. A mensagem “Tragam o herdeiro” refere-se a um papel de sucessão e vínculo com a estrutura, e Henrico é um candidato possível, não o único.
-
-Augusto acredita que a mortalidade de Henrico o torna vulnerável e limita o tempo disponível para concluir o projeto. Sua oferta será sincera no sentido de que ele realmente acredita estar oferecendo sobrevivência, poder e acesso a um legado extraordinário. Também será uma tentativa de vincular Henrico aos objetivos de Augusto.
-
-### Forma da oferta
-Augusto não deve surgir oferecendo o Abraço sem preparação ou como uma recompensa simples. Antes, deve:
-- demonstrar que conhece aspectos da investigação que Henrico não contou publicamente;
-- apresentar uma informação verdadeira e difícil de obter;
-- revelar que considera Henrico um possível sucessor;
-- reconhecer a ambição e a inteligência de Henrico sem bajulação vazia;
-- expor o custo de permanecer mortal diante dos conflitos que se aproximam;
-- apresentar o Abraço como uma possibilidade real, mas associada a obrigações e consequências.
-
-A oferta não será uma ordem. Augusto tentará convencer, negociar e testar o que Henrico valoriza. Poderá omitir riscos ou apresentar sua própria interpretação como se fosse a única saída, mas não precisa mentir em tudo.
-
-### Preço e incompatibilidades
-O Abraço oferecido por Augusto não será neutro. Ele espera que Henrico assuma responsabilidades relacionadas ao legado do Sepulcro e reconheça a autoridade ou a visão de Augusto sobre a última porta. Isso cria conflito com a autonomia de Henrico, com sua relação com Isabella e com sua própria ideia de construir poder sem se tornar instrumento de outra pessoa.
-
-Não afirmar que o Abraço transfere automaticamente Disciplinas, memórias, autoridade ou controle do Custode. Esses resultados precisam de regras e evidências próprias na crônica.
-
-### Consequências
-- Se Henrico recusar, Augusto não deve simplesmente desaparecer. A recusa altera a estratégia e pode fazê-lo procurar outro candidato, pressionar por meios políticos ou considerar Henrico um obstáculo.
-- Se Henrico aceitar, isso não encerra o conflito: abre consequências sobre senhor/cria, fome, Besta, liberdade, relação com Isabella, posição Hecata e a obrigação proposta.
-- Se Henrico adiar, Augusto poderá estabelecer prazo, condição ou custo político, sem retirar a liberdade de decisão.
-- Outros vampiros poderão ter opiniões sobre a oferta e tentar influenciar Henrico, mas não devem fazer ofertas redundantes sem função dramática.
-
-**Importante:** Lorenzo não ofereceu o Abraço na conversa de 01/11/2026. Não reescrever essa cena nem atribuir a ele uma promessa futura de Abraço. A oferta estrutural planejada é de Augusto.
-
-## 4. Ponto-âncora: ataque na Normandia e morte de Aldo Giovanni
-
-**Local geral:** Normandia, França.  
-**Estado:** acontecimento futuro planejado; não existe data de calendário estabelecida.  
-**Morte planejada:** Aldo Giovanni.  
-**Contexto:** escalada da disputa política Hecata e tentativa de controle de um arquivo/registro ligado às pesquisas antigas, à rede de contatos de Tommaso e aos interesses do Sepulcro.
-
-### Por que Aldo estará na Normandia
-A investigação de Aldo por Augusto e pelos antigos círculos Hecata deverá levá-lo a um contato europeu que conhece a existência de um arquivo independente. Esse arquivo não deve ser apresentado como uma resposta completa sobre o Sepulcro. Ele contém material capaz de comprovar que diferentes interesses disputaram o conhecimento necromântico e que o desaparecimento de Tommaso merece investigação própria.
-
-Aldo irá à Normandia por interesse político próprio: pretende impedir que uma facção externa monopolize esse material e preservar a capacidade de negociação da família Giovanni. A proteção de Henrico será uma preocupação, mas não sua única motivação. Ele acredita que, se não agir, a família poderá perder posição e ficar dependente de rivais.
-
-Aldo não deve contar a Henrico todos os motivos ou todos os contatos de imediato. Isso não significa que esteja conspirando contra o sobrinho; significa que sua prudência e sua ambição política têm limites próprios.
-
-### O ataque
-O ataque será uma operação coordenada por uma ala do Círculo da Soleira que pretende tomar o arquivo e impedir que Aldo estabeleça custódia independente. A ação não deve parecer um assalto aleatório: haverá preparação, reconhecimento, informantes, falhas de segurança e objetivos específicos.
-
-A operação será liderada por uma antagonista reservada ao Mestre, Mireille Vautrin (perfil em arquivo próprio). Mireille não controla todo o Círculo e não representa todos os Hecata. Ela considera Aldo um obstáculo político e acredita que sua morte ou neutralização permitirá tomar o arquivo sem negociação.
-
-### Morte de Aldo
-Aldo morrerá durante o ataque à Normandia. Esta é uma âncora dramática planejada e deve ser preparada com antecedência. Não antecipar a morte, não usar presságios óbvios demais e não transformar Aldo em mártir sem vontade própria.
-
-Aldo terá objetivos concretos durante a operação e fará escolhas coerentes com sua personalidade. Sua morte deverá decorrer da violência e dos riscos da disputa, não de uma decisão súbita de se sacrificar apenas para salvar Henrico.
-
-A morte deve ter consequência política e familiar duradoura:
-- Roberto perde o irmão e pode reagir com luto, raiva e necessidade de proteger o que resta da família;
-- Henrico enfrenta a perda de um mentor político e o vazio de influência que Aldo ocupava;
-- a família perde contatos, favores e proteção que não podem ser substituídos imediatamente;
-- Mireille e sua facção passam a ser antagonistas concretos;
-- o arquivo pode ser parcialmente perdido, tomado ou salvo, conforme as ações dos personagens;
-- Lorenzo e outros envolvidos terão de decidir se continuam a investigação ou se recuam.
-
-### Agência e prevenção
-O ataque e a morte de Aldo são o resultado planejado, não uma licença para ignorar ações do jogador. Preparar a operação de forma que Henrico possa descobrir sinais, alterar a segurança, negociar, escolher aliados e interferir nos objetivos do ataque. Se o jogador realizar uma intervenção extraordinária, plausível e bem-sucedida que efetivamente impeça a morte, respeitar o resultado e reescrever a direção: não matar Aldo por uma coincidência posterior para restaurar o roteiro. O ponto dramático a preservar será a ruptura política e o custo real da operação, não uma morte artificialmente inevitável.
-
-## 5. Ponto-âncora: a disputa pelo legado de Aldo
-
-A morte de Aldo cria um vácuo de poder, não uma sucessão automática para Henrico.
-
-Roberto pode querer retirar Henrico dos assuntos Hecata. Outros membros da família podem considerar Henrico inexperiente ou politicamente vulnerável. Contatos de Aldo podem exigir que obrigações e favores sejam honrados antes de reconhecer qualquer sucessor.
-
-Henrico poderá disputar influência, recusá-la, negociar ou construir uma estrutura própria. A campanha deve oferecer consequências e oportunidades reais, sem entregar o lugar de Aldo como prêmio.
+- **Âncora definida:** direção ou acontecimento que deve orientar a campanha, respeitando a agência dos envolvidos.
+- **Marco em preparação:** consequência que já possui causa em jogo e pode avançar em breve.
+- **Possibilidade condicionada:** caminho que só se concretiza se interesses, escolhas e evidências o sustentarem.
+- **Em aberto:** questão para a qual os documentos não oferecem base suficiente para fixar resultado.
 
 ---
 
-# PARTE II — ANTAGONISTAS E INTERESSES EM CONFLITO
+# PARTE I — ARCOS E MARCOS DE FUTURO PRÓXIMO
 
-## 6. Mireille Vautrin — antagonista política do Círculo da Soleira
+## 2. A noite de 04/11: retorno à San Michele
 
-**Arquivo individual:** [[Mireille Vautrin]]  
-**Classificação:** personagem reservada ao Mestre até sua introdução em jogo.  
-**Natureza:** integrante Hecata; geração, Disciplinas, idade exata e história completa permanecem deliberadamente não fixadas até serem necessárias.
+**Categoria:** marco em preparação.  
+**Base canônica:** Aldo organizou o acesso à San Michele para Henrico e Lorenzo; encontro marcado às 19h. O acesso e a visita ainda não ocorreram.
 
-### Objetivos
-- Impedir que a última porta seja aberta sem controle.
-- Concentrar sob sua facção o acesso a arquivos e registros ligados ao Sepulcro.
-- Evitar que Aldo ou a família Giovanni obtenham autonomia política sobre o material.
-- Preservar sua própria posição entre os Hecata, mesmo que precise comprometer pessoas que considera dispensáveis.
+A cena deve avançar o estado da investigação. O objetivo imediato é examinar os registros e o servidor independente, conforme a proposta anterior de Lorenzo.
 
-### Contradição
-Mireille defende contenção e responsabilidade, mas aceita violência, chantagem e mortes para impor seu modelo de controle. Não se considera vilã; acredita que o segredo é menos perigoso nas mãos de poucos do que nas mãos de ambiciosos.
+O servidor não deve ser tratado como uma caixa que contém todas as respostas. Pode estar íntegro, danificado, incompleto, protegido ou ter sido acessado por outras pessoas. O Mestre deve escolher o resultado com base no estado real da instalação e nas evidências já estabelecidas, sem inventar uma resposta total.
 
-### Personalidade e método
-Reservada, disciplinada, paciente e politicamente sofisticada. Prefere pressão indireta, favores, informação seletiva e compromissos difíceis de romper. Quando decide agir abertamente, faz isso com objetivo definido e preparação. Não deve ser onisciente nem controlar todas as instituições.
+**Interesses em conflito:**
+- Henrico quer compreender o que ocorreu e preservar registros.
+- Lorenzo busca conhecimento necromântico e pode priorizar a pesquisa mesmo quando isso aumenta o risco.
+- Aldo deseja informação suficiente para orientar os interesses da família e a busca por Augusto.
+- Roberto pode considerar uma nova incursão imprudente, especialmente se entender que a família está se expondo sem garantias.
+- Enzo tem razões para temer a exposição do que sabe e não aceitou ainda uma reunião com Lorenzo presente.
 
-### Relação com Henrico
-Inicialmente, poderá enxergar Henrico como herdeiro inexperiente de um problema antigo. Pode oferecer proteção ou informação se isso servir aos seus objetivos. Se ele se tornar obstáculo, tentará isolá-lo, desacreditá-lo ou limitar seus recursos antes de recorrer à violência direta.
+A visita pode produzir progresso, custo, risco ou frustração. Não precisa ser uma vitória limpa.
 
-### Limites
-Não criar poderes, geração ou recursos ilimitados. Sua influência deve ser explicada por contatos, favores, dinheiro, posição e preparação. Ela pode errar, subestimar pessoas e sofrer perdas.
+## 3. Enzo: conversa sob condições, não uma fonte automática
 
-## 7. O Círculo da Soleira — divisão interna
+**Categoria:** marco em preparação.  
+**Base canônica:** Enzo recusou ir à residência de Roberto com Lorenzo presente, mas disse que poderia conversar com Aldo. Não definiu local, forma ou data.
 
-Não tratar o Círculo como organização homogênea. A estrutura deve ter, no mínimo, três correntes de interesse, sem exigir que todos os integrantes pertençam formalmente a uma delas:
+Aldo deve decidir como conduzir esse contato, e Enzo deve ter iniciativa na negociação. Ele pode impor condições, exigir que Lorenzo fique de fora, pedir garantias, oferecer informação parcial, recusar ou desaparecer por algum tempo.
 
-1. **Contenção e monopólio:** querem impedir o uso descontrolado da passagem, mas também controlar os arquivos e o acesso. Mireille lidera uma célula dessa corrente.
-2. **Pesquisa e preservação:** querem continuar estudando os resultados, mesmo reconhecendo os riscos. Podem negociar com Henrico e Lorenzo, mas exigirão acesso e garantias.
-3. **Abertura e oportunidade:** veem a última porta como instrumento de poder ou possibilidade de retorno. Podem apoiar Augusto por conveniência, não por lealdade.
+Enzo conhece detalhes operacionais, mas não sabe necessariamente o propósito completo do Sepulcro. Seu medo não prova culpa integral nem inocência.
 
-As correntes podem cooperar temporariamente. Uma aliança não deve significar concordância ideológica.
+**Questões a desenvolver:**
+- O que Enzo sabe sobre a porta secundária e a saída de Dario.
+- O que ele teme que aconteça se colaborar.
+- Se está protegendo a si mesmo, alguém, a família Giovanni ou outra pessoa.
+- O que ele efetivamente viu, em oposição ao que deduziu.
 
-## 8. Antagonismo familiar e pessoal
+Não transformar a conversa em interrogatório que resolve todo o mistério.
 
-### Roberto
-Roberto ama o filho, mas seu impulso protetor pode entrar em choque com a autonomia de Henrico. Após a morte de Aldo, poderá defender que Henrico abandone a disputa e considerar irresponsável continuar. Não o transformar em antagonista cruel; seu conflito nasce do medo, do luto e da responsabilidade familiar.
+## 4. Dario: uma pista fora da San Michele
+
+**Categoria:** âncora investigativa; resultado específico ainda em aberto.  
+**Base canônica:** Dario foi encontrado aparentemente morto, recuperou consciência, pronunciou “Augusto” e desapareceu; uma porta secundária foi encontrada aberta. A verdade reservada ao Mestre estabelece que sobreviveu com consequências.
+
+A busca por Dario deve ganhar uma linha própria e independente do servidor. Um vestígio pode surgir por meio de registros, testemunhas, movimentações ou contato que faça sentido com o que já ocorreu. Não escolher antecipadamente uma cidade ou local de esconderijo sem base.
+
+Se Dario reaparecer, deve ser tratado como pessoa com vontade, medo, memória e interesses próprios, não como objeto de pesquisa ou chave do Sepulcro. Sua condição pode ser instável, mas não deve ser reduzida a uma ferramenta de exposição.
+
+**Conflito:** Lorenzo pode querer examiná-lo; Henrico pode querer protegê-lo ou obter respostas; Dario pode rejeitar ambos. Enzo pode ter informações incompletas e medo de ser responsabilizado.
+
+## 5. Aldo e a busca por Augustus
+
+**Categoria:** marco em preparação.  
+**Base canônica:** Aldo se ofereceu para tentar localizar Augustus por contatos antigos e intermediários, sem contato direto garantido. A tentativa ainda não trouxe resultado confirmado.
+
+A busca deve cobrar tempo, favores e discrição. Contatos podem não querer pronunciar o nome de Augustus sem saber por que Aldo o procura. Podem pedir contrapartidas ou fornecer pistas contraditórias.
+
+Aldo não é um serviço de pesquisa a pedido de Henrico: ele tem interesses políticos próprios nos círculos Hecata e pode filtrar informações por prudência ou estratégia. Sua decisão de ajudar não significa que compartilhará todos os contatos e motivos.
+
+**Conflitos possíveis, ainda não fixados:** Roberto pode considerar a busca arriscada; Lorenzo pode querer contato por motivos acadêmicos e pessoais; Aldo pode preferir controlar o primeiro contato para proteger a posição da família.
+
+Não definir antecipadamente quando ou se Augustus será encontrado por essa via. O fato reservado de que Augustus continua existindo não significa que Aldo saiba disso.
+
+## 6. O passado de Lorenzo e o desaparecimento de Tommaso
+
+**Categoria:** arco de personagem e investigação de médio prazo.  
+**Base canônica:** Lorenzo foi Abraçado por Tommaso em 1876, herdou parte de sua coleção e nunca encontrou seu corpo nem descobriu o que aconteceu. Lorenzo colaborou com Augustus no Sepulcro, principalmente na parte necromântica, sem conhecer o projeto inteiro. O Salve também registra sua responsabilidade nos experimentos em Dario e participação no roubo do cadáver.
+
+A investigação de Tommaso deve ser motivada por Lorenzo, não apenas por Henrico. Ele pode retomar documentos, comparar anotações, procurar antigos contatos ou decidir que certos materiais não devem ser compartilhados.
+
+**Ponto de tensão:** Lorenzo pode descobrir que sua participação no Sepulcro teve consequências que não compreendia. Isso pode provocar culpa, defensividade, racionalização ou uma tentativa de reparar danos — sem presumir qual reação terá antes das cenas.
+
+Não definir que Tommaso está morto, que foi destruído por Augusto ou que está ligado diretamente à última porta sem evidências.
+
+## 7. A referência “L. Giov...”
+
+**Categoria:** mistério de médio prazo.  
+**Base canônica:** há uma identificação administrativa parcial “L. Giov...” nos registros, e a responsabilidade administrativa atribuída a Lorenzo não possui transferência formal localizada.
+
+A pista deve ser esclarecida por comparação de registros, datas, assinaturas, procedimentos e acesso. Não assumir que a referência é Lorenzo apenas pela inicial. Também não inventar outro Giovanni como resposta automática.
+
+O resultado pode mostrar autoria, supervisão, autorização ou simples registro de acesso — categorias diferentes que não devem ser confundidas.
+
+---
+
+# PARTE II — ARCOS PESSOAIS E FAMILIARES
+
+## 8. Henrico e Isabella: pedido, casamento e escolha compartilhada
+
+**Categoria:** âncora afetiva definida pelo objetivo atual de Henrico; realização depende de duas pessoas.  
+**Base canônica:** Henrico declarou a Roberto, na noite de 03/11, que decidiu casar com Isabella. Ainda não fez o pedido. Isabella não sabe dessa decisão.
+
+Henrico encomendou um projeto de anel com diamante de seis quilates, lapidação esmeralda, platina, seis garras e inscrição “Per sempre tuo. H.G.”. A apresentação privada está pré-agendada para a manhã de 05/11. Pedra, desenho, orçamento, pagamento, fabricação e entrega estão pendentes.
+
+A trajetória planejada é que o relacionamento chegue a uma decisão de casamento, mas Isabella precisa escolher por si mesma. Ela ama Henrico e deseja um futuro com ele, porém valoriza honestidade, autonomia e participação nas decisões que afetem sua vida.
+
+**Conflito central:** Henrico teme revelar aspectos de si que possam fazê-la deixar de amá-lo; Isabella já disse que quer conhecer as partes difíceis e não quer que ele decida sozinho o que ela pode suportar. A diferença entre proteção e ocultação precisa gerar cenas e escolhas reais.
+
+O pedido não deve ser aceito automaticamente por causa do anel ou do amor existente. Isabella pode perguntar, estabelecer condições, discordar do modo como Henrico conduz os segredos ou pedir tempo. Se aceitar, o casamento deve ser construído em conjunto, sem transformar Isabella em instrumento político da família.
+
+Se Henrico mudar de objetivo ou se Isabella escolher outro caminho por motivos desenvolvidos em jogo, respeitar a escolha e atualizar a âncora. O Mestre não controla a resposta dela como recompensa, mas deve representá-la como personagem autônoma.
+
+## 9. Clínica e preservação da fertilidade: decisão, contrato e autonomia
+
+**Categoria:** marco pessoal em andamento.  
+**Base canônica:** Henrico realizou a coleta em 04/11 e entregou a amostra a Camila, que a levou ao laboratório. O Dr. Marcelo explicou armazenamento, análise, renovação e documentação jurídica. Henrico ainda não respondeu se deseja contratar o maior período oferecido.
+
+A clínica deverá fornecer resultados reais antes de qualquer conclusão sobre qualidade, quantidade de unidades ou necessidade de novas coletas. A reunião jurídica com Isabella ainda não está agendada.
+
+Henrico deseja indicá-la para decidir sobre a utilização do material após sua morte, mas ela não sabe da coleta nem dessa intenção. A conversa futura deve respeitar o fato de que a decisão envolve o corpo, a vontade e o futuro de ambos.
+
+Não inventar resultados laboratoriais, consentimento de Isabella, assinatura de contrato ou autorização post mortem. A preservação é uma escolha de Henrico e não prova intenção de Abraço.
+
+## 10. O anel do avô e o legado familiar
+
+**Categoria:** possibilidade pessoal/familiar em preparação.  
+**Base canônica:** Roberto mencionou o anel formal do avô Giovanni, possivelmente com Aldo ou guardado entre outras peças. Roberto disse que tentaria falar com Aldo. A localização é desconhecida.
+
+O anel pode revelar algo sobre memória familiar, tradição, autoridade ou expectativa, mas não atribuir simbolismo ou poderes à peça antes de sua descoberta. A busca pode aproximar Henrico de Roberto e Aldo ou expor divergências sobre o que significa representar a família.
+
+A encomenda exclusiva e o anel do avô são possibilidades distintas. Não registrar que Henrico abandonou uma em favor da outra.
+
+## 11. Roberto e Aldo: proteção, estratégia e autonomia
+
+**Categoria:** arco familiar contínuo.  
+**Base canônica:** Roberto é pai de Henrico e irmão de Aldo. Roberto aprovou a decisão de casamento com ressalvas e se preocupa com a segurança do filho. Aldo é estratégico, prudente, influente e disposto a orientar Henrico, mas tem seus próprios interesses nos círculos Hecata.
+
+A diferença entre os irmãos deve ganhar expressão concreta. Roberto pode defender contenção e segurança; Aldo pode considerar que a família precisa agir, negociar e preservar influência. Nenhum deles deve ser reduzido a “o protetor” ou “o estrategista” em todas as situações.
+
+Aldo pode contrariar Henrico, não revelar uma informação de imediato ou exigir responsabilidade antes de envolver o sobrinho em uma negociação. Roberto pode apoiar uma decisão e discordar da seguinte. A relação familiar permanece importante mesmo quando há conflito.
+
+**Não há morte planejada de Aldo ou Roberto.** O destino de ambos permanece aberto e deve decorrer da campanha, não de um exemplo abstrato dado pelo jogador.
+
+## 12. Rafael e a vida anterior de Henrico
+
+**Categoria:** arco pessoal condicional.  
+**Base canônica:** Rafael é amigo de Henrico desde os oito anos e mecânico/dono de oficina. Revisou o Evo X; Henrico pagou R$ 1.480 e adiou o remap. O estado atual da oficina, do empréstimo do Palio Weekend e do relacionamento de Rafael com Camila não foi atualizado.
+
+A vida de Henrico não deve se reduzir à família Giovanni e ao sobrenatural. Se ele retomar contato com Rafael, a amizade deve ter continuidade, assuntos próprios e consequências do tempo que Henrico passa envolvido em assuntos perigosos.
+
+Não presumir que Rafael saiba de vampiros, San Michele ou necromancia. Não introduzir automaticamente uma ameaça sobrenatural contra ele; primeiro estabelecer a relação atual e as escolhas de Henrico.
+
+---
+
+# PARTE III — POLÍTICA HECATA E CONFLITOS DE INTERESSE
+
+## 13. O Círculo da Soleira: descoberta gradual e heterogeneidade
+
+**Categoria:** arco político de médio e longo prazo.  
+**Base canônica reservada:** existe uma rede clandestina de interesses Hecata ligada ao conhecimento do Sepulcro, chamada provisoriamente Círculo da Soleira. Não representa todos os Hecata e não é onipotente.
+
+O Círculo não deve surgir como uma facção unificada com um único líder e uma agenda única. Seus interesses conhecidos pelo planejamento reservado incluem:
+- controlar o conhecimento e impedir uso sem supervisão;
+- estudar o potencial necromântico;
+- usar a estrutura para objetivos próprios, inclusive políticos.
+
+Alguns desejam encerrar o projeto; outros acreditam que o que Augusto descobriu não pode ser abandonado. Nem todos sabem a verdade sobre Augusto, Vittoria ou o Custode.
+
+A primeira manifestação do Círculo deve surgir de consequência concreta: um intermediário, um documento, um favor cobrado, uma disputa por informação ou uma tentativa de negociação. Não criar um conselho formal, uma reunião ou um antagonista nomeado apenas para apresentá-lo.
+
+**Interesses que podem colidir:**
+- Aldo pode buscar contatos e autonomia para a família.
+- Lorenzo pode desejar acesso a conhecimento e registros.
+- Augusto quer recuperar Vittoria e concluir o que considera sua obra.
+- Outros Hecata podem temer a passagem ou querer monopolizar o que ela permite.
+
+Uma mesma pessoa pode cooperar num assunto e se opor em outro. Alianças devem ter prazo, custo e limites.
+
+## 14. Favores, dívidas e posição de Henrico
+
+**Categoria:** arco político contínuo.  
+**Base canônica:** Aldo possui influência e contatos; Henrico está começando a aprender as tradições e a sociedade Hecata. O Vault possui notas próprias de promessas, dívidas e favores.
+
+Henrico não deve receber posição política automaticamente por ser Giovanni ou por ter participado da San Michele. Para ganhar influência, precisará demonstrar utilidade, cumprir compromissos, negociar e aceitar que outros personagens também façam exigências.
+
+Os NPCs devem ter interesses claros ao oferecer ajuda. Um favor pode criar obrigação, um contato pode cobrar discrição, uma informação pode ser parcial ou exigir reciprocidade.
+
+O Mestre deve atualizar [[Dívidas e Favores]] e [[Promessas]] sempre que uma obrigação concreta surgir ou for cumprida.
+
+## 15. Augusto: localização, encontro e oferta de Abraço
+
+**Categoria:** arco de longo prazo; oferta de Abraço é possibilidade estruturada, não cena imediata.  
+**Base canônica reservada:** Augusto continua existindo, sua condição foi alterada pela diablerie de Cappadocius e pelo Sepulcro, e sua motivação central é recuperar Vittoria. “Tragam o herdeiro” aponta para uma função de assumir estrutura/vínculo; Henrico é candidato possível, não o único.
+
+O primeiro contato com Augusto deve ser preparado pela busca de Aldo e por evidências independentes. Augusto não precisa atacar Henrico. Pode negociar, argumentar, omitir, demonstrar afeto verdadeiro ou tentar convencê-lo de que seu projeto é necessário.
+
+### Oferta de Abraço
+O jogador mencionou a oferta de Abraço como exemplo de ponto narrativo. A campanha deve manter aberta a possibilidade de que um vampiro existente ofereça o Abraço a Henrico, mas **não fixar arbitrariamente o ofertante antes de seus interesses serem estabelecidos**.
+
+- **Augusto:** candidato com motivação potencialmente forte, caso passe a ver Henrico como sucessor e considere a mortalidade um obstáculo à continuidade do Sepulcro. Isso ainda não é uma oferta feita nem uma decisão irrevogável de Augusto.
+- **Lorenzo:** não ofereceu o Abraço e não deve ser tratado como ofertante presumido. Sua relação de professor/parceiro e seus limites podem evoluir, mas qualquer oferta exigiria preparação e uma motivação nova demonstrada em jogo.
+- **Outros vampiros:** não inventar um personagem novo apenas para cumprir o ponto. Um candidato futuro deve surgir de relações e interesses estabelecidos.
+
+Se uma oferta ocorrer, deve ter preço, expectativa e consequências. Não é prêmio, não é inevitável e não decide a resposta de Henrico. A resposta pertence ao jogador.
+
+## 16. A posição de Lorenzo e seus limites
+
+**Categoria:** arco relacional e político contínuo.  
+Lorenzo é aliado intelectual, mas não subordinado de Henrico. Seus interesses em necromancia, Tommaso e no próprio passado podem levá-lo a decisões diferentes das de Henrico.
+
+Ele pode:
+- recusar uma investigação que considere imprudente;
+- avançar sozinho em pesquisa que considera urgente;
+- exigir acesso a documentos;
+- discordar sobre o tratamento de Dario;
+- manter para si informações que ainda não está pronto para compartilhar.
+
+Não converter qualquer reserva em traição automática. A confiança deve ser construída e testada por acontecimentos concretos.
+
+---
+
+# PARTE IV — O NÚCLEO SEPULCRO, VITTORIA E A ÚLTIMA PORTA
+
+## 17. O significado das mensagens e o papel do “herdeiro”
+
+**Categoria:** mistério central de longo prazo.  
+**Base canônica:** a manifestação transmitiu “Não deixem que ele abra a última porta”, “O sangue de Augusto ainda está aqui”, “Tragam o herdeiro” e “A última porta já está aberta”. A identidade da manifestação e o significado das mensagens não são conhecidos pelos personagens.
+
+A verdade reservada estabelece que o herdeiro é um papel de assumir estrutura/vínculo, não simplesmente um título genealógico. Henrico é um candidato possível, mas não único.
+
+A campanha deve explorar quem deseja trazer o herdeiro, quem se beneficia dessa função e o que a pessoa precisaria assumir. Não transformar a mensagem numa confirmação de que Henrico é escolhido ou destinado a cumprir um papel.
+
+## 18. Vittoria: pessoa, vestígio e vontade
+
+**Categoria:** arco emocional central.  
+**Base canônica reservada:** a manifestação contém elementos reais da identidade de Vittoria, mas sua presença não está completa; há fragmentos, registros e mecanismos do Custode. Algumas mensagens podem expressar sua vontade, outras podem decorrer da estrutura.
+
+A descoberta deve fazer Henrico e os NPCs distinguirem preservar uma memória, reconstruir uma identidade e recuperar uma pessoa. A vontade de Vittoria, quando compreendida, poderá divergir do que Augusto deseja.
+
+Não apresentar Vittoria como simples prêmio de Augusto ou como mecanismo que entrega respostas. A questão de sua autonomia é central.
+
+## 19. A verdadeira natureza do Custode
+
+**Categoria:** arco de descoberta.  
+O Custode é uma estrutura necromântica de preservação, organização e transmissão de vestígios de consciência, não simplesmente uma máquina, um espírito ou Vittoria. A revelação deve vir por evidências e consequências práticas.
+
+O material preservado de Augusto foi utilizado como âncora literal e necromântica. Isso não significa que ele esteja fisicamente na San Michele.
+
+A passagem é de mão dupla: consciências preservadas podem tentar atravessar e outras podem encontrar caminho. A abertura observada foi incompleta e instável.
+
+A revelação deve aumentar o dilema e os riscos, não resolver automaticamente o funcionamento técnico da estrutura.
+
+## 20. A última porta volta a exigir uma decisão
+
+**Categoria:** âncora do arco final.  
+A abertura na San Michele não encerrou as consequências do Sepulcro. Em algum momento futuro, a estrutura ou um vínculo derivado dela voltará a exigir uma decisão concreta.
+
+O ponto não deve ocorrer apenas porque “chegou a hora do clímax”. Precisa resultar de ações e interesses que já foram apresentados: a busca de Augusto, a situação de Vittoria, os registros, o destino de Dario e os interesses Hecata.
+
+A decisão final deverá oferecer custos reais e alternativas incompatíveis. Fechar a passagem, mantê-la sob controle ou tentar um retorno são linhas temáticas possíveis, não um menu anunciado ao jogador. O caminho final pode mudar conforme a campanha.
+
+---
+
+# PARTE V — PONTOS DE RUPTURA E CONSEQUÊNCIAS IRREVERSÍVEIS
+
+## 21. Uma morte significativa acontecerá — vítima e circunstâncias ainda não fixadas
+
+**Categoria:** compromisso dramático amplo; vítima, momento, local e causa em aberto.
+
+A campanha não deve proteger todos os NPCs importantes de consequências irreversíveis. Uma morte significativa deverá marcar o custo real de um conflito e alterar relações, objetivos ou equilíbrio de poder.
+
+Entretanto, **não há base suficiente neste momento para escolher quem morrerá, quando, onde ou de que maneira**. O jogador usou a morte durante um ataque na Normandia como exemplo abstrato de ponto narrativo; isso não estabelece Normandia, ataque, vítima ou causa.
+
+O Mestre deverá identificar a vítima somente quando:
+1. um conflito já estabelecido criar risco plausível para essa pessoa;
+2. seus próprios objetivos e decisões a colocarem nessa situação;
+3. existirem sinais e alternativas que permitam compreender o risco;
+4. a morte tiver consequências para os sobreviventes e para o mundo.
+
+Não escolher Aldo, Roberto, Lorenzo, Isabella, Rafael, Dario ou qualquer outro personagem por conveniência. Não matar alguém apenas para cumprir uma cota. Se Henrico impedir causalmente a morte, respeitar a intervenção; não substituir a vítima por outra morte equivalente.
+
+## 22. Ruptura, traição ou perda de confiança
+
+**Categoria:** possibilidade recorrente, não evento predeterminado.
+
+A campanha deve permitir que uma relação importante seja colocada em risco por interesses incompatíveis. Isso pode envolver família, parceria intelectual, romance ou política.
+
+A ruptura precisa nascer de escolhas e consequências. Não introduzir traição só para chocar, nem transformar todo segredo em traição. NPCs podem tomar decisões moralmente difíceis por motivos que consideram legítimos.
+
+## 23. O segredo gravado na Maison Belle
+
+**Categoria:** risco pessoal e relacional condicional.  
+**Base canônica:** Henrico gravou secretamente a alimentação de Marina com Meta Glasses. Marina e Sílvia não consentiram com gravação nem sabem dela. Lorenzo suspeitou, mas não confirmou.
+
+O arquivo pode permanecer privado, ser usado, ser descoberto ou tornar-se relevante por circunstâncias plausíveis. Não forçar descoberta imediata, mas não apagar o fato. Se vier à tona, Marina e Sílvia devem reagir de acordo com suas personalidades e com o que efetivamente souberem.
+
+O episódio pode afetar a confiança, a reputação e a segurança da Maison Belle. Não presumir que Marina ou Sílvia conheçam os nomes de Henrico e Lorenzo.
+
+---
+
+# PARTE VI — HORIZONTES E RITMO
+
+## 24. Horizonte imediato
+
+Prioridades para as próximas cenas, sem exigir que todas ocorram numa única noite:
+1. Resolver a cena da clínica e aguardar resultados reais.
+2. Apresentação do projeto do anel na data prevista, caso Henrico compareça e a joalheria mantenha o agendamento.
+3. Encontro com Lorenzo às 19h e visita à San Michele, ainda pendentes.
+4. Consequência da tentativa de Aldo de conversar com Enzo.
+5. Continuidade da relação com Isabella e decisões sobre o que Henrico compartilhará.
+6. Retomar o estudo de necromancia e tradições Hecata quando houver espaço orgânico.
+
+## 25. Horizonte intermediário
+
+Desenvolver em paralelo:
+- investigação independente sobre Dario;
+- tentativa de localizar Augusto por Aldo;
+- esclarecimento da referência “L. Giov...”;
+- passado de Lorenzo e desaparecimento de Tommaso;
+- verdade parcial sobre Vittoria e Custode;
+- primeiro contato significativo com interesses do Círculo da Soleira;
+- divergências de estratégia entre Roberto, Aldo e Lorenzo;
+- crescimento da influência de Henrico e o custo dos favores;
+- decisões de Isabella sobre o futuro compartilhado.
+
+## 26. Horizonte distante
+
+Convergir:
+- Augusto e sua busca por Vittoria;
+- o papel do herdeiro e o vínculo com a última porta;
+- a disputa entre interesses Hecata;
+- a condição de Dario;
+- o passado de Lorenzo e Tommaso;
+- o futuro de Henrico, sua mortalidade e seu legado;
+- a relação de Henrico e Isabella;
+- uma decisão final sobre o Sepulcro e as consequências para vivos e mortos.
+
+---
+
+# PARTE VII — OBJETIVOS AUTÔNOMOS E ANTAGONISMO
+
+## 27. Mapa de interesses dos NPCs
+
+### Aldo Giovanni
+Estratégico, prudente e protetor dos interesses familiares. Quer localizar Augusto por contatos e manter capacidade de negociação nos círculos Hecata. Pode filtrar informações, cobrar prudência e agir sem consultar Henrico. Não é apenas mentor nem deve ser protegido de todo risco; tampouco existe morte planejada para ele.
+
+### Roberto Giovanni
+Próximo e protetor de Henrico. A aprovação do casamento veio acompanhada de ressalvas sobre autonomia de Isabella e mortalidade do filho. Pode contrariar Henrico por preocupação e por interesses familiares. Não presumir conhecimento sobrenatural além do estabelecido.
 
 ### Lorenzo
-Lorenzo é aliado intelectual, mas tem interesses próprios na pesquisa e no desaparecimento de Tommaso. Pode discordar de Henrico sobre riscos, recusar revelar material que considere perigoso ou agir sozinho. A informação de que foi responsável por experimentos em Dario e participou do roubo do cadáver já consta no histórico reservado; desenvolver as consequências sem inventar confissão ou traição automática.
+Culto, reservado, irônico, metódico, orgulhoso, pragmático e curioso. Quer compreender necromancia, Sepulcro e Tommaso. Tem responsabilidade histórica nos experimentos em Dario e no roubo do cadáver, mas os detalhes e o conhecimento de cada personagem precisam ser respeitados. Pode agir por curiosidade ou culpa sem concordar com Henrico.
 
-### Isabella
-Isabella não será antagonista, mas pode ser uma força de oposição legítima quando Henrico esconder fatos que afetam seu futuro. Ela não aceitará ser usada como peça de proteção, herdeira social ou justificativa para decisões tomadas sem ela.
+### Isabella Moretti
+Carinhosa, firme e independente. Ama Henrico, mas quer honestidade e participação nas decisões que afetam sua vida. Não sabe da decisão de casamento, anel ou clínica. Pode estabelecer limites e tomar iniciativas próprias.
 
-### Aldo
-Antes de sua morte planejada, Aldo deve manter interesses próprios. Ele pode esconder contatos, negociar em nome da família e discordar da estratégia de Henrico. Sua morte não deve apagar as consequências de decisões políticas que tomou em vida.
+### Enzo Bellini
+Tem conhecimento operacional parcial, medo e razões para não se expor. Não é apenas cúmplice, vítima ou testemunha inocente por definição. Sua colaboração tem condições.
 
----
+### Dario Nascimento
+Sobreviveu à experiência com consequências, segundo a verdade reservada. Não reduzir a uma prova científica ou ferramenta do Mestre. Se reaparecer, terá vontade e interesses.
 
-# PARTE III — PREPARAÇÃO DOS PONTOS
+### Augusto Giovanni
+Continua existindo; sua motivação central é recuperar Vittoria. Pode demonstrar afeto genuíno e cometer atos terríveis em nome desse objetivo. É intelectualmente poderoso, mas não onisciente. Pode negociar e tentar convencer; não precisa mentir em tudo.
 
-## 9. Linha de preparação do casamento
+### Vittoria Giovanni
+A manifestação contém elementos reais de sua identidade, mas não está completa. Sua vontade própria deve ser relevante e pode contrariar Augusto.
 
-1. Henrico conclui ou altera a encomenda do anel; não presumir que a peça esteja pronta.
-2. A clínica avança apenas conforme resultados reais e documentação; Isabella ainda precisa ser informada e participar da reunião jurídica se Henrico mantiver essa intenção.
-3. Isabella percebe que existem decisões importantes sobre o futuro do casal que ainda não foram compartilhadas.
-4. Uma conversa honesta sobre riscos, sobrenatural e família deve ocorrer por iniciativa plausível de Henrico ou por uma situação que torne o silêncio insustentável.
-5. Isabella pode impor condições concretas sobre autonomia, segurança, filhos, privacidade e envolvimento familiar.
-6. O pedido de casamento ocorre quando Henrico decidir fazê-lo.
-7. A resposta de Isabella é narrada como decisão dela, coerente com sua personalidade e com o que aconteceu entre os dois.
-8. O casamento é realizado em momento posterior, com participação e consequências sociais reais.
+### Tommaso Giovanni
+Desaparecido há muitas décadas, sem corpo encontrado. Sua condição é desconhecida. Não declarar morte ou ligação definitiva com o Sepulcro sem evidência.
 
-Não usar a clínica como atalho para obrigar Isabella a aceitar casamento ou maternidade. A preservação de fertilidade foi decisão de Henrico; a participação de Isabella exige conversa e consentimento próprios.
-
-## 10. Linha de preparação da oferta de Abraço
-
-1. Henrico encontra evidências de que “herdeiro” é uma função ligada à estrutura, não uma confirmação automática de descendência.
-2. Descobre que Augusto continua existindo e que sua motivação é recuperar Vittoria.
-3. Augusto observa a ambição de Henrico, sua preocupação com legado e sua mortalidade.
-4. Antes da oferta, Augusto oferece uma troca ou informação que demonstre que pode cumprir parte do que promete.
-5. A oferta do Abraço vem acompanhada de uma proposta de sucessão e obrigação.
-6. A decisão pertence ao jogador. Não narrar aceitação, recusa ou hesitação interna por Henrico.
-
-## 11. Linha de preparação do ataque à Normandia
-
-1. A busca de Aldo por Augusto leva a contatos europeus e a uma referência a um arquivo independente.
-2. O nome de Tommaso surge em material que não estava na coleção acessível de Lorenzo.
-3. Aldo recebe uma proposta de negociação que considera importante demais para delegar.
-4. Surgem sinais de vigilância, informação vazada ou pressão sobre os contatos.
-5. Mireille tenta obter o arquivo por negociação ou pressão antes de autorizar a operação.
-6. A ameaça é apresentada com antecedência suficiente para permitir planejamento e escolhas.
-7. O ataque acontece quando a disputa pelo arquivo e pela autonomia política chega ao ponto de ruptura.
-8. Aldo morre durante o ataque, salvo se uma intervenção extraordinária e causalmente suficiente do jogador alterar esse resultado.
-9. O resultado do ataque deve ser misto: perdas, sobreviventes, provas parciais, inimigos e dívidas. Não resolver tudo numa única cena.
+### Rafael Moreira
+Amigo de Henrico desde a infância e mecânico. Situação atual de sua oficina e vida pessoal não atualizada. Não presumir conhecimento sobrenatural.
 
 ---
 
-# PARTE IV — OBJETIVOS PRÓPRIOS DOS PERSONAGENS
+# PARTE VIII — CONTROLE DE CONTINUIDADE
 
-## 12. Aldo Giovanni
+## 28. O que está definido, o que está condicionado e o que permanece aberto
 
-- **Objetivo público:** orientar Henrico e preservar os interesses da família.
-- **Objetivo político reservado:** impedir que uma facção Hecata monopolize os arquivos e a influência ligada ao Sepulcro; preservar a autonomia de sua rede de contatos.
-- **Método:** intermediação, favores, informação seletiva, prudência e acordos.
-- **Conflito com Henrico:** poderá considerar Henrico precipitado ou ainda despreparado para certas negociações.
-- **Ponto futuro:** sua investigação o levará à Normandia e ao ataque no qual morrerá.
-- **Personalidade:** estratégico, prudente, protetor, reservado e capaz de agir sem contar todos os motivos. Não é apenas um mentor benevolente.
-
-## 13. Augusto Giovanni
-
-- **Objetivo central:** recuperar Vittoria, mesmo que o resultado seja incompleto.
-- **Objetivo secundário:** garantir continuidade para a estrutura e para o conhecimento que acumulou.
-- **Método:** persuasão, negociação, segredo e procedimentos moralmente comprometidos.
-- **Conflito com Henrico:** quer que ele assuma um papel de sucessor que pode contrariar a liberdade de Henrico.
-- **Ponto futuro:** oferecerá o Abraço como parte de uma proposta de sucessão.
-- **Personalidade:** intelectual, paciente, afetuoso de forma real, obsessivo, controlador quando acredita que o fim justifica os meios. Pode reconhecer mérito em adversários.
-
-## 14. Isabella Moretti
-
-- **Objetivo:** construir uma vida compartilhada com honestidade, autonomia e segurança possível.
-- **Conflito:** não aceita que Henrico decida sozinho o que ela pode saber ou suportar.
-- **Ponto futuro:** casar-se com Henrico, após uma trajetória em que possa escolher conscientemente esse compromisso.
-- **Personalidade:** carinhosa, atenta, firme, independente e capaz de confrontar Henrico sem deixar de amá-lo. Não é uma recompensa ou extensão da família Giovanni.
-
-## 15. Lorenzo
-
-- **Objetivo:** compreender a morte, a consciência, sua participação no Sepulcro e o desaparecimento de Tommaso.
-- **Conflito:** conhecimento e curiosidade podem levá-lo a riscos que Henrico considera inaceitáveis; ele pode defender continuar quando Henrico deseja parar, ou o contrário.
-- **Método:** pesquisa, análise, paciência, ironia e seletividade.
-- **Personalidade:** culto, reservado, metódico, orgulhoso, pragmático, curioso e irônico. Mantém limites morais próprios, não universais.
-- **Regra:** não oferecer o Abraço retroativamente nem alterar a conversa em que não o ofereceu. A oferta planejada é de Augusto.
-
-## 16. Roberto Giovanni
-
-- **Objetivo:** proteger Henrico e preservar a família.
-- **Conflito:** após a morte de Aldo, poderá querer afastar Henrico da política Hecata, enquanto Henrico pode desejar ocupar espaço próprio.
-- **Personalidade:** próximo e protetor, mas não necessariamente conciliador. Pode discordar e impor limites.
-
-## 17. Enzo Bellini e Dario Nascimento
-
-- **Enzo:** teme as consequências de falar, possui conhecimento operacional incompleto e pode negociar sua colaboração. Não é um terminal de respostas.
-- **Dario:** sobreviveu à experiência com consequências e possui vontade própria. Quando reaparecer, não deve ser tratado apenas como prova científica ou chave do Sepulcro.
-
-## 18. Mireille Vautrin
-
-- **Objetivo:** controlar o acesso ao arquivo e impedir que rivais determinem o futuro do Sepulcro.
-- **Conflito:** considera Aldo um obstáculo e Henrico uma variável que pode ser cooptada ou neutralizada.
-- **Personalidade:** disciplinada, paciente, política, pragmática e capaz de justificar violência como contenção de risco.
-- **Limites:** recursos finitos, informação parcial, erros de cálculo e dependência de aliados.
-
----
-
-# PARTE V — CRITÉRIOS DE EXECUÇÃO EM MESA
-
-## 19. Como antagonizar Henrico sem retirar sua agência
-
-- Fazer com que pessoas tenham objetivos que colidam com os dele.
-- Permitir que acordos tenham preço e condições.
-- Fazer favores criarem obrigações reais, não apenas pontos de amizade.
-- Deixar NPCs agirem quando Henrico não está presente, mas introduzir seus efeitos por meios plausíveis.
-- Fazer adversários aprenderem com Henrico e mudarem de estratégia.
-- Permitir derrotas, erros, perdas materiais, danos a reputação e consequências emocionais.
-- Não fazer todo antagonista atacar diretamente: competição, chantagem, controle de informação, disputa de território e pressão sobre aliados são formas válidas.
-- Não tornar todo aliado confiável em todos os assuntos.
-- Não fazer toda discordância virar traição.
-- Não salvar Henrico automaticamente de consequências perigosas.
-
-## 20. Ritmo e distribuição
-
-A crônica não deve permanecer presa à investigação do Sepulcro. Alternar:
-- cenas pessoais e familiares;
-- relações e decisões de futuro;
-- aprendizado e descobertas sobrenaturais;
-- política Hecata e favores;
-- conflito de interesses e antagonismo;
-- consequências de decisões anteriores;
-- momentos de descanso, humor, curiosidade e vida cotidiana.
-
-Os pontos-âncora devem ser preparados em paralelo. Não despejar todos os acontecimentos em sequência nem transformar cada cena em pista.
-
-## 21. Protocolo de continuidade e atualização
-
-Após cada sessão, atualizar:
-- estado atual e ponto exato de retomada;
-- cronologia;
-- arquivos individuais dos personagens que agiram ou tiveram mudança relevante;
-- Personalidade, objetivos, relações, promessas, dívidas, itens e curiosidades quando houver evidência;
-- matriz de conhecimento;
-- mistérios e informações não confirmadas;
-- direção reservada, marcando cada ponto como **planejado**, **em preparação**, **em curso**, **alterado**, **concluído** ou **impedido**.
-
-Não marcar como concluído um evento futuro apenas porque foi planejado. Não registrar a morte de Aldo, a oferta de Augusto ou o casamento como fatos atuais.
-
-## 22. Estado dos pontos no início deste planejamento
-
-| Ponto | Estado |
+| Elemento | Classificação atual |
 |---|---|
-| Henrico e Isabella se casarão | Planejado; Henrico decidiu, Isabella ainda não foi informada |
-| Augusto oferecerá o Abraço a Henrico | Planejado; ainda não ocorreu |
-| Ataque na Normandia | Planejado; preparação ainda não começou em cena |
-| Aldo morrerá durante o ataque | Planejado; não ocorreu |
-| Disputa pelo legado de Aldo | Planejada como consequência |
-| Mireille Vautrin será antagonista política | Criada para planejamento reservado; ainda não apresentada |
+| Henrico decidiu que quer se casar com Isabella | Fato declarado por Henrico |
+| Casamento de Henrico e Isabella | Direção desejada; depende da escolha de Isabella e da continuidade das decisões de Henrico |
+| Projeto de anel | Em desenvolvimento; sem pedra, pagamento ou fabricação |
+| Preservação da fertilidade | Coleta concluída; análise e contrato pendentes |
+| Reunião jurídica com Isabella | Pretendida, mas sem data e sem conversa com ela |
+| Visita à San Michele | Planejada para 04/11 às 19h; ainda não ocorreu no ponto atual |
+| Conversa de Aldo com Enzo | Possível; sem encontro definido |
+| Localizar Dario | Prioridade investigativa; paradeiro desconhecido |
+| Localizar Augusto por contatos de Aldo | Tentativa planejada; sem resultado |
+| Desaparecimento de Tommaso | Mistério ativo; condição desconhecida |
+| Identidade “L. Giov...” | Mistério ativo; não atribuir a Lorenzo sem evidência |
+| Círculo da Soleira | Verdade reservada; revelação gradual |
+| Oferta de Abraço a Henrico | Possibilidade narrativa; ofertante não fixado |
+| Morte significativa | Compromisso dramático amplo; vítima, momento, local e causa não fixados |
+| Destino de Aldo e Roberto | Aberto; nenhuma morte planejada |
+| Normandia | Não é local ou evento planejado com base no exemplo do jogador |
+| Mireille Vautrin | Não pertence ao cânone; personagem removida |
+| Última porta | Âncora do arco final; caminho e decisão dependem da campanha |
 
-**Ponto de retomada da narrativa não muda:** 04/11/2026, aproximadamente 10h40, clínica de reprodução humana em São Paulo. Henrico concluiu a coleta e entregou a amostra a Camila. O Dr. Marcelo aguarda a resposta sobre contratar o maior período de armazenamento. O encontro com Lorenzo às 19h para a visita à San Michele ainda está por acontecer.
+## 29. Protocolo de revisão após cada sessão
 
----
+Após cada sessão, o Mestre deve:
+1. atualizar o estado atual e o ponto exato de retomada;
+2. atualizar cronologia e sessão;
+3. atualizar fichas dos personagens que agiram ou tiveram mudanças;
+4. registrar personalidade, objetivos, relações, promessas, dívidas, itens e curiosidades somente quando sustentados pela cena;
+5. atualizar a Matriz de Conhecimento sem transferir informações entre personagens;
+6. atualizar mistérios, distinguindo relato, hipótese e fato;
+7. marcar cada ponto narrativo como **em preparação**, **em curso**, **concluído**, **alterado**, **impedido** ou **em aberto**;
+8. revisar consequências nos arcos relacionados quando uma escolha alterar o resultado;
+9. não transformar evento planejado em fato consumado;
+10. manter os segredos do Mestre separados das informações disponíveis ao jogador.
+
+## 30. Ponto exato de retomada
+
+**04/11/2026, aproximadamente 10h40, clínica de reprodução humana em São Paulo.** Henrico realizou a coleta e entregou a amostra a Camila, que a levou ao laboratório. O Dr. Marcelo explicou armazenamento, renovação e documentação jurídica, e perguntou se Henrico deseja contratar o maior período oferecido. Henrico ainda não respondeu.
+
+O encontro com Lorenzo às 19h e a visita à San Michele ainda estão por acontecer.
 
 ## Referências
 
-[[Direção da Campanha — Reservado ao Mestre]] · [[Aldo Giovanni]] · [[Augustus Giovanni|Augusto Giovanni]] · [[Isabella Moretti]] · [[Lorenzo]] · [[Roberto Giovanni]] · [[Outras Facções]] · [[Tommaso Giovanni]] · [[San Michele]] · [[Projeto Sepulcro]]
+[[Direção da Campanha — Reservado ao Mestre]] · [[Henrico Giovanni]] · [[Isabella Moretti]] · [[Aldo Giovanni]] · [[Roberto Giovanni]] · [[Lorenzo]] · [[Augustus Giovanni]] · [[Vittoria Giovanni]] · [[Tommaso Giovanni]] · [[Dario Nascimento]] · [[Enzo Bellini]] · [[Outras Facções]] · [[Projeto Sepulcro]] · [[San Michele]] · [[Matriz de Conhecimento]] · [[Em Aberto]] · [[Dívidas e Favores]] · [[Promessas]]
