@@ -15,15 +15,8 @@ Não presumir que todos os membros da família Giovanni sejam vampiros, conheça
 ## Direção do Mestre — Círculo da Soleira
 **MESTRE — SPOILERS INTEGRAIS.** Informação reservada; não usar como conhecimento dos personagens antes de descoberta em jogo.
 
-Existe uma rede clandestina de interesses Hecata ligada ao conhecimento do Sepulcro, com nome provisório **Círculo da Soleira**. Não representa todos os Hecata e não é onipotente. Seus interesses incluem controlar o conhecimento e a passagem, estudar o potencial necromântico e usar a estrutura para objetivos próprios, inclusive políticos. Nem todos sabem a verdade sobre Augusto, Vittoria ou o Custode. Alguns querem encerrar o projeto; outros consideram que a descoberta de Augusto não pode ser abandonada. A rede é heterogênea: integrantes podem discordar, negociar, trair-se ou cooperar temporariamente com Henrico.
+Existe uma rede clandestina de interesses Hecata ligada ao conhecimento do Sepulcro, com nome provisório **Círculo da Soleira**. Não representa todos os Hecata e não é onipotente. Seus interesses incluem controlar o conhecimento e a passagem, estudar o potencial necromântico e usar a estrutura para objetivos próprios, inclusive políticos. Nem todos sabem a verdade sobre Augusto, Vittoria ou o Custode. Alguns querem encerrar o projeto; outros consideram que a descoberta de Augusto não pode ser abandonada.
 
-Revelar gradualmente por contatos, documentos, intermediários e conflitos. Não apresentar a rede inteira de uma só vez. Novos NPCs só devem ser criados quando necessários e com função definida.
+A rede é heterogênea: integrantes podem discordar, negociar, trair-se ou cooperar temporariamente com Henrico. Revelar gradualmente por contatos, documentos, intermediários e conflitos. Não apresentar a rede inteira de uma só vez. Novos NPCs só devem ser criados quando necessários e com função definida.
 
-## Direção do Mestre — Círculo da Soleira
-**MESTRE — SPOILERS INTEGRAIS.** Informação reservada; não usar como conhecimento dos personagens antes de descoberta em jogo.
-
-Existe uma rede clandestina de interesses Hecata ligada ao conhecimento do Sepulcro, com nome provisório **Círculo da Soleira**. Não representa todos os Hecata e não é onipotente. Seus interesses incluem controlar o conhecimento e a passagem, estudar o potencial necromântico e usar a estrutura para objetivos próprios, inclusive políticos. Nem todos sabem a verdade sobre Augusto, Vittoria ou o Custode. Alguns querem encerrar o projeto; outros consideram que a descoberta de Augusto não pode ser abandonada. A rede é heterogênea: integrantes podem discordar, negociar, trair-se ou cooperar temporariamente com Henrico.
-
-Revelar gradualmente por contatos, documentos, intermediários e conflitos. Não apresentar a rede inteira de uma só vez. Novos NPCs só devem ser criados quando necessários e com função definida.
-
-
+Para os arcos, marcos, motivações e conflitos reservados ao Mestre, consultar [[Pontos Narrativos Estruturais — Reservado ao Mestre]].
