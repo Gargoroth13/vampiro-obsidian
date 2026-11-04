@@ -663,3 +663,12 @@ Ao concluir, apresentar:
 A campanha deve deixar espaço concreto para as linhas pessoais, familiares, políticas, românticas e sociais de Henrico além do Projeto Sepulcro. A decisão de casar, a preservação da fertilidade, a relação com Isabella, os laços com Roberto e Aldo, a ambição, o patrimônio, o aprendizado de necromancia e as dúvidas sobre mortalidade/Abraço são fios independentes que podem avançar por iniciativa de NPCs e consequências plausíveis. Nenhum deles é trilho obrigatório nem resolve automaticamente outro. Isabella mantém autonomia e objetivos próprios; não presumir aceitação de casamento, participação na família ou responsabilidade legal pelas amostras. Preservar o espaço para mudança de rumo do jogador.
 
 A visita a San Michele às 19h de 04/11 está organizada, mas ainda não ocorreu no ponto atual. A próxima resposta de Henrico à pergunta do Dr. Marcelo é decisão do jogador. Não narrar consequências clínicas, resultado laboratorial, anel concluído ou encontro ocorrido sem cenas correspondentes.
+
+
+---
+
+# Planejamento estrutural revisado
+
+A organização operacional dos arcos, marcos próximos, intermediários e distantes, conflitos de interesse, pontos condicionais e limites de continuidade está em [[Pontos Narrativos Estruturais — Reservado ao Mestre]]. Consultar esse documento junto desta direção, mantendo os segredos e verdades reservadas aqui separados do conhecimento dos personagens.
+
+**Correção de continuidade:** não existe ataque planejado na Normandia, não há morte planejada de Aldo Giovanni e Mireille Vautrin não pertence ao cânone desta crônica. A referência do jogador à Normandia e a uma morte foi apenas um exemplo abstrato. Nenhum NPC está marcado para morrer por esse exemplo. O destino de Aldo e dos demais personagens permanece sujeito aos acontecimentos e às escolhas da campanha.
