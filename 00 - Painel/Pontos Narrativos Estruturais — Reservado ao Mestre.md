@@ -1,4 +1,7 @@
 > **MESTRE — SPOILERS INTEGRAIS.** Documento reservado. Não compartilhar, resumir ou antecipar ao jogador os acontecimentos futuros aqui registrados.
+
+IMPORTANTE:
+Acelerar o abraço do jogador por Augustus. Ele está ficando impaciente, precisa fazer essa parte da história logo.
 # Pontos Narrativos Estruturais — A Última Porta
 
 **Classificação:** Reservado ao Mestre  
