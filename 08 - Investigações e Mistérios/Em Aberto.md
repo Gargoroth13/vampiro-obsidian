@@ -48,3 +48,14 @@
 ### Continuidade pessoal
 - Resposta à pergunta de Lorenzo sobre aceitar ferir alguém como possível custo do Abraço permanece pendente desde 01/11.
 - Não há confirmação de que Henrico tenha ligado/visitado Isabella conforme combinado para 04/11.
+
+
+## Novas questões — Retorno à San Michele / S-07
+- Identidade, condição e histórico do homem pálido com cicatrizes, tornozeleira e roupa hospitalar que conhecia Lorenzo/Dario; quem é “a senhora”, o que significam as promessas e quem mais foi contido.
+- Quem instalou o controlador recente “RETORNO” e com qual propósito; quem contratou Cláudio anonimamente para desligar sistemas; quem circulou pela porta não catalogada.
+- Qual é a função real do setor S-07, quais experimentos ocorreram depois da visita anterior, e o que Helena sabe ou omite; confirmar suas declarações sem presumir veracidade.
+- Identidade do empregador e das autoridades reais do capitão Marcelo Vieira; motivo de ordem específica para impedir o retorno de Lorenzo às câmaras inferiores.
+- Se o nome de Aldo foi usado legitimamente, por manipulação, ou se Aldo tinha ciência de partes da instalação; **Henrico ainda não telefonou para Aldo**, e alegações do segurança e de Helena não provam cumplicidade.
+- O que produz os ruídos e movimentos no corredor inferior; há risco de contato com a equipe de segurança.
+- O que há nos documentos **ainda não lidos** na mochila de Cláudio; aonde leva a porta mecânica trancada na sala de equipamentos.
+- O que ocorreu com o pessoal desaparecido mencionado por Vieira e se a equipe armada tem efetivamente ordens não letais.
