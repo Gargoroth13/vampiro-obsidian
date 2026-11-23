@@ -178,3 +178,11 @@ Somente o jogador controla decisões, intenções, falas e ações voluntárias 
 | --- | --- | --- |
 | Até 04/11/2026 | Experiências e posses conforme histórico acima; valores mecânicos ainda sem definição | Registros anteriores no vault |
 | Posterior (sem data definida) | Piquenique com Isabella e retorno ao Sepulcro com Lorenzo; efeitos na ficha não documentados | Relato posterior do jogador |
+
+
+## Atualização da ficha — Retorno à San Michele / S-07 (data ficcional posterior a 04/11, não especificada)
+- **Condição:** continua humano, não Abraçado; nenhuma Disciplina ou poder necromântico novo foi adquirido nesta cena. Nenhum ferimento novo confirmado.
+- **Equipamento em campo:** pistola 1911 em mão (munição restante desconhecida); mochila de ferramentas preta recolhida de Cláudio e vestida, contendo papéis não lidos, ferramentas e lanterna; chave mecânica M-04 e cartão magnético de acesso recolhidos. A própria lanterna de Henrico e a de Cláudio foram deixadas acesas, apontadas para a entrada da sala S-07, não empunhadas no instante atual.
+- **Ações observadas:** furtividade com resultados variados; acesso à caixa de controle e falha de improvisação elétrica que ocasionou sobretensão e abriu contenções; porta de manutenção destrancada com M-04; porta S-07 destrancada com cartão. Helena foi libertada por Henrico. Uma bancada metálica foi calçada para permitir observação / possível disparo por uma fresta inferior. Nenhuma troca de tiros neste retorno até o momento.
+- **Informações que Henrico ouviu ou viu:** homem pálido chamou Lorenzo de “Doutor”, mencionou Dario e “a senhora”; Helena Duarte estava contida em S-07 e alega ter tentado impedir experimentos; monitores mostraram três seguranças armados; capitão Marcelo Vieira ofereceu três minutos para contato telefônico com Aldo e disse não ter ordens para matar. Um emissor afirmou ter falado com Aldo; Helena ouviu o nome dele em reuniões, mas **nenhuma dessas alegações comprova envolvimento de Aldo**.
+- **Objetivo imediato:** decidir se/como telefonar a Aldo enquanto capitão Vieira recua com os seguranças; segunda saída de S-07 tem fechadura mecânica trancada. Cena pausada antes da ligação.
