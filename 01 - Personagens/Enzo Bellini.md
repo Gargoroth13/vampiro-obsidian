@@ -32,3 +32,13 @@ Direção integral: [[Direção da Campanha — Reservado ao Mestre]].
 ## Personagens conhecidos
 - **Conhece pessoalmente:** Henrico pelos acontecimentos na San Michele.
 - **Não estabelecido que conheça pessoalmente:** Lorenzo, Aldo, Roberto, Isabella, Dario, Augusto, Vittoria, Tommaso, Rafael, Elena ou Matteo. Não presumir que a ligação em andamento tenha sido atendida.
+
+
+## Guia de interpretação e continuidade — Mestre (23/11/2026)
+
+> Orientações para novas cenas, não acontecimentos retroativos. Inferências dramatúrgicas não devem ser tratadas como fatos de enredo.
+
+**Eixo dramático:** sobrevivência e controle de informações operacionais num ambiente perigoso. Medo não é prova de inocência nem culpa.
+**Decisões:** mede a ameaça que cada interlocutor representa; pode impor condições, retrair-se, omitir informação ou barganhar. Sua recusa de encontrar Lorenzo é um limite real, não dificuldade que desaparece após uma conversa cordial.
+**Sabe:** rotinas, alavancas e isolamento da San Michele e parte dos acontecimentos do projeto. **Não comprovado:** extensão de sua participação, paradeiro de Dario, identidade da manifestação ou conhecimento da visita subsequente.
+**Reservado ao mestre:** conservar o fato já registrado sobre sua ajuda na saída de Dario; sua intenção exata continua aberta conforme os registros. Não entregar a verdade por conveniência narrativa.
