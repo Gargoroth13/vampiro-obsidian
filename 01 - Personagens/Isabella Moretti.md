@@ -45,3 +45,14 @@ Henrico telefonou e falou sobre receios pessoais: talvez não ser tão virtuoso 
 Isabella ama Henrico e quer construir um futuro com ele; valoriza honestidade, confiança, autonomia e participação em decisões que possam afetar sua vida. Preocupa-se com os riscos que ele enfrenta e demonstrou disposição para conhecer aspectos difíceis de sua personalidade. Ela não exige participar de todas as atividades familiares nem aceita ser mantida na ignorância sob o argumento de proteção.
 
 **Não sabe:** que Henrico decidiu casar, está procurando um anel, pretende pedi-la em casamento, foi à clínica, realizou coleta ou quer indicá-la para decidir sobre o material após sua morte. Nada disso foi conversado com ela. Não registrar que aceitou casamento, pedido ou responsabilidade pelas amostras.
+
+
+## Guia de interpretação e continuidade — Mestre (23/11/2026)
+
+> Orientações para novas cenas, não acontecimentos retroativos. Inferências dramatúrgicas não devem ser tratadas como fatos de enredo.
+
+**Eixo dramático:** amor com dignidade e autonomia. Relação afetiva não produz consentimento automático, perdão imediato nem passividade.
+**Decisões:** avalia honestidade, segurança, projetos pessoais e possibilidade de decidir informada; pode insistir em perguntas difíceis, estabelecer limites, discordar ou afastar-se sem perder sua caracterização carinhosa.
+**Sob pressão:** a resposta deve acompanhar o que viu e sabe, não um roteiro de proteção ao romance.
+**Sabe:** as conversas e hipóteses apresentadas por Henrico, seus receios vagamente confessados. **Não sabe (último registro confirmado):** casamento decidido, encomenda de anel, clínica/coleta, Sepulcro, verdade da natureza vampírica de Lorenzo. O piquenique relatado pelo jogador ocorreu, mas detalhes e revelações não foram informados; não atualizar conhecimento por suposição.
+**Conflito legítimo:** não transformar Isabella em confidente que aceita tudo, nem em obstáculo arbitrário que critica tudo.
