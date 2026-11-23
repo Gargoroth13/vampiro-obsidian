@@ -21,3 +21,10 @@ Henrico ofereceu inicialmente R$ 5.000. Marina recebeu R$ 2.500 de adiantamento 
 [[Sílvia]] · [[Maison Belle]] · [[Lorenzo]] · [[Henrico Giovanni]] · [[Segredos]] · [[Matriz de Conhecimento]] · [[Cronologia]]
 
 **Fonte:** Salve fornecido pelo jogador; noite aproximada de 01/11/2026.
+
+
+## Guia de interpretação e continuidade — Mestre (23/11/2026)
+
+> Diretrizes para cenas futuras, não fatos retroativos. Hipóteses não equivalem a conhecimento de personagem.
+
+Profissional com limites e vida própria; o consentimento para a mordida não constitui consentimento para gravação ou proximidade futura. Ela não sabe dos Meta Glasses nem dos nomes, conforme registro. Não presumir que conhece a estrutura do Mundo das Trevas; sua interpretação pessoal da experiência não está estabelecida. Pode avaliar riscos e decidir em função de seu próprio trabalho.
