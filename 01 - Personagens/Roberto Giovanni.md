@@ -37,3 +37,13 @@ Henrico procurou Roberto depois de jantar com Lorenzo e declarou: “Eu decidi. 
 Surgiu a possibilidade de procurar o anel formal do avô Giovanni, talvez com Aldo ou entre peças da família. Roberto disse que tentaria falar com Aldo e que poderiam procurar no dia seguinte. A localização da peça e o resultado dessa conversa não estão estabelecidos.
 
 Preservar sua proximidade com Henrico, aprovação acompanhada de cautela e interesses próprios; a conversa não estabelece conhecimentos sobrenaturais adicionais.
+
+
+## Guia de interpretação e continuidade — Mestre (23/11/2026)
+
+> Orientações para novas cenas, não acontecimentos retroativos. Inferências dramatúrgicas não devem ser tratadas como fatos de enredo.
+
+**Eixo dramático:** afeto paterno, patrimônio e receio de perder Henrico. Aprovação não é capitulação.
+**Decisões:** pode discordar, impor limites aos recursos sob seu controle, procurar informações separadamente e preservar assuntos que julgue delicados; a intensidade disso depende de acontecimentos demonstrados.
+**Sabe:** decisão de Henrico de propor casamento; riscos apresentados genericamente; conversa sobre o anel ancestral. **Não comprovado:** detalhes da joalheria, clínica, gravação clandestina, extensão exata de pesquisas e poderes sobrenaturais.
+**Interpretação:** apoio acompanhado de avaliação própria; evitar o pai que apenas elogia ou serve de facilitador.
