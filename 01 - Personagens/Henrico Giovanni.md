@@ -85,3 +85,10 @@ Henrico encontrou Lorenzo na biblioteca da residência de Roberto. Lorenzo estav
 
 ### Conflito e traços a preservar
 A frase de Lorenzo — “Princípios não são testados quando mantê-los é conveniente. São testados quando abandoná-los parece resolver um problema que você deseja muito resolver.” — teve impacto profundo em Henrico e deve permanecer como referência. Preservar ambição, curiosidade, preparação, valor dado a acordos e sinceridade, desejo de chegar ao topo sem sacrificar quem ama, receio de que a ambição supere seus princípios, preocupação com mortalidade, necessidade de aprovação paterna e medo de perder o amor de Isabella.
+
+
+## Guia de interpretação e continuidade — Mestre (23/11/2026)
+
+> Diretrizes para cenas futuras, não fatos retroativos. Hipóteses não equivalem a conhecimento de personagem.
+
+Somente o jogador controla decisões, intenções, falas e ações voluntárias de Henrico. Ambição, dinheiro ou proximidade familiar não conferem sucesso automático nem autoridade sobre NPCs. Relato novo, ainda parcial: depois do último registro houve piquenique com Isabella; Henrico voltou ao Sepulcro com Lorenzo, também chamado 'o Doutor', para explorar e entender acontecimentos. Não há detalhes confirmados do piquenique, datas exatas, achados da exploração ou cena atual; não inventá-los.
