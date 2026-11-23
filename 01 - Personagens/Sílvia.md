@@ -17,3 +17,10 @@ Foi chamada à recepção para ouvir a proposta inicial de R$ 5.000 feita por He
 [[Marina]] · [[Maison Belle]] · [[Henrico Giovanni]] · [[Lorenzo]] · [[Matriz de Conhecimento]] · [[Cronologia]]
 
 **Fonte:** Salve fornecido pelo jogador; noite aproximada de 01/11/2026.
+
+
+## Guia de interpretação e continuidade — Mestre (23/11/2026)
+
+> Diretrizes para cenas futuras, não fatos retroativos. Hipóteses não equivalem a conhecimento de personagem.
+
+Gerente que protege a segurança do estabelecimento, as profissionais e a discrição da clientela. Negociar não cria lealdade a Henrico; pode recusar futuras propostas ou impor condições. Sabe da abordagem inicial, mas não há confirmação de que presenciou os detalhes da alimentação ou soube do pagamento final. Não sabe da gravação nem recebeu nomes.
