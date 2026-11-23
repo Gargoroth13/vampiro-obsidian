@@ -37,3 +37,13 @@ Registro de objetos relevantes e de sua situação conhecida. Não inferir posse
 - **Anel formal do avô Giovanni:** possível peça da família, talvez com Aldo ou entre outras peças. Localização não confirmada; Roberto tentaria falar com Aldo. Não confundir com o projeto novo.
 - **Amostra biológica de Henrico:** coleta realizada em 04/11; recipiente identificado entregue a Camila e encaminhado ao laboratório. Análise pendente; não há resultados, quantidade de unidades ou plano de coletas adicionais confirmado.
 - **Contrato e documentação da clínica:** ainda não assinados/concluídos. Período de armazenamento não escolhido. Reunião jurídica futura foi proposta, mas não agendada.
+
+
+## Retorno ao subsolo — inventário em campo (posterior a 04/11; data exata pendente)
+- **Pistola 1911:** Henrico a tem em mão na S-07; disparos nesta visita não ocorreram até o salvamento; munição não contada.
+- **Mochila preta de Cláudio:** Henrico recolheu e vestiu; ferramentas e **papéis ainda não lidos**. A lanterna que estava nela foi posicionada ligada na S-07.
+- **Chave mecânica M-04:** recolhida de Cláudio; abriu a porta de manutenção entre contenção e geradores.
+- **Cartão magnético de acesso sem nome aparente:** recolhido do material de Cláudio; aceito pelo leitor da porta S-07.
+- **Lanterna própria de Henrico:** posicionada acesa em bancada, com feixe na porta S-07. A lanterna de manutenção também foi colocada voltada à entrada, usando base magnética.
+- **Controlador auxiliar:** caixa “S.M. — CIRCUITO AUXILIAR 03”, adesivo “RETORNO — NÃO DESLIGAR”; não foi recolhido. A tentativa de ponte no FAILSAFE causou indicação de sobretensão e abertura das comportas.
+- **Câmera S-07:** ativa, não destruída; microfone potencialmente ativo. **Porta alternativa:** fechadura mecânica trancada, destino desconhecido.
