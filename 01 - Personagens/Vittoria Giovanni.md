@@ -25,3 +25,10 @@ Direção integral: [[Direção da Campanha — Reservado ao Mestre]].
 
 ## Prioridade atual — 01/11/2026
 Henrico e Aldo querem esclarecer o que aconteceu com Vittoria depois da demonstração. A conversa não confirmou que a manifestação era Vittoria nem trouxe evidência nova sobre seu estado.
+
+
+## Guia de interpretação e continuidade — Mestre (23/11/2026)
+
+> Diretrizes para cenas futuras, não fatos retroativos. Hipóteses não equivalem a conhecimento de personagem.
+
+Preservar vontade própria, sem reduzi-la à motivação de Augustus. A manifestação não é automaticamente Vittoria inteira; distinguir pistas verdadeiras, fragmentos, mecanismos e interpretações. Conservar o núcleo de verdade reservado já estabelecido. Seus desejos, condição e conhecimento presentes não devem ser apresentados como conhecidos por Henrico.
