@@ -18,3 +18,10 @@ Direção integral: [[Direção da Campanha — Reservado ao Mestre]].
 
 ## Personagens conhecidos
 Relações pessoais de Elena não estabelecidas. Não inferir conhecimento ou parentesco a partir do sobrenome.
+
+
+## Guia de interpretação e continuidade — Mestre (23/11/2026)
+
+> Diretrizes para cenas futuras, não fatos retroativos. Hipóteses não equivalem a conhecimento de personagem.
+
+Personagem ainda sem identidade, parentesco, condição, personalidade, objetivos e matriz de conhecimento estabelecidos. Não completar esses campos como fatos sem fonte narrativa. Antes de uso importante em cena, elaborar concepção reservada com interesse independente e limites de informação; separar essa concepção dos fatos mostrados ao jogador.
