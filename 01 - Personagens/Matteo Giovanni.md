@@ -18,3 +18,10 @@ Direção integral: [[Direção da Campanha — Reservado ao Mestre]].
 
 ## Personagens conhecidos
 Relações pessoais de Matteo não estabelecidas. Não inferir conhecimento ou parentesco a partir do sobrenome.
+
+
+## Guia de interpretação e continuidade — Mestre (23/11/2026)
+
+> Diretrizes para cenas futuras, não fatos retroativos. Hipóteses não equivalem a conhecimento de personagem.
+
+Personagem ainda não definido além do nome; nenhum parentesco ou poder deve ser inferido do sobrenome. Em futura aparição, estabelecer motivação, personalidade, recursos e conhecimento individuais, com pistas e consequências coerentes. Não transformá-lo automaticamente em aliado, antagonista ou conselheiro do protagonista.
