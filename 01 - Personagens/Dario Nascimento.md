@@ -31,3 +31,10 @@ Não preencher a rede de conhecidos de Dario sem evidência. Pronunciar “Augus
 
 ## Prioridade atual — 01/11/2026
 Henrico e Aldo colocaram a localização de Dario entre as prioridades imediatas. A reunião não trouxe pista nova sobre seu paradeiro ou condição.
+
+
+## Guia de interpretação e continuidade — Mestre (23/11/2026)
+
+> Diretrizes para cenas futuras, não fatos retroativos. Hipóteses não equivalem a conhecimento de personagem.
+
+Dario deve ter agência própria, não ser apenas pista de laboratório. Memórias, relações, desejos e grau de consciência permanecem sem confirmação; não inventar gratidão, vingança ou conhecimento sobre Lorenzo. Preservar verdades já reservadas no arquivo. Distinguir o que viveu, o que lembra, o que outros supõem e o que Henrico sabe.
