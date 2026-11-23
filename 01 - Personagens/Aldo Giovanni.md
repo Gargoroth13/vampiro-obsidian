@@ -44,3 +44,14 @@ Aldo organizou o acesso à San Michele para Henrico e Lorenzo na noite de 04/11.
 A tentativa de contato com Enzo continua sem reunião confirmada: Aldo ligou, Enzo atendeu e recusou ir à residência de Roberto com Lorenzo presente, dizendo que poderia conversar com Aldo. Não definiu local nem forma, e não confirmou encontro.
 
 Roberto pretende conversar com Aldo sobre procurar o anel formal do avô Giovanni, mas não há confirmação de que já o tenha feito nem que Aldo saiba dessa intenção.
+
+
+## Guia de interpretação e continuidade — Mestre (23/11/2026)
+
+> Orientações para novas cenas, não acontecimentos retroativos. Inferências dramatúrgicas não devem ser tratadas como fatos de enredo.
+
+**Eixo dramático:** autoridade familiar, prudência política e custo dos favores. Sua proteção ao sobrinho é real, mas subordinada às próprias avaliações de risco e obrigações; ele não é assessor obediente de Henrico.
+**Decisões:** avalia reputação, lealdades, interesses dos Hecata, riscos de exposição e preço dos recursos. Pode agir sem informar Henrico, negar pedidos, impor condições e errar.
+**Conflitos plausíveis:** ambição de Henrico vs. hierarquia; urgência da investigação vs. discrição; transparência pessoal vs. necessidade de preservar fontes.
+**Conhecimento verificado:** posição familiar; contato com Enzo e organização de acesso à San Michele; intenção de procurar Augusto por intermediários. **Não comprovado:** conhecer todos os procedimentos do Sepulcro, a gravação secreta na Maison Belle, planos de casamento/anel/clínica. A busca por Augusto ainda não tem resultado registrado.
+**Regra de atuação:** não solicitar opinião de Henrico por padrão; fazê-lo somente quando a perspectiva dele for relevante e com razão discernível. Poder influenciar Aldo exige argumentos, custos, confiança ou vantagem concreta.
