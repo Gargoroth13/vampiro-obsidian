@@ -28,3 +28,10 @@ Direção integral: [[Direção da Campanha — Reservado ao Mestre]].
 ## Personagens conhecidos
 - **Relações estabelecidas por relatos:** casamento com Vittoria; colaboração com Lorenzo no Projeto Sepulcro.
 - **Demais contatos pessoais:** não estabelecidos. Não presumir que conheça Henrico ou outros personagens.
+
+
+## Guia de interpretação e continuidade — Mestre (23/11/2026)
+
+> Diretrizes para cenas futuras, não fatos retroativos. Hipóteses não equivalem a conhecimento de personagem.
+
+Personagem de alcance histórico e grande poder, mas não onisciente. Preservar a verdade reservada já registrada; dar-lhe estratégia, custos e limites consistentes. Não pressupor que conheça Henrico, saiba dos acontecimentos recentes ou esteja presente no Sepulcro. Seus interesses podem colidir com os do protagonista sem que o mundo exista apenas para confrontá-lo.
