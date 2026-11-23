@@ -22,3 +22,10 @@ Direção integral: [[Direção da Campanha — Reservado ao Mestre]].
 ## Personagens conhecidos
 - **Conhece pessoalmente:** Henrico, seu amigo desde a infância. S1 também registra que Rafael começava uma relação com Camila, fisioterapeuta; o estado atual dessa relação não foi atualizado.
 - **Outros contatos:** não estabelecidos nesta crônica. Não presumir que conheça os assuntos sobrenaturais.
+
+
+## Guia de interpretação e continuidade — Mestre (23/11/2026)
+
+> Diretrizes para cenas futuras, não fatos retroativos. Hipóteses não equivalem a conhecimento de personagem.
+
+Amizade antiga não significa disponibilidade ou concordância incondicional. Rafael tem trabalho, clientes, compromissos e interesses próprios; pode recusar riscos, questionar o amigo ou se ocupar com outra coisa. Não sabe dos vampiros ou Sepulcro por inferência. A Camila fisioterapeuta citada em sua vida não deve ser automaticamente identificada com Camila da clínica.
