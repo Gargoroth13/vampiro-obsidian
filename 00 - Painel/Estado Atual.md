@@ -1,40 +1,34 @@
 # Estado Atual — Crônica Giovanni
 
-## Situação da narrativa
-- **Status:** cena em andamento; Henrico ainda não respondeu ao Dr. Marcelo.
-- **Data:** 4 de novembro de 2026.
-- **Horário aproximado:** 10h40; atendimento iniciado por volta de 10h20.
-- **Local:** clínica de reprodução humana em São Paulo.
-- **Presentes confirmados:** Henrico Giovanni e Dr. Marcelo; Camila acompanhou a coleta e levou a amostra ao laboratório. Não está estabelecido quem permanece na sala neste instante.
-- **Henrico:** humano, não Abraçado; controlado exclusivamente pelo jogador.
+## Situação da narrativa — última cena efetivamente jogada
+- **Data ficcional:** posterior à manhã de 04/11/2026; dia e hora exatos do retorno noturno à San Michele não foram explicitados.
+- **Local:** sala S-07 do complexo subterrâneo da funerária San Michele, em São Paulo.
+- **Henrico:** humano, não Abraçado; está atrás de uma bancada metálica ligeiramente calçada para permitir visão por fresta junto ao piso, com pistola 1911. Porta principal fechada. Duas lanternas acesas apontam para a porta. Câmera de teto ativa.
+- **Lorenzo:** presente, com queimaduras ainda em recuperação; junto a Henrico, atento à porta e aos monitores.
+- **Helena Duarte:** liberta das contenções, disse conhecer parte do complexo; foi encaminhada para se ocultar na sala de equipamentos.
+- **Cláudio:** técnico de manutenção, assustado; também enviado para a área da sala de equipamentos.
+- **Capitão Marcelo Vieira e equipe:** do outro lado da porta principal / no corredor, três homens armados vistos nas câmeras; Vieira negocia por voz e ordenou recuo diante de ameaça não identificada no corredor inferior.
 
 ## Ponto exato de retomada
-A coleta foi realizada por Henrico e o recipiente identificado foi entregue a Camila, que o encaminhou ao laboratório. Não há resultados da análise. O Dr. Marcelo explicou períodos de armazenamento, renovação, monitoramento, contrato e documentação necessária para eventual destinação após a morte de Henrico. Deixou os documentos sobre a mesa e perguntou se Henrico gostaria de começar contratando o maior período oferecido. **Henrico ainda não respondeu.**
+Henrico explicou a Vieira que chegaram para investigar, que recolheram documentos, que não foram responsáveis por prender Helena nem por trazer Cláudio, e alertou sobre algo os perseguindo no corredor. Solicitou tempo para falar com o tio. Vieira **concedeu três minutos**, disse que não entraria na sala durante o telefonema e que sua equipe recuaria, e pediu que não tentassem sair por outra via nesse intervalo. No monitor, a equipe está recuando; há ruídos metálicos e comunicação de movimentos obscuros no corredor. Helena advertiu Henrico para não contar tudo a Aldo porque ouviu seu nome mencionado em reuniões, mas **não sabe qual era seu envolvimento**. Lorenzo acha que a ligação merece consideração e aguarda Henrico. **Henrico ainda não fez a ligação, nem decidiu exatamente o que dizer.** Próxima fala/ação deve ser do jogador.
 
-Não registrar assinatura, pagamento, período escolhido, resultado laboratorial, coletas adicionais nem reunião jurídica agendada.
+## Geografia imediata
+- **S-07:** sala clínica/de monitoramento com bancada, monitores, câmera com microfone e porta principal de aço controlada por leitor de cartão; a porta foi destrancada com cartão recolhido de Cláudio.
+- **Sala de equipamentos:** através de porta ao fundo de S-07, com servidores e espaço de ocultação entre armários. Há uma segunda porta de saída **trancada mecanicamente**; destino não confirmado.
+- **Exterior de S-07:** bifurcação de manutenção, escada identificada como SAÍDA DE SERVIÇO e corredores inferiores; pessoas/movimentos desconhecidos podem se aproximar. Não concluir identidade, quantidade ou hostilidade das fontes de ruído.
 
-## Acontecimentos pessoais recentes
-- **Noite de 03/11:** Henrico contou a Roberto que decidiu se casar com Isabella e pediu sua opinião/aprovação. Roberto aprovou, com ressalvas sobre autonomia de Isabella e sobre Henrico não tratar a própria vida como perdida. O pedido não foi feito; Isabella não sabe da decisão.
-- **Noite de 03/11:** Henrico telefonou para Isabella sobre seus receios de não ser virtuoso e de justificar atos ruins. Isabella disse que o ama como o conhece, quer conhecer as partes difíceis e não quer que ele decida sozinho por ambos. Perguntou se alguém estava pagando por atos dele; Henrico encerrou o assunto. Combinaram contato no dia seguinte e tentativa de visita, sem confirmação de cumprimento.
-- **Manhã de 04/11:** Henrico encontrou Lorenzo na biblioteca da residência de Roberto. Lorenzo estava melhor, ainda se recuperando das queimaduras. Henrico disse que passaria o dia com Isabella e voltaria às 19h para buscá-lo; Lorenzo concordou. Aldo organizou o acesso à San Michele para essa noite, mas a visita ainda não ocorreu.
-- **04/11:** Henrico visitou uma joalheria e pediu projeto exclusivo de anel. Apresentação privada pré-agendada para a manhã de 05/11, possivelmente antecipável. Pedra, desenho, orçamento, pagamento, fabricação e entrega continuam pendentes.
-- **04/11:** Henrico foi à clínica para preservar a possibilidade de continuidade de sua linhagem, considerando os riscos de suas atividades. A coleta ocorreu; destinação jurídica não foi formalizada.
+## Objetos em posse ou alcance de Henrico
+- Pistola 1911 em mão; estado exato da munição não estabelecido.
+- Mochila preta de Cláudio, recolhida e vestida, com ferramentas e **papéis ainda não examinados**; chave M-04 e cartão magnético recolhidos. A posição exata da mochila/chave/cartão após montagem das lanternas não foi atualizada, presumir ao alcance até nova ação.
+- Uma lanterna própria e uma da mochila de manutenção: ambas posicionadas acesas na sala, iluminando a entrada, não atualmente empunhadas.
 
-## Planos e limites de conhecimento
-- Henrico declarou a Roberto que decidiu casar com Isabella, mas ainda não a pediu. Isabella não sabe da decisão, do anel ou da clínica.
-- Henrico deseja indicar Isabella para decidir sobre eventual uso do material após sua morte, mas não conversou com ela nem concluiu documentação. Isso não é plano de Abraço nem conhecimento de reprodução sobrenatural.
-- A joalheria não sabe o nome de Isabella.
-- Lorenzo não recebeu informação sobre casamento, anel ou clínica. O plano confirmado é encontrá-lo às 19h para ir à San Michele.
-- Aldo organizou o acesso à San Michele. A conversa com Enzo continua sem encontro confirmado: Enzo recusou ir à casa de Roberto com Lorenzo presente, mas disse que poderia conversar com Aldo e não definiu local ou forma.
+## Fatos, declarações e incertezas
+- A abertura das comportas seguiu a tentativa malsucedida de Henrico de intervir no circuito auxiliar; não adotar sua declaração a Vieira de que “não foram abertas por nós” como relato técnico integral. Cláudio havia desligado sistemas seguindo supostas ordens de contratante anônimo. Não foi estabelecida intenção de abrir as comportas.
+- Homem pálido contido chamou Lorenzo de “Doutor”, mencionou Dario e “a senhora”; interpretação não confirmada.
+- Helena disse que procurou impedir os experimentos e que ouviu nome de Aldo em reuniões; alegações não verificadas.
+- Voz da segurança disse ter conversado com Aldo; Vieira sugeriu ligar para ele. Nenhuma confirmação independente de conexão, de ordens ou de traição por Aldo.
+- Vieira disse que seus homens não foram enviados para executar ninguém e ofereceu negociar. Seu contratante e intenções reais desconhecidos.
+- A proposta de Henrico de emboscada com Cláudio amarrado **não foi executada**. Cláudio não foi amordaçado ou preso à cadeira. A câmera também **não foi baleada**.
 
-## Pendências imediatas
-- Resposta sobre o maior período de armazenamento.
-- Resultados laboratoriais e eventual recomendação de novas coletas.
-- Revisão/assinatura do contrato e reunião jurídica futura, possivelmente com Isabella, ainda sem data.
-- Apresentação do projeto do anel e decisões subsequentes; pedido ainda não realizado.
-- Encontro com Lorenzo às 19h e visita à San Michele; exame de registros e servidor independente ainda não ocorreu.
-- Roberto pretende falar com Aldo sobre o anel formal do avô Giovanni; localização desconhecida.
-- Resposta de Henrico à pergunta de Lorenzo sobre aceitar ferir alguém como possível custo do Abraço permanece pendente desde 01/11.
-
-## Continuidade
-Detalhes de 03–04/11 estão em [[Quarto Salve]] e [[Sessão 003]]. Sequência completa em [[Cronologia]]. Para conhecimentos individuais, consultar [[Matriz de Conhecimento]] e fichas. A numeração da sessão ainda não foi confirmada.
+## Continuidade pessoal prévia
+Henrico decidiu pedir Isabella em casamento, mas o pedido não foi confirmado; projeto de anel sob encomenda ainda pendente. Consulta de fertilidade em 04/11 teve coleta feita, com resultado/contrato ainda pendentes na última cena documentada; não presumir conclusão posterior. Ver [[Cronologia]], [[Henrico Giovanni]], [[Objetos e Documentos]] e registro [[Retorno ao Sepulcro — S-07]].
