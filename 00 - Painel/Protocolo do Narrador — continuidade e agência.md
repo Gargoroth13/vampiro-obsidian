@@ -55,3 +55,13 @@ Henrico é controlado apenas pelo jogador. O Narrador controla NPCs, ambiente, c
 - Posteriormente à cena registrada na clínica houve piquenique de Henrico com Isabella; pormenores não fornecidos.
 - Houve retorno de Henrico ao Sepulcro com Lorenzo para explorar e compreender acontecimentos; resultados, cronologia precisa e ponto atual ainda não foram fornecidos.
 - **Não inventar** resultados de investigação, horário nem mudanças no conhecimento individual a partir dessas menções.
+
+
+## Ficha de jogador e resolução de ações (23/11/2026)
+- **[[Henrico Giovanni]] é também a ficha jogável do jogador**, não somente dossiê do Mestre. Seus campos de habilidades, inventário, recursos, conhecimento adquirido e poderes devem ser consultáveis **sem spoilers**.
+- Registrar evolução, treinamento, equipamento adquirido/perdido, condições, custos e capacidades conforme são confirmados. Não inventar estatísticas retroativas nem assumir que acesso a um livro implica aprendizado de ritual.
+- O jogador escolheu **d20 narrativo caseiro** para ações difíceis ou incertas. Consultar a seção completa «Sistema de testes de ação — d20 narrativo» na ficha de Henrico.
+- Ordem: verificar possibilidade e conhecimento real de Henrico → em ações triviais resolver sem rolagem → ações impossíveis não recebem rolagem → para risco real anunciar dificuldade e modificadores antes do dado → pedir ao jogador «role um d20» → receber valor informado → narrar resultado plausível.
+- Usar DC 8, 12, 16, 20 e 24 como escala; bônus conforme aptidões registradas; 20 natural não permite o impossível. Não pedir rolagens constantemente nem resolver toda oposição com um só teste.
+- Quando surgir divergência entre a ficha e fatos narrados posteriormente, reconciliar por confirmação e atualizar a ficha e a cronologia, sem apagar o histórico.
+- **Nunca colocar informações secretas do Narrador como fatos conhecidos na ficha de jogador.** Conservá-las em arquivos reservados do Mestre.
