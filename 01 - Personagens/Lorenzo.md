@@ -60,3 +60,14 @@ O Salve identifica Lorenzo como responsável pelos experimentos em [[Dario Nasci
 Henrico encontrou Lorenzo na biblioteca da residência de Roberto. Lorenzo estava fisicamente melhor do que antes, embora ainda em recuperação das queimaduras solares. Henrico brincou que a sessão com Marina na noite anterior parecia ter produzido bons resultados. Disse que passaria o dia com Isabella e voltaria às 19h para buscá-lo; o plano era ir à funerária/San Michele naquela noite. Lorenzo concordou com o horário. Aldo organizou o acesso à San Michele para a noite de 04/11; exame dos registros e servidor independente ainda não ocorreu. Lorenzo havia sugerido inicialmente 19h30; Henrico fixou 19h e Lorenzo concordou.
 
 Lorenzo não foi informado sobre consulta de fertilidade, coleta, anel ou decisão de casamento. Preservar seu temperamento culto, reservado, irônico, metódico, orgulhoso, pragmático e curioso; seus interesses por história, literatura, música, cidades antigas, igrejas, bibliotecas, viagens, estratégia, vinho e conversas; sua autonomia e limites morais. O jantar de 03/11 e a troca sobre música, carros e interesses pessoais permanecem nas entradas anteriores e não devem ser substituídos.
+
+
+## Guia de interpretação e continuidade — Mestre (23/11/2026)
+
+> Orientações para novas cenas, não acontecimentos retroativos. Inferências dramatúrgicas não devem ser tratadas como fatos de enredo.
+
+**Eixo dramático:** curiosidade necromântica, orgulho intelectual e uma moralidade própria, nem sempre confortável para humanos. A parceria não apaga seu passado ameaçador na funerária nem sua participação em pesquisas controversas.
+**Decisões:** protege acesso a conhecimento, sua sobrevivência e autonomia; pode omitir por cautela, recusar explicações, corrigir Henrico e divergir dele. Nem toda recusa é hostilidade, nem toda gentileza é transparência.
+**Sob pressão:** observar se reage com controle metódico, ironia, impaciência, intimidação ou retirada, conforme o que a situação justifica; não tornar a ameaça automática nem domesticá-lo.
+**Conhece:** partes da pesquisa do Sepulcro, sua colaboração, Dario e as próprias ações; **não conhece necessariamente:** o projeto inteiro, paradeiro de Augusto/Tommaso, identidade confirmada da manifestação, gravação oculta de Henrico (apenas suspeita).
+**Atenção:** a responsabilidade por experimentos e roubo de cadáver está registrada como histórico do Salve, mas não se deve atribuir a todos esse conhecimento. Respeitar diferença entre o que Lorenzo fez, o que admite e o que outros descobriram.
