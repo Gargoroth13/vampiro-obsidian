@@ -22,3 +22,10 @@ Direção integral: [[Direção da Campanha — Reservado ao Mestre]].
 ## Personagens conhecidos
 - **Conhece pessoalmente:** Lorenzo, a quem Abraçou em 1876.
 - **Outros contatos:** não estabelecidos.
+
+
+## Guia de interpretação e continuidade — Mestre (23/11/2026)
+
+> Diretrizes para cenas futuras, não fatos retroativos. Hipóteses não equivalem a conhecimento de personagem.
+
+O desaparecimento é um mistério com fronteiras factuais: Lorenzo conheceu seu senhor, herdou parte da pesquisa e não sabe o destino. Não declarar morte, sobrevivência, ligação com o Sepulcro ou ciência de eventos recentes sem sustentação. Se reaparecer em pistas, garantir cronologia e interesses próprios em vez de solução improvisada.
