@@ -92,3 +92,89 @@ A frase de Lorenzo — “Princípios não são testados quando mantê-los é co
 > Diretrizes para cenas futuras, não fatos retroativos. Hipóteses não equivalem a conhecimento de personagem.
 
 Somente o jogador controla decisões, intenções, falas e ações voluntárias de Henrico. Ambição, dinheiro ou proximidade familiar não conferem sucesso automático nem autoridade sobre NPCs. Relato novo, ainda parcial: depois do último registro houve piquenique com Isabella; Henrico voltou ao Sepulcro com Lorenzo, também chamado 'o Doutor', para explorar e entender acontecimentos. Não há detalhes confirmados do piquenique, datas exatas, achados da exploração ou cena atual; não inventá-los.
+
+
+## Ficha jogável — Henrico Giovanni (referência do jogador)
+
+> Esta seção é a ficha de RPG do protagonista, acessível ao jogador, sem spoilers. É a fonte central para capacidades, equipamento e recursos. Reavaliar e atualizar conforme o jogo, sem atribuir habilidades retroativamente. Estado baseado nos registros disponíveis até 23/11/2026; acontecimentos posteriores ainda podem não estar documentados.
+
+### Condição e progressão
+| Campo | Estado registrado |
+| --- | --- |
+| Natureza | Humano, vivo; ainda não Abraçado |
+| Clã / geração | Não aplicável; ascendência familiar Giovanni |
+| Disciplinas vampíricas | Nenhuma confirmada |
+| Feitiços / rituais executáveis | Nenhum confirmado |
+| Pontos de vida, ferimentos, fadiga | Não definidos mecanicamente; atualizar quando cena ou sistema exigir |
+| Experiência, níveis, atributos numéricos | Ainda não distribuídos/confirmados; **não inventar valores** |
+| Abraço | Não ocorreu, nem foi decidido pelo jogador |
+
+### Aptidões e experiência demonstradas
+| Domínio | Evidência | Limite |
+| --- | --- | --- |
+| Pesquisa e organização de informações | Catalogação, digitalização, cópias locais/nuvem/impresso; anotações por cores | Não implica perícia científica universal nem decifrar qualquer manuscrito |
+| Investigação | Participou de exploração na San Michele; segundo relato do jogador investigou furtivamente a funerária | Proficiência técnica e capacidade de infiltração ainda não quantificadas |
+| Conhecimento introdutório sobre vampiros | Conversas e estudo com Lorenzo sobre fome, Besta, Abraço, vínculos e Hecata | Conhecimento parcial, dependente de fontes; não equivale a domínio arcano |
+| Necromancia | Estudando com Lorenzo, com acesso a textos e cadernos | **Não sabe conjurar rituais/feitiços confirmados** |
+| Condução de veículo | Dirigiu o Mitsubishi Lancer Evo X em cenas registradas | Pilotagem profissional, perseguições e manobras extremas não comprovadas |
+| Uso de arma de fogo | Usou pistola 1911 durante fuga | Treinamento especializado, pontaria excepcional e munição atual não confirmados |
+| Conversas, acordos e negociação | Negociou pagamentos, consultas e questões familiares | Não possui persuasão automática; NPCs mantêm interesses e resistência próprios |
+| Planejamento financeiro e logístico | Organizou despesas, coleta, estudos e projeto de anel | Patrimônio e acesso real a recursos ainda não quantificados |
+
+### Conhecimentos adquiridos
+- Existência de vampiros e partes da sociedade vampírica, especialmente tradições Hecata, conforme conversas com Lorenzo.
+- Investigação na San Michele, existência do Projeto Sepulcro, do Custode delle Anime, Dario e manifestação feminina; considerar **relatos e suspeitas** distintos de fatos confirmados.
+- Referências a Augustus, Vittoria, Tommaso e procedimentos, sem presumir precisão ou conhecimento integral.
+- Para detalhe de quem sabe cada informação, consultar [[Matriz de Conhecimento]] e a [[Cronologia]].
+
+### Poderes, magias e técnicas especiais
+- **Poderes sobrenaturais disponíveis:** nenhum registrado.
+- **Rituais necromânticos aprendidos e utilizáveis:** nenhum registrado.
+- **Estudos em andamento:** necromancia, história e política Hecata, escritos de Lorenzo e *Il Silenzio dei Morti*.
+- **Regra:** estudar um ritual, testemunhá-lo ou possuir um grimório **não** significa conseguir executá-lo. Registrar pré-requisitos, aprendizagem, custo, material e eventuais testes antes de permitir seu uso.
+
+### Equipamentos e posses (posse atual somente quando confirmada)
+| Item | Situação / ressalva |
+| --- | --- |
+| Mitsubishi Lancer Evo X | Veículo próprio, revisado por Rafael; não confundir com outros carros utilizados |
+| Pistola 1911 | Uso anterior confirmado; **localização atual, munição e porte imediato não confirmados** |
+| Kindle Scribe | Dispositivo utilizado para organizar pesquisa; disponibilidade imediata varia por cena |
+| Meta Glasses | Usados para gravação clandestina na Maison Belle; arquivo gravado, localização/cópias ainda não especificadas |
+| *Il Silenzio dei Morti* | Exemplar emprestado por Aldo, sujeito a devolução |
+| Cadernos de Lorenzo | Acesso para estudo/organização; propriedade e transporte imediato não especificados |
+| Acervo de pesquisa | Cópias locais, nuvem e impressos conforme anotações; não presumir acesso em locais isolados |
+| Sobretudo | **Perdido/sacrificado** para proteger Lorenzo da luz solar; indisponível |
+| Anel projetado | **Não recebido**, apenas projeto na joalheria; não colocar no inventário utilizável |
+| Amostra na clínica | Entregue ao laboratório; não está em posse de Henrico |
+
+### Recursos e vínculos
+- **Financeiros:** demonstrou capacidade de desembolsar R$ 6.000 na Maison Belle, pagar serviço do Evo X e procurar joalheria de alto padrão; saldo, patrimônio, renda e limite de gastos **não quantificados**.
+- **Família:** Roberto (pai) e Aldo (tio) podem ser fontes de contato, conselho ou apoio, **não recursos irrestritos nem subordinados**.
+- **Orientação sobrenatural:** Lorenzo é professor/parceiro intelectual; mantém autonomia e interesses próprios.
+- **Relações:** Isabella, Rafael e outros possuem vida e decisões próprias; favor ou acesso a contatos não é poder mecânico automático.
+- **Acervo e logística:** pesquisa organizada e redundância de arquivos; disponibilidade exige equipamento, tempo e acesso.
+
+### Restrições e pendências
+- Ainda humano: não usar Disciplinas, força ou resistência sobre-humana, sentidos sobrenaturais nem necromancia ativa sem aprendizagem/transformação estabelecidas.
+- Proficiência em combate, arrombamento, hacking, medicina e outras especializações não é presumida por declarações genéricas.
+- Não inventar habilidades, dinheiro, equipamentos, perícias ou idiomas não demonstrados. Onde a aptidão é plausível mas incerta, cabe teste ou investigação narrativa.
+- Depois do último salve houve piquenique com Isabella e visita ao Sepulcro com Lorenzo (o Doutor), mas não foram fornecidos resultados; **ficha aguarda atualização desses acontecimentos**.
+
+### Sistema de testes de ação — d20 narrativo (regra caseira da crônica)
+- **Não é o sistema oficial de Vampiro: A Máscara**, que tradicionalmente usa conjuntos de d10. Por escolha do jogador, esta crônica adota testes narrativos com **um d20**.
+- O Narrador identifica intenção e método; decide primeiro se a ação é **automática**, **incerta porém possível**, ou **impossível nas circunstâncias**.
+- Ações triviais ou sem risco significativo acontecem sem dado. Ações impossíveis fracassam narrativamente, **sem rolagem** e sem tornar impossível em possível com 20 natural.
+- Para ação incerta com consequências relevantes, o Narrador informa **antes da rolagem** a aptidão aplicada, quaisquer bônus/penalidades pertinentes, dificuldade e riscos perceptíveis. O jogador rola um d20 físico/externo e informa o valor de 1 a 20.
+- **Dificuldade base:** 8 (fácil sob pressão), 12 (moderada), 16 (difícil), 20 (muito difícil), 24 (extrema). Sucesso se d20 + modificador >= dificuldade. Dificuldades acima de 20 requerem vantagem real, preparação, assistência ou bônus justificado.
+- **Modificadores provisórios por evidência**, enquanto não houver atributos numéricos pactuados: +2 para competência demonstrada aplicável, +4 para domínio especializado confirmado; -2 por desvantagem relevante, -4 por desvantagem grave. Sem evidência, normalmente +0, e tarefas que exigem qualificação exclusiva podem não admitir tentativa. Não acumular bônus por mera repetição de descrições.
+- **20 natural:** resultado especialmente favorável *dentro do possível*, não sucesso mágico; **1 natural:** complicação ou revés plausível, sem impor acontecimentos absurdos. Se a ação for impossível, não se pede d20.
+- Falha não precisa significar inação: pode custar tempo, recursos, exposição, ferimento ou avanço parcial, conforme riscos anunciados e coerência. Não transferir aos NPCs conhecimentos que não tiveram como obter.
+- Em oposição a NPC, determinar resistência e objetivos de modo consistente; não mudar a dificuldade secretamente depois de ouvir o resultado.
+- Conhecimento do **jogador** não é conhecimento de **Henrico**. Se declarar uma técnica que Henrico não aprendeu, o Narrador aponta o limite; poderá permitir tentativa leiga somente se plausível.
+- Novas perícias, atributos e poderes serão registrados **quando obtidos na ficção ou acordados para a ficha**. Não exigir testes para toda conversa, movimento ou escolha pessoal.
+
+### Registro de evolução
+| Data na ficção | Aquisição, treinamento, perda, ferimento ou gasto | Fonte |
+| --- | --- | --- |
+| Até 04/11/2026 | Experiências e posses conforme histórico acima; valores mecânicos ainda sem definição | Registros anteriores no vault |
+| Posterior (sem data definida) | Piquenique com Isabella e retorno ao Sepulcro com Lorenzo; efeitos na ficha não documentados | Relato posterior do jogador |
