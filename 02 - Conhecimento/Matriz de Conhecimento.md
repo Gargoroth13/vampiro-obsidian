@@ -518,3 +518,20 @@ O Salve identifica Lorenzo como responsável pelos experimentos em Dario e diz q
 - **Rafael:** sabe da visita de homem de luvas à oficina, tem chaves Evo X, pode tentar reconhecimento seguro com Diego. **Não sabe que vampiros existem.**
 - **Roberto:** sabe da violência na San Michele/alegações sobre Vieira e Aldo; encarregou Sérgio de apurar. **Não sabe que Henrico levou USB e fotos**.
 - **Lorenzo:** sabe da Tríade e Voss por envolvimento antigo; está com USB numa VM; não expert em informática; não sabe necessariamente o que ocorreu no Archivio durante ausência.
+
+---
+
+## 24/11/2026 — Separação epistêmica no Archivio Bellini
+- **Henrico:** sabe que Álvaro é tio de Enzo por relato e chamada; viu Lote 17 Série VII, listagem de lotes 17–19, recebeu referência financeira 2021 e relato de contrato 2008 por Marta. Sabe de vampiros e Augustus; **não sabe** quem é custodiante, o conteúdo do lote 19 ou destino exato da Vettore.
+- **Helena Duarte:** acompanhou Archivio, fotografou folha de expedição, ouviu os relatos de Marta, sabe da conexão declarada de Lorenzo com pesquisas antigas. **Não sabe que Lorenzo é vampiro nem que vampiros existem.** Não demonstrou saber segredo de Helena Voss.
+- **Álvaro Bellini:** sabe que Henrico reivindica ser Giovanni, que esteve com Helena e conhece Enzo; ouviu “Estou bem, tio”. Viu veículo obstruir caminhão. **Não sabe confirmadamente que Helena fotografou folha** ou conteúdo da ligação com Marta.
+- **Enzo:** sabe que Henrico estava com Álvaro e trata de assunto San Michele; não passou telefone ao tio. Continua a evitar Lorenzo.
+- **Marta:** conhece identidade real de Henrico, recebeu seu número e promessa de confidencialidade para Beatriz, sabe que ele e Helena visitaram Bellini. Tem documentos parciais e não sabe identidade de custodiante.
+- **Marina:** sabe de visitante namorado apresentado de Helena e perguntas sobre transferências, não conhece investigação sobrenatural.
+- **Cláudio:** comunicou indícios de falsificação e contenção, entregou foto; não conhece vampirismo.
+- **Eduardo:** descreveu homem de luvas e cartão de “retorno”, não conhece vampirismo. Segurança/chegada ao hotel desconhecidas.
+- **Rafael:** relatou homem parecido na oficina, tem chaves do Evo X para reconhecimento seguro, não conhece vampirismo.
+- **Roberto:** sabe de Vieira/Oliveira e violência na San Michele, enviou Sérgio; **Henrico não revelou USB nem fotos**.
+- **Lorenzo:** conhece elementos históricos da Tríade por envolvimento e tem USB em Kali VM; não é perito em computação. Não presumir que acompanhou visita à Liberdade.
+- **Patrícia:** intermediou ligação a Marta; não presumir que ouviu telefonema confidencial.
+- **Beatriz:** desaparecida, não presumir condições/local ou ciência de eventos novos.
