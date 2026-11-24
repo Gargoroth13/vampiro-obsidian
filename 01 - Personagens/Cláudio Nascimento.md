@@ -18,3 +18,8 @@ Sua proteção foi prometida por Henrico; segurança efetiva e retorno ao hotel 
 
 ## Referências
 [[San Michele]] · [[Projeto Sepulcro]] · [[Em Aberto]]
+
+---
+
+## Continuidade — ~10h20 de 24/11
+Relatou a Henrico conversa com Beatriz há aproximadamente três semanas sobre ordens com assinaturas falsas; ela mostrou diagrama, ele identificou circuito auxiliar como contenção. Mencionou Bellini na Rua dos Aflitos e enviou foto da ordem **S-07 / RETORNO / ETAPA 04**. Disse que ele, Armando e Tiago foram ao hotel, mas havia saído para buscar coisas; Eduardo foi atendido. Mulher e filha dele estão na casa da sogra; desconhecido ligou à esposa perguntando pelo desligamento. Recebeu proposta de ajuda financeira e disse que retornaria ao hotel, sem confirmação posterior.
