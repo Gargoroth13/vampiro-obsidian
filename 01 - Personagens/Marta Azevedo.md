@@ -22,3 +22,8 @@ Relatos de Marta não são automaticamente provas independentes. Não revelar su
 
 ## Referências
 [[Beatriz Valença]] · [[Álvaro Bellini]] · [[Em Aberto]]
+
+---
+
+## Seguimento por chamadas e mensagens — 24/11/2026, 11h20–11h50
+Advertiu que Álvaro Bellini trabalhava diretamente para Cesare até pelo menos 2008 e solicitou cautela. Relatou cláusula do contrato 2008: custódia especial, restrição de devolução a proprietário sem autorização de representante designado por Cesare, nome oculto, referência **CE-19**. Beatriz anotara “Por que o custodiante teria autoridade para impedir a família Giovanni de recuperar o próprio acervo?”. Encerrou ligação prometendo verificar documentação; não sabe quem foi custodiante. Sabe que Henrico e Helena estiveram no Archivio, não necessariamente que seguem caminhão.
