@@ -81,3 +81,14 @@ Registro de objetos relevantes e de sua situação conhecida. Não inferir posse
 - **Cartão do homem de luvas dado a Eduardo:** telefone (11) 3047-1989, verso “Não permita que religuem o retorno”; Eduardo disse que descartaria o cartão e manteria número. Não está em posse de Henrico.
 - **Contrato de 2008:** apenas relato da cópia em poder de Marta; contém cláusula de custódia especial por representante nomeado por Cesare, nome oculto, referência CE-19. Henrico e Helena não têm original.
 - **USB S03/BACKUP:** Lorenzo no mezanino sul da cobertura, conectado via VM Kali no computador de Henrico; pastas REGISTROS, PROCEDIMENTOS, TRANSFERENCIAS e arquivos INDEX.csv, LEIA-ME.txt listados, conteúdo desconhecido.
+
+---
+
+## Evidências — 24/11/2026
+- **Foto de ordem recebida por Henrico de Cláudio:** “S-07 / RETORNO / ETAPA 04”, descontinuidade do circuito auxiliar, autorizador oculto. Cláudio afirma tratar-se de contenção.
+- **Registro financeiro 2021 impresso** entregue por Patrícia: Archivio Bellini, referência C. Bellandi, “conservação de acervo particular”, autorização suprimida.
+- **Foto de Helena:** folha do Archivio Bellini com lote 17 Série VII (fotografias, negativos e documentação técnica; destino São Roque), lote 18 administrativo (destino oculto), lote 19 Conservação Especial (retido; liberação nominal; “Não expedir junto ao material da Série VII”).
+- **Papel de Álvaro recebido por Henrico:** Vettore Logística, lote 17 destinado ao município São Roque, endereço não fornecido.
+- **Cartão recebido por Eduardo:** (11) 3047-1989, verso “Não permita que religuem o retorno”; Eduardo disse que se desfaria dele, mas guardaria número. Henrico não possui cartão.
+- **Contrato de 2008:** apenas relato/cópia parcial em posse de Marta; custódia por terceiro designado por Cesare, nome removido, código CE-19, vínculo com lote 19 ainda não comprovado.
+- **USB S03/BACKUP:** com Lorenzo no mezanino sul da cobertura, inserido por dispositivo em VM Kali; diretórios REGISTROS, PROCEDIMENTOS, TRANSFERENCIAS e arquivos INDEX.csv, LEIA-ME.txt listados, conteúdo não examinado.
