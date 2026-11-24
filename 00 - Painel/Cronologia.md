@@ -511,3 +511,14 @@ Henrico libertou Helena, posicionou Cláudio junto à passagem da sala de equipa
 - Rafael relatou observações sobre perguntas de Helena, comprou alimentos e foi descansar na suíte de cinema **ala leste**, porta trancada. Não conhece vampiros; conheceu Lorenzo apenas nesta noite.
 - Helena **relatou** ser biomédica de 34 anos e ter sido capturada ao investigar registros na San Michele com informações da ex-pesquisadora **Beatriz Valença**, há onze dias sem contato. Mencionou documentos de **1989** com versões contraditórias sobre “transferência concluída”, anotação “Continuidade não é reprodução. O original deve persistir” e termo “Receptáculo viável. Identidade não confirmada”; diz conhecer intermediário até documentos escondidos. **Fonte:** relato não verificado de Helena.
 - Henrico e Helena conversaram sobre ética, responsabilidades, possíveis vítimas, futuro pessoal e confiança, concordando em conversa conjunta com Lorenzo no dia seguinte. Henrico a levou à suíte da **ala oeste** e mostrou roupas, banheiro e hidromassagem. **Cena em pausa ~23h56**, Helena aguarda Henrico sair pela porta aberta. Ver [[Continuação — fotografia, Tríade e noite na cobertura]] e [[Estado Atual]].
+
+---
+
+## 24/11/2026 — manhã: Vila Mariana, Archivio Bellini e Castelo Branco
+- ~08h–09h43: Henrico saiu da cobertura com Helena de Alfa Romeo; Rafael recebeu chaves do Evo X para reconhecimento seguro; Lorenzo permaneceu analisando USB em VM; Roberto encarregou Sérgio de investigar Vieira.
+- ~10h06–10h25: Henrico e Helena visitaram arquivo de Patrícia, falaram com Marta por telefone; Marta recebeu número pessoal e promessa de proteção de Beatriz; trouxe nome Archivio Bellini / C. Bellandi, pagamento de 2021.
+- ~10h18–10h33: Henrico falou com Cláudio e Eduardo; recebeu foto ordem S-07/RETORNO/ETAPA 04; Eduardo descreveu homem de luvas e cartão “Não permita que religuem o retorno”, telefone (11) 3047-1989.
+- ~10h59–11h40: visita ao Archivio Bellini na Liberdade, Álvaro e Marina; informação sobre lotes 17–19, fotografia de expedição pela Helena; revelada ligação Álvaro–Enzo; Enzo confirmou ao tio que está bem; Álvaro deu Vettore Logística e São Roque para lote 17.
+- ~11h40–11h50: Henrico e Helena seguiram caminhão Vettore até rodovia Castelo Branco; Marta detalhou contrato de 2008 com custódia condicionada a terceiro designado por Cesare, código CE-19. Henrico aventou possível autoridade de Augustus, **hipótese não confirmada**. Última cena: Helena pergunta quais itens ligados a Augustus Henrico suspeita estarem protegidos.
+- Compromisso do mesmo dia **15h30** com joalheiro permanece futuro, não executado.
+- Relatos sobre Bellandi, Beatriz e contratos são relatos/documentos parciais, e não prova de motivo/culpado. Ver [[Sessão — Arquivos da Tríade, Archivio Bellini e perseguição à Vettore]].
