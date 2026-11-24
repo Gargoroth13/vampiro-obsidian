@@ -196,3 +196,12 @@ Somente o jogador controla decisões, intenções, falas e ações voluntárias 
 - **Ajuda oferecida:** cartões para hotel e cerca de R$1.000 a cada trabalhador (Armando, Tiago, Cláudio, Eduardo), conforme aceitação individual; Armando aceitou cartão mas recusou inicialmente dinheiro. Pediu a Aldo assistência e recompensa; prometida assistência. Não confirmar viagens das famílias.
 - **Relações:** relação com Armando tensionada por tentativa fracassada de incendiar caminhão; depois Henrico se desculpou e apertaram as mãos. Rafael foi chamado por Roberto e levou Helena à cobertura. Lorenzo e Rafael **acabaram de se conhecer**, não há relacionamento anterior. Roberto e Aldo foram informados por SMS da sobrevivência de Henrico.
 - **Ponto atual:** Henrico está na sala menor do coworking do prédio da Paulista, diante de Matteo Giovanni. Examina foto da porta S-07 datada de 1989; Matteo acabou de dizer que reconhece o pai nela. Nenhuma resposta de Henrico ainda.
+
+---
+
+## Atualização — 24/11/2026, 11h50
+Humano não Abraçado; dirige Alfa Romeo Giulia na Castelo Branco rumo a São Roque, seguindo caminhão Vettore Logística com Helena Duarte no banco de passageira. Porta Colt 1911 carregada em coldre oculto. Evo X permanece na San Michele, chaves com Rafael. USB S03/BACKUP com Lorenzo na cobertura, acessado via Kali VM sem conteúdo lido.
+**Conhece:** Álvaro é tio de Enzo (confirmação em ligação), Vettore transporta lote 17 Série VII para São Roque, Lote 19 conservação especial está retido, exigindo liberação nominal. Marta relatou contrato 2008 código CE-19 designando custodiante por Cesare Bellandi; vínculo entre códigos ainda incerto. Recebeu fotografias de ordem S-07/RETORNO/ETAPA 04, referência financeira 2021 e dados de expedição de Helena. Sabe da existência de vampiros e que Augustus é patriarca, mas sua participação no contrato não é confirmada.
+**Prometeu** a Marta avisá-la primeiro caso localize Beatriz e não revelar à família até estar segura; ofereceu proteção aos prestadores. **Considera** retorno noturno ao Archivio, sem execução.
+**Pendências:** joalheiro **15h30** deste dia; Isabella desconhece pedido/anel/preservação de fertilidade. Helena desconhece natureza vampírica de Lorenzo.
+**Preferência do jogador:** se esquecer informação sabida por Henrico, lembrete breve fora do jogo sem spoilers.
