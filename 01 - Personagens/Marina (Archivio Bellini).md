@@ -18,3 +18,8 @@ Não assumir que Marina conhece segredos da Tríade, os reais proprietários dos
 
 ## Referências
 [[Álvaro Bellini]] · [[Em Aberto]]
+
+---
+
+## Continuação — 24/11/2026
+Ajudou a conferência de carga de caminhão Vettore; informou Álvaro que Alfa Romeo de Henrico obstruía a saída. Não revelou endereço exato, não trocou número com Henrico. Conhece a rotulação dos lotes, não necessariamente os reais motivos da retenção.
