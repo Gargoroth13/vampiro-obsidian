@@ -23,3 +23,8 @@ Não presumir que Álvaro sabe do conteúdo do telefonema entre Henrico, Marta e
 
 ## Referências
 [[Enzo Bellini]] · [[San Michele]] · [[Projeto Sepulcro]] · [[Em Aberto]]
+
+---
+
+## Continuação — 24/11/2026, até 11h40
+Henrico admitiu ser Giovanni sem fornecer nome completo formal, tentou obter acesso aos acervos da família; Álvaro exigiu comprovação e não liberou arquivo. Depois, Henrico obstruiu a saída do caminhão com Alfa Romeo e conversou com Álvaro na calçada, insinuando que documentos ou coisas sumiram sob Enzo na San Michele. Álvaro disse que Enzo tinha hábito de guardar cópias, mesmo indevidas, mas não confirmou desvios. Aceitou ouvir do sobrinho “Estou bem, tio” ao telefone de Henrico; demonstrou emoção e entregou como contrapartida **Vettore Logística e São Roque**, município de entrega de lote 17. Não informou endereço nem outros lotes. Depois voltou ao escritório. Não presumir que sabe das fotografias clandestinas de Helena.
