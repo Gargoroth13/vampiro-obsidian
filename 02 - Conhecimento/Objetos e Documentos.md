@@ -70,3 +70,14 @@ Registro de objetos relevantes e de sua situação conhecida. Não inferir posse
 - **Colt 1911:** Henrico sacou da cintura durante conversa com Lorenzo; localização final exata após essa ação **não narrada**. Munição restante não verificada.
 - **Fotografias dos documentos de Cláudio no celular:** ainda não analisadas em detalhe. Não atribuir a Henrico posse física dos papéis na mochila de Cláudio.
 - **Suítes da cobertura:** Rafael descansando na suíte de cinema da **ala leste**, porta trancada. Helena acomodando-se na suíte da **ala oeste**, com roupas femininas de diversos tamanhos, banheira de hidromassagem e controles de iluminação/música. Cena atual: porta aberta, Helena espera Henrico se despedir e sair. Outras amenidades não presumidas.
+
+---
+
+## 24/11/2026 — documentos e evidências recentes
+- **Fotografia da ordem de Cláudio no telefone de Henrico:** S-07 / RETORNO / ETAPA 04; descontinuidade do circuito auxiliar; assinatura/contratante ocultos. Enviada por Cláudio, origem de conteúdo ainda a verificar.
+- **Cópia impressa de referência financeira 2021** entregue por Patrícia a Henrico: “Conservação de acervo particular”, prestador Archivio Bellini, referência C. Bellandi, autorização suprimida. Henrico a possuía durante visita ao Archivio; não narrar descarte sem ação.
+- **Foto feita por Helena** de registro de expedição Archivio: lote 17 Série VII — fotografias/negativos/documentação técnica, destino São Roque; lote 18 administrativo com destino coberto; lote 19 conservação especial retido, liberação nominal, nota “Não expedir junto ao material da Série VII.”
+- **Papel entregue por Álvaro** a Henrico: Vettore Logística, São Roque como município de entrega lote 17; endereço exato não fornecido.
+- **Cartão do homem de luvas dado a Eduardo:** telefone (11) 3047-1989, verso “Não permita que religuem o retorno”; Eduardo disse que descartaria o cartão e manteria número. Não está em posse de Henrico.
+- **Contrato de 2008:** apenas relato da cópia em poder de Marta; contém cláusula de custódia especial por representante nomeado por Cesare, nome oculto, referência CE-19. Henrico e Helena não têm original.
+- **USB S03/BACKUP:** Lorenzo no mezanino sul da cobertura, conectado via VM Kali no computador de Henrico; pastas REGISTROS, PROCEDIMENTOS, TRANSFERENCIAS e arquivos INDEX.csv, LEIA-ME.txt listados, conteúdo desconhecido.
