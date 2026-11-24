@@ -42,3 +42,8 @@ Direção integral: [[Direção da Campanha — Reservado ao Mestre]].
 **Decisões:** mede a ameaça que cada interlocutor representa; pode impor condições, retrair-se, omitir informação ou barganhar. Sua recusa de encontrar Lorenzo é um limite real, não dificuldade que desaparece após uma conversa cordial.
 **Sabe:** rotinas, alavancas e isolamento da San Michele e parte dos acontecimentos do projeto. **Não comprovado:** extensão de sua participação, paradeiro de Dario, identidade da manifestação ou conhecimento da visita subsequente.
 **Reservado ao mestre:** conservar o fato já registrado sobre sua ajuda na saída de Dario; sua intenção exata continua aberta conforme os registros. Não entregar a verdade por conveniência narrativa.
+
+---
+
+## Telefonema — 24/11/2026
+Henrico contatou Enzo de frente ao Archivio Bellini; Enzo confirmou **Álvaro Bellini como tio**, de quem está afastado há anos. Ficou alarmado por Henrico visitar o escritório e relatou que Álvaro guardava materiais para pessoas questionáveis (avaliação pessoal). Aceitou dizer a Álvaro diretamente apenas “Estou bem, tio” e desligou. **Não deu número ou localização ao tio.** Ainda recusava encontro com Lorenzo. Álvaro afirmou antigas divergências comerciais e notícias desatualizadas ligadas a Milão. Não presumir localização atual de Enzo.
