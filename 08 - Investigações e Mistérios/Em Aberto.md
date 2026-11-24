@@ -81,3 +81,15 @@
 - **Beatriz Valença:** Helena relata ausência de contato por onze dias e conhece alguém que pode levar aos documentos externos. Identificar intermediário, localizar Beatriz, verificar credenciais e formação de Helena, origem de exames neurológicos, suposto atestado de óbito de paciente vivo e captura em S-07.
 - **Segurança digital:** pendrive S03/BACKUP está com Lorenzo no escritório, **desconectado e não lido**. Henrico mencionou VM Kali; precauções adicionais necessárias e Lorenzo **não tem especialização técnica**.
 - **Conversas futuras:** Helena espera conversar diretamente com Lorenzo no dia seguinte, quer acesso a dados e tenta contatar Beatriz; Rafael merece esclarecimentos compatíveis com sua segurança e grau de conhecimento, sem presumir que sabe de vampiros.
+
+---
+
+## Investigações abertas — 24/11/2026
+- Seguir caminhão Vettore Logística do **lote 17 Série VII**, destino declarado São Roque; confirmar endereço, recebedor, conteúdo e quais caixas efetivamente embarcaram.
+- **Lote 18** administrativo: destino desconhecido. **Lote 19 Conservação Especial**: retido, autorização nominal e instrução de não expedir com Série VII; verificar vínculo incerto com código **CE-19** no contrato 2008 de Cesare Bellandi, nome do custodiante e o que é protegido.
+- Checar referência financeira de 2021 C. Bellandi / Archivio Bellini e relação de Álvaro com Cesare; não assumir que Cesare morreu em 2008.
+- Beatriz Valença desaparecida, pasta lacrada sob guarda de Marta; assegurar promessa de Henrico de contatar Marta primeiro e preservar autonomia de Beatriz.
+- Identificar homem de terno/luvas, autor da adulteração da ordem S-07/RETORNO/ETAPA 04, função exata do circuito e vínculo com Helena Voss / Tríade.
+- Confirmar segurança de Cláudio, Armando, Tiago e Eduardo. Enzo confirmou estar vivo, sem revelar localização; tio Álvaro tem interesse em contato.
+- Hipótese de Augustus como autoridade que autorizou custódia, sem confirmação. Henrico aventou retornar ao Archivio à noite, **não executado**.
+- Joalheria às **15h30** no mesmo dia, ainda futura.
