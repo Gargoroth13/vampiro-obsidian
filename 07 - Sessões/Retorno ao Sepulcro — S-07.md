@@ -23,3 +23,7 @@ Henrico contou a Vieira que investigavam por ordem da família, que Helena já e
 
 ## Agência e conhecimento
 Henrico é controlado pelo jogador. Lorenzo tem interesses próprios, temperamento desconfiado e conhecimento limitado. Helena pode estar omitindo informações, mas isso não foi provado. Cláudio teme tanto equipe armada quanto Henrico/Lorenzo. Vieira declarou que quer contenção e nenhum combate, mas não há verificação independente. Aldo **não foi contatado nesta cena**. Não usar material secreto do Mestre para tornar NPCs oniscientes.
+
+
+## Continuação e retomada superada
+A pausa antes de telefonar a Aldo foi superada pelos eventos em [[Continuação — fuga da San Michele e Matteo]]. O ponto atual é a fotografia examinada por Henrico durante a conversa com Matteo. Não tratar pausas desta nota como cenas presentes.
