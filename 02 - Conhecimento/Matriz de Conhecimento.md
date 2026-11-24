@@ -502,3 +502,19 @@ O Salve identifica Lorenzo como responsável pelos experimentos em Dario e diz q
 - **Camila:** acompanhou a preparação, recebeu recipiente identificado e encaminhou a amostra ao laboratório. O que sabe além do procedimento não está estabelecido.
 
 **Fonte:** Salve fornecido pelo jogador. Não inferir resultados laboratoriais ou transferir informações pessoais aos NPCs ausentes.
+
+---
+
+## 24/11/2026 — conhecimentos por personagem (não confundir relatos com prova)
+- **Henrico:** sabe do Archivio Bellini, das etiquetas 17–19, telefone e ordem enviados pelos prestadores, contrato 2008 segundo Marta, vínculo Enzo/Álvaro alegado e confirmado por conversa. Sabe de vampiros, condição de Lorenzo e Augustus. Não sabe localização de Beatriz, paradeiro exato de Cesare, recebedor da remessa ou custodiante do CE-19.
+- **Helena Duarte:** acompanhou Henrico, fotografou folha de expedição, ouviu Marta em viva-voz e testemunhou acordo de seguimento ao caminhão. Sabe que Lorenzo colaborou com pesquisa antiga, **não sabe vampirismo nem sua idade real**. Não recebeu explicação sobrenatural sobre Voss; a identidade dela com Helena não é confirmada.
+- **Marta Azevedo:** sabe verdadeiro nome de Henrico, seu número pessoal, que esteve com Helena no Archivio, e que ele diz tentar proteger Beatriz. Tem cópia incompleta de contrato 2008/pasta de Beatriz. Não sabe identidade do custodiante.
+- **Álvaro Bellini:** sabe que visitante diz ser Giovanni, conhece Enzo e sua voz atual; viu Alfa Romeo bloquear caminhão; negociou Vettore/São Roque. Não sabe necessariamente que Helena fotografou folha ou que Marta os orientou.
+- **Enzo Bellini:** sabe que Henrico encontrou Álvaro e trata do assunto San Michele; falou “Estou bem, tio” diretamente. **Número não foi dado a Álvaro**. Não presumir que sabe do conteúdo da fotografia dos lotes.
+- **Marina do Archivio:** sabe que Henrico se apresentou como namorado de Helena, ajudou com portão, falou sobre transferências; não sabe sobrenatural ou motivo integral da investigação.
+- **Patrícia:** sabe que visitantes procuravam Beatriz, Helena veio com Henrico (inicialmente apresentado como Henrique Marques); telefonema à Marta; recebeu número pessoal. Não presumir ciência de todos os detalhes privados da chamada.
+- **Cláudio:** sabe de sua intervenção e que Beatriz investigou as ordens; contou a Henrico sobre possível contenção; não sabe vampiros. Familiar recebeu ligação de desconhecido.
+- **Eduardo:** sabe de visitante de luvas e telefone do cartão; sabe que perguntaram por Lorenzo; não sabe vampiros. Ficou de tentar chegar ao hotel.
+- **Rafael:** sabe da visita de homem de luvas à oficina, tem chaves Evo X, pode tentar reconhecimento seguro com Diego. **Não sabe que vampiros existem.**
+- **Roberto:** sabe da violência na San Michele/alegações sobre Vieira e Aldo; encarregou Sérgio de apurar. **Não sabe que Henrico levou USB e fotos**.
+- **Lorenzo:** sabe da Tríade e Voss por envolvimento antigo; está com USB numa VM; não expert em informática; não sabe necessariamente o que ocorreu no Archivio durante ausência.
