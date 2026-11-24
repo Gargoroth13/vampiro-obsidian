@@ -1,40 +1,35 @@
 # Estado Atual — Crônica Giovanni
 
-## Cena ativa e ponto de retomada
-- **Local:** sala de reuniões pequena do coworking, no térreo do edifício onde Henrico tem uma cobertura, Avenida Paulista, São Paulo.
-- **Horário ficcional:** aproximadamente **22h53**, na noite do retorno à San Michele; data do dia na ficção ainda não fixada com segurança (posterior aos acontecimentos de 04/11/2026). Exterior de céu encoberto/noite fresca; sala climatizada.
-- **Presentes:** **Henrico Giovanni** e **Matteo Giovanni** (apresentou-se como primo). Porteiro André está na recepção, não dentro da sala.
-- **Situação exata:** Matteo ofereceu a Henrico fotografia antiga dentro de envelope pardo; Henrico a pegou e está observando com atenção. Matteo acabou de dizer que reconhece **seu próprio pai** como o terceiro homem da esquerda na fotografia, entre cinco pessoas diante da porta S-07. **Henrico ainda não respondeu à revelação**. Próxima ação ou fala é do jogador. Cena deve ser breve e reativa.
+## Ponto exato para retomar
+**Local:** suíte de hóspedes da ala oeste da cobertura de Henrico, Avenida Paulista, São Paulo, ao lado do quarto principal.
+**Horário ficcional:** ~23h56, noite encoberta; dia exato não fixado, posterior a 04/11/2026.
+**Presentes:** Henrico e Helena Duarte. Henrico mostrou roupas femininas de vários tamanhos, banheiro, hidromassagem, música e iluminação. Flertou brincando com massagens. Helena agradeceu a hospitalidade, recusou massagem e quer tomar banho e dormir. **A porta da suíte ainda está aberta; Helena espera Henrico sair.** Henrico disse que ficaria no escritório do mezanino. **A próxima fala/ação é do jogador; não adiantar o tempo.**
 
-## Fotografia e envelope presentes
-- Imagem amarelada datada manuscritamente **17/09/1989**, antes da construção conhecida da funerária; há **cinco pessoas** à frente da porta **S-07**: homem magro de jaleco/óculos redondos/prancheta com rosto parcialmente encoberto; mulher de vestido escuro, cabelo preso e broche com **círculo atravessado por três linhas verticais**; três homens de terno, com parte dos rostos obscuros. A placa visível diz **“SETOR VII — TRANSFERÊNCIA”**.
-- Broche lembra o símbolo observado por Henrico na roupa de um homem pálido no subsolo.
-- Envelope, segundo Matteo recebido três dias antes sem remetente, diz **“O HERDEIRO NÃO É QUEM ELES PENSAM”**.
-- Matteo afirma reconhecer o próprio pai no terceiro homem da esquerda. **Não confirmar tal identidade sem evidência.**
-- Matteo disse que desconhecido ligou mencionando Lorenzo, Câmara Sete, Henrico e revelou o endereço da cobertura; afirma não vir em nome de Aldo. Origem e intenção desconhecidas.
+## Outros personagens na cobertura
+- **Lorenzo:** escritório pequeno no mezanino sul, com computador, estante vazia, cinzeiro e poltronas. Tem fotografia S-07 de 1989 e o pendrive S03/BACKUP **desconectado, sobre a mesa**. Não é especialista em Kali, VMs, malware ou segurança informática: narração exagerada foi corrigida expressamente.
+- **Rafael Moreira:** amigo de infância e mecânico, no quarto de cinema da ala leste com compras do mercadinho autônomo, **porta trancada**. Abalado pelo perigo, embora use humor. **Não sabe que vampiros existem; conheceu Lorenzo pela primeira vez nesta noite.**
+- **Helena Duarte:** agora na suíte oeste; não supor que seja pessoa perigosa, inocente ou Helena Voss. Respeitar sua autonomia e informação limitada.
 
-## Posições de personagens
-- **Lorenzo** está na cobertura acima, após banho e troca de roupas; conheceu Rafael **pela primeira vez nesta noite**, não se deve inventar familiaridade anterior. Está preocupado com o Sepulcro e desconfia de informações familiares, mas não tem prova de traição.
-- **Rafael Moreira** e **Helena Duarte** chegaram à cobertura. Rafael é o amigo de infância de Henrico e mecânico, enviado por Roberto para resgatá-lo. Não sabe necessariamente sobre vampiros ou necromancia; Helena conhece parcialmente operações no Sepulcro e mencionou Dra. Beatriz Valença, ex-pesquisadora com possíveis cópias externas de documentos.
-- **Roberto Giovanni** recebeu confirmação de Henrico de que está vivo e irá descansar, e oferece contato; **Aldo Giovanni** soube que ele está vivo, concedeu assistência jurídica por mensagens e prometeu apoiar os quatro trabalhadores, mas ainda não teve conversa completa com Henrico sobre o ocorrido.
-- **Armando Ferraz, Tiago, Cláudio Nascimento e Eduardo Sampaio** afastaram-se em caminhão da San Michele sob direção de Armando, pretendendo atendimento de Eduardo/oficina discreta; paradeiro posterior não verificado. Armando está irritado com tentativa de incêndio, mas aceitou desculpa e cartão de proteção. Três trabalhadores receberam algum dinheiro; não presumir pagamentos posteriores.
-- **Vincenzo, Pietro, capitão Vieira, demais seguranças e entidades liberadas:** paradeiro, condição e alianças não esclarecidos.
+## Novas revelações — Matteo
+- Matteo Giovanni, primo humano que sabe que vampiros/Hecata existem, encontrou Henrico no coworking do térreo. Deixou com ele fotografia de **17/09/1989**, cinco pessoas ante S-07, placa “SETOR VII — TRANSFERÊNCIA”, mulher com broche circular de três barras e três homens de terno. Afirma que o **terceiro homem da esquerda é seu pai**, supostamente falecido em **1991**; sem confirmação independente.
+- Envelope anônimo de três dias atrás continha “O HERDEIRO NÃO É QUEM ELES PENSAM”. Mensagens recebidas pelo telefone de Matteo durante encontro, vistas por Henrico: “Ele já perguntou sobre a mulher da fotografia? Não mencione o nome dela. Se ele souber quem ela é, não poderá mais voltar para casa.” Outra dizia para perguntar a Lorenzo sobre **setembro de 1989**. A origem e suposta vigilância são desconhecidas. Matteo tinha recebido telefonema anônimo indicando endereço secreto da cobertura.
+- Matteo identificou **Cesare Bellandi** como administrador de bens/negócios privados de seu pai em 1989; último registro que conhecia era de **2008**. Henrico anotou no celular. Matteo pretende pesquisar. Henrico revelou que viu indícios de transferência em pessoas vivas, infectados e possível coletivo, e suspeita de manipulação por terceiros.
 
-## Estado e inventário de Henrico
-- **Humano não Abraçado**, sem novos poderes. Sem ferimento pessoal confirmado após perseguição; muita tensão, bebida iniciada (uísque).
-- **Pistola Colt 1911:** recuperada da carroceria após incêndio frustrado e **oculta atrás da cintura sob a camisa** quando foi ao térreo falar com Matteo. Disparou pelo menos **quatro tiros nesta sequência** (dois no poste/luminária, um em homem ameaçando caminhão, um no motorista da van); contagem real de munição restante **não estabelecida**, não inventar recarga.
-- **Pendrive metálico `S03 / BACKUP`:** ocultado **dentro do sapato** na S-07; nenhuma retirada posterior narrada.
-- **Fotografias no celular:** ordem de serviço com contratante tarjado, folha de procedimentos e pendrive; nunca examinou conteúdo digital do pendrive. Equipamentos/papéis e mochila preta de Cláudio devolvidos a ele antes de saírem, sem confirmação de posse definitiva de outros itens.
-- **Patrimônio novo revelado pelo jogador:** cobertura na Avenida Paulista (não ostensivamente sob nome Giovanni), hotel de estrada em Sorocaba, alguns imóveis/lugares seguros e reservas financeiras de salário familiar; não inventar endereços, saldos ou capacidade dos serviços.
-- **Jaqueta:** rasgada na perseguição por Lorenzo e novamente por Henrico, que tentou queimar tecido na abertura do reservatório do caminhão; não presumir que foi conservada.
-- **Outros recursos:** conforme ficha e histórico; Evo X permaneceu na San Michele, condição atual desconhecida.
+## Revelações — Lorenzo
+- Lorenzo reconheceu mulher e homem de jaleco na foto, não identificou com segurança o homem de terno. Declarou que a mulher era conhecida como **Helena Voss**, podendo ser nome falso; broche correspondia à **Tríade de Continuidade** (corpo, consciência, identidade), grupo/teoria influente sobre procedimentos e Augusto. Supostamente dissolvida depois de setembro de 1989, com participação dele.
+- Diz ter ajudado na **preparação** de procedimento de transferência entre suportes biológicos em setembro de 1989, não execução; o protocolo teria mudado sem seu consentimento; três pesquisadores desapareceram dos registros; fotografias dessa época deveriam ter sido destruídas.
+- Conheceu **Cesare Bellandi** como administrador de pagamentos, contratos e transporte, não cientista.
+- O primeiro nome compartilhado **Helena Voss / Helena Duarte** levantou SUSPEITA NÃO CONFIRMADA de transferência de consciência. São rostos diferentes. Não declarar identidade compartilhada ou ameaça como fato.
+- Henrico tirou pistola 1911 da cintura no escritório; posição final depois não descrita. Entregou pendrive S03/BACKUP a Lorenzo; **nenhum arquivo lido, não inserido no computador**. Henrico tem VM Kali, mas isso não torna o dispositivo imune a risco.
 
-## Continuidade importante e limites
-- O retorno à San Michele desencadeou abertura de comportas após falha de intervenção de Henrico no controlador recente; criaturas aparentemente conheciam nomes e procuravam um “herdeiro”/“filho errado”; significados desconhecidos.
-- Fotografia de 1989 **não comprova** linhagem/identidade das pessoas ou que Matteo diga verdade.
-- Na avenida Henrico disparou, feriu agente e motorista de van; van colidiu, possíveis danos e vítimas, **não declarar morte confirmada sem verificação**. Tentou incendiar caminhão diesel com cigarro/pano, mas fogo localizado foi extinto por Armando.
-- Usuário pede **cenas mais curtas**, com oportunidades frequentes para ação, e cabeçalho **local — cidade — horário ficcional — clima** ao mudar de cena.
-- **Rafael e Lorenzo não se conheciam antes desta fuga**; contato inicial ocorre no portão norte.
-- Respeitar convenção: asteriscos = ação de Henrico, texto simples = fala de Henrico, parênteses = meta; não controlar Henrico; rolagens d20 só em incerteza relevante, sem revelar DC/resultado antecipado.
+## Revelações — Rafael e Helena
+- Rafael disse que Helena perguntara se Henrico morava sozinho, se Lorenzo trabalhava para a família e há quanto Henrico o conhecia, além de aparentemente conhecer bem o caminho pela cidade. Impressões não comprovam intenções.
+- Helena **alega** ser biomédica de 34 anos, especialista em neurofisiologia, ter analisado registros de padrões cerebrais anormalmente coincidentes e investigado Sepulcro com documentos da ex-pesquisadora **Dra. Beatriz Valença**. Entrou na San Michele com credenciais de prestadora de serviço, foi capturada, sedada e presa em S-07. Tudo a verificar.
+- Beatriz estaria sem responder **há onze dias**. Segundo Helena, documentos externos de 1989 descrevem três versões de um evento: falha elétrica, encerramento voluntário e **transferência concluída**. Frases relatadas: “Continuidade não é reprodução. O original deve persistir.” e “Receptáculo viável. Identidade não confirmada.” Helena conhece alguém que pode indicar onde Beatriz guardou documentos, mas não revelou contato/endereço. Quer falar diretamente com Lorenzo amanhã e tentar telefonar a Beatriz.
+- Helena diz ter visto um dos pacientes com **atestado de óbito anterior** e ausência de atividade cardíaca; Henrico falou em “cadáveres ambulantes” mas desconversou. Ele não revelou vampirismo ou a hipótese Voss/Duarte.
+- Em conversa pessoal amistosa e levemente flertante, Henrico disse desejar esposa e filhos, preparando cobertura minimalista como “quadro em branco”, embora viva principalmente na mansão Giovanni; sente-se atraído por uma italiana (outras sessões sugerem Isabella Moretti, **nome não contado a Helena**) e evita envolvê-la no perigo. Descreveu Lorenzo como primo próximo com suposta “condição genética” que talvez possa desenvolver — eufemismo, sem revelar sobrenatural. Helena debateu autonomia, confiança, ética, responsabilidades da família e aceitou hospitalidade.
 
-Detalhes completos em [[Continuação — fuga da San Michele e Matteo]], [[Cronologia]] e [[Objetos e Documentos]].
+## Itens e limites
+- **Humano não Abraçado.** Colt 1911: contagem de munição desconhecida; sacada no escritório, localização atual após isso não afirmada. Pendrive S03/BACKUP entregue a Lorenzo e NÃO conectado. Fotografia 1989 exibida a Lorenzo e deixada no escritório. Documentos fotografados no celular não examinados ainda. Cesare Bellandi anotado no celular.
+- Não transformar falas/teorias dos NPCs em fatos. Manter cenas curtas, oportunidades frequentes para ação e cabeçalho de local/horário/clima ao trocar de cena. Rafael e Lorenzo recém-conhecidos.
+- Registro detalhado em [[Continuação — fotografia, Tríade e noite na cobertura]].
