@@ -59,3 +59,15 @@
 - O que produz os ruídos e movimentos no corredor inferior; há risco de contato com a equipe de segurança.
 - O que há nos documentos **ainda não lidos** na mochila de Cláudio; aonde leva a porta mecânica trancada na sala de equipamentos.
 - O que ocorreu com o pessoal desaparecido mencionado por Vieira e se a equipe armada tem efetivamente ordens não letais.
+
+
+## Após a fuga — novas linhas abertas
+- **Fotografia S-07 de 17/09/1989:** identificar cinco figuras, especialmente mulher com símbolo de círculo/três linhas, homem de jaleco e o homem que Matteo afirma ser seu pai; verificar origem, autenticidade, inscrição “SETOR VII — TRANSFERÊNCIA” e por que existe imagem anterior à San Michele.
+- **Matteo Giovanni:** verificar quem enviou envelope há três dias, quem telefonou mencionando Lorenzo, Câmara Sete e Henrico, e como descobriram cobertura ostensivamente desvinculada da família; Matteo diz não vir por Aldo.
+- **“Herdeiro” / “filho errado”:** por que criaturas procuraram Henrico, filho de Roberto; não assumir irmão desconhecido, filiação alternativa ou compromisso prévio de Lorenzo.
+- **Operação no Sepulcro:** desvendar duas ordens incompatíveis de circuito (Cláudio contratado anonimamente para desligar; Eduardo recebeu ordem do escritório técnico para restabelecer), código S03/BACKUP do pendrive escondido no sapato, origem do controlador “RETORNO” e papel de Helena/Dra. Beatriz Valença.
+- **Equipes armadas:** confirmar quem empregou capitão Vieira e vigilantes do SUV/van, quem era a “equipe de recolhimento”, quantos ficaram feridos/morreram e se há ligação com Aldo, sem adotar acusações como fatos.
+- **Vincenzo e Pietro:** relato telefônico de ferimento que desapareceu e comportamento estranho; destinos atuais não confirmados.
+- **Consequências civis e legais:** tiroteio em avenida, agente atingido, motorista de van alvejado, colisões e ferimentos de terceiros possíveis; rastreamento do caminhão e imagens de segurança podem importar. Aldo ofereceu assistência jurídica, nada resolvido.
+- **Proteção dos trabalhadores:** Armando, Tiago, Cláudio Nascimento e Eduardo Sampaio receberam cartões/ajuda; suas famílias ainda precisam decidir deslocamento a Sorocaba; Eduardo precisa atendimento e quer identificar responsáveis por imobilização.
+- **Rafael e Helena:** estão na cobertura, Rafael não é iniciado nos segredos vampíricos sem explicação. Helena sabe de Beatriz Valença, que pode ter relatórios externos; verificar confiabilidade dela.
