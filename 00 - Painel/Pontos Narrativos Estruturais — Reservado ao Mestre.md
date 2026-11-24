@@ -1,7 +1,7 @@
 > **MESTRE — SPOILERS INTEGRAIS.** Documento reservado. Não compartilhar, resumir ou antecipar ao jogador os acontecimentos futuros aqui registrados.
 
 IMPORTANTE:
-Acelerar o abraço do jogador por Augustus. Ele está ficando impaciente, precisa fazer essa parte da história logo.
+Acelerar o abraço do jogador por Augustus. Ele está ficando impaciente, precisa fazer essa parte da história logo. Adicionar a oportunidade de abraço a Henrico nos proximos 4 dias in game. Se prepare para fazer esse gancho e faça parecer natural. O abraço não é um ponto de finalização da narrativa, mas seria a o final da introdução, onde o mundo que o jogador quer jogar realmente se abre e oportunidades de crescimento e dilemas do jogador realmente se tornam mais relevantes, além de trazer mais do mundo das sombras para o enredo.
 # Pontos Narrativos Estruturais — A Última Porta
 
 **Classificação:** Reservado ao Mestre  
