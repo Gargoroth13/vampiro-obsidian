@@ -522,3 +522,13 @@ Henrico libertou Helena, posicionou Cláudio junto à passagem da sala de equipa
 - ~11h40–11h50: Henrico e Helena seguiram caminhão Vettore até rodovia Castelo Branco; Marta detalhou contrato de 2008 com custódia condicionada a terceiro designado por Cesare, código CE-19. Henrico aventou possível autoridade de Augustus, **hipótese não confirmada**. Última cena: Helena pergunta quais itens ligados a Augustus Henrico suspeita estarem protegidos.
 - Compromisso do mesmo dia **15h30** com joalheiro permanece futuro, não executado.
 - Relatos sobre Bellandi, Beatriz e contratos são relatos/documentos parciais, e não prova de motivo/culpado. Ver [[Sessão — Arquivos da Tríade, Archivio Bellini e perseguição à Vettore]].
+
+---
+
+## 24/11/2026, manhã — Arquivos da Tríade e Archivio Bellini
+- Henrico deixou cobertura com Helena de Alfa Romeo; Lorenzo ficou examinando USB S03/BACKUP via VM Kali, Rafael recebeu chaves do Evo X para avaliar recuperação segura e Roberto pediu a Sérgio investigação sobre Vieira.
+- Vila Mariana, ~10h: Patrícia intermediou contato de Henrico e Helena com Marta Azevedo; Marta mencionou Beatriz desaparecida, Cesare Bellandi, registro financeiro 2021 e Archivio Bellini.
+- Henrico ligou a Cláudio e Eduardo: foto da ordem S-07/RETORNO/ETAPA 04; alegação de circuito de contenção; homem de luvas procurava prestadores e perguntou por Lorenzo; cartão (11) 3047-1989.
+- ~11h: no Archivio Bellini, Henrico conheceu Álvaro, tio de Enzo, e Marina. Viu lote 17 Série VII, lote 18 administrativo, lote 19 conservação especial retido/autorização nominal; Helena fotografou folha de expedição. Henrico ligou para Enzo, que falou “Estou bem, tio” com Álvaro; este informou transportadora Vettore e destino São Roque do lote 17.
+- ~11h50: seguem caminhão Vettore pela Castelo Branco. Marta relatou contrato 2008 com custodiante nomeado por Cesare e referência CE-19. Hipótese de envolvimento de Augustus não comprovada. Helena perguntou o que Henrico acredita estar sendo protegido.
+- Compromisso 15h30 com joalheiro ainda pendente. Detalhes completos em [[Sessão — Arquivos da Tríade, Archivio Bellini e perseguição à Vettore]].
