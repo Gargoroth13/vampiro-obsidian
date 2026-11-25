@@ -82,3 +82,11 @@ Henrico é controlado apenas pelo jogador. O Narrador controla NPCs, ambiente, c
 - Respeitar conhecimentos separados, cronologia, condições, vínculos e traços; nunca revelar ao jogador material reservado ao Mestre. Não converter possibilidades, boatos ou informações de bastidores em fatos conhecidos dos NPCs.
 - Ao iniciar nova cena depois de um salve, conferir **Estado Atual** e NPC(s) prestes a ser interpretado(s).
 - Também preservar orientação anterior: diálogos humanos e naturais, com subtexto; não verbalizar sistematicamente pensamentos, intenções e explicações internas dos NPCs; não terminar toda cena com pergunta a Henrico; família Giovanni como poder mafioso e não como burocratas legalistas.
+
+---
+
+## Prioridade narrativa adicional — 24/11/2026 (pedido explícito do jogador)
+- A campanha precisa **mostrar efetivamente Vampiro: A Máscara**: outros vampiros, vários clãs, Camarilla, Hecata, Anarquistas, Máscara, predadores, poderes e sociedade noturna em cena, não apenas em documentos. Não alongar indefinidamente a investigação humana enquanto o gênero prometido não aparece.
+- O jogador deseja que uma **oportunidade concreta de Abraço** surja mais cedo, com um senhor **de geração numericamente menor** (mais próxima da Primeira) que Lorenzo, vampiro de **9ª geração**. Em regra, uma cria tem número de geração **um maior que o do senhor**: e.g., senhor 5ª -> cria 6ª. O Abraço não foi realizado; preservar a escolha voluntária de Henrico e consequências reais.
+- **Planejamento específico, ofertantes, identidade/gerações de NPCs ainda não introduzidos e possíveis razões estão unicamente em notas reservadas ao Mestre**. Não expor spoilers ao jogador nem à Matriz de Conhecimento. Conferir [[Direção da Campanha — Reservado ao Mestre]] para execução.
+- Reduzir repetição de "pista conduz a outra pista" com descobertas efetivas e escolhas. Não predeterminar decisões, não eliminar momentos afetivos que importam e não forçar vulneráveis a sofrer para acelerar uma transformação.
