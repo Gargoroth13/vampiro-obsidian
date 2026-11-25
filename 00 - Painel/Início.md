@@ -46,3 +46,13 @@
 - Não tornar todos os NPCs éticos, protetores ou conciliadores. Preservar a autonomia e os interesses próprios de cada um.
 ## Mestre — spoilers
 - [[Direção da Campanha — Reservado ao Mestre]] (conteúdo visível no Obsidian)
+
+---
+
+## Retomada em 24/11/2026, ~22h21
+- **Ponto vivo e personagens:** [[Estado Atual]] · [[Cronologia]] · [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]] · [[Sessão — Vettore, anel de Isabella e noite na cobertura (24-11-2026)]].
+- **Personagens da noite:** [[Henrico Giovanni]] · [[Lorenzo]] · [[Aldo Giovanni]] · [[Leandro Vasconcelos]] · [[Pietro]] · [[Verônica Leme]] · [[Cesare Bellandi]].
+- **Cobertura e parentes próximos:** [[Isabella Moretti]] · [[Helena Duarte (biomédica)]] · [[Rafael Moreira]] · [[Roberto Giovanni]] · [[Eduardo Sampaio]] · [[Cláudio Nascimento]].
+- **Outros NPCs com fichas:** [[Álvaro Bellini]] · [[Enzo Bellini]] · [[Marina (Archivio Bellini)]] · [[Marta Azevedo]] · [[Patrícia (arquivo de Marta)]] · [[Valentina Ricci]] · [[Ricardo (conferente Vettore)]] · [[Steffano (cantina)]] · [[Helena Voss]] · [[Marcelo Vieira]] · [[Beatriz Valença]].
+- **Locais, transportadoras e investigação:** [[San Michele]] · [[Archivio Bellini]] · [[Vettore Logística]] · [[Arcádia Administração Patrimonial]] · [[Projeto Sepulcro]] · [[Objetos e Documentos]] · [[Em Aberto]] · [[Promessas]] · [[Dívidas e Favores]].
+> As seções antigas desta página podem fazer referência à sessão de 04/11 ou de 17h53: são históricas. A retomada correta é o título acima e [[Estado Atual]]. Personagens **reservados/futuros** não são listados aqui; usar [[Índice Reservado — Personagens Futuros]] apenas como Mestre, sem ler segredos ao jogador.
