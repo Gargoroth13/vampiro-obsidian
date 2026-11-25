@@ -8,7 +8,7 @@
 - [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]] · [[Quarto Salve]] · [[Sessão 003]]
 
 ## Personagens
-- [[Joana Ferrugem Reis]] · [[Leandro Vasconcelos]] · [[Ottavia Giovanni — Reservado ao Mestre|Ottavia (Mestre — reservado)]]
+- [[Joana Ferrugem Reis]] · [[Leandro Vasconcelos]] · [[Ottavia Giovanni]]
 - [[Henrico Giovanni]] · [[Isabella Moretti]] · [[Roberto Giovanni]] · [[Aldo Giovanni]] · [[Lorenzo]]
 - [[Augustus Giovanni]] · [[Vittoria Giovanni]] · [[Rafael Moreira]] · [[Elena Giovanni]] · [[Matteo Giovanni]]
 - [[Enzo Bellini]] · [[Dario Nascimento]] · [[Tommaso Giovanni]]
