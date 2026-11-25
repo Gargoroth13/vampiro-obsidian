@@ -18,3 +18,11 @@ O colar de diamantes foi um presente afetivo, não uma dívida ou obrigação.
 
 ## Maison Belle — 01/11/2026
 Henrico pagou R$ 2.500 de adiantamento e mais R$ 3.500 a Marina após a alimentação, totalizando R$ 6.000. Não há dívida financeira pendente registrada. A promessa verbal de Marina de manter a experiência privada está em [[Promessas]]. A gravação secreta de Henrico não foi consentida por Marina e não deve ser tratada como parte do acordo.
+
+---
+
+## 24/11/2026, 21h19 — acordo verbal de carros (condicional)
+[[Henrico Giovanni]] e [[Lorenzo]] apertaram as mãos: Lorenzo tentará recuperar o [[Mitsubishi Lancer Evo X]] da [[San Michele]] **sem arranhões novos**, e **se conseguir**, Henrico lhe cederá a propriedade do **Alfa Romeo Giulia**. Giulia ainda é de Henrico e está estacionado na [[Residência de Roberto]]. Não presumir que acordo cumprido, obrigação de pagamento vencida ou carro transferido. [[Rafael Moreira]] não foi informado.
+## 24/11/2026 — articulação noturna
+[[Aldo Giovanni]] e [[Pietro]] negociaram pagamento a segurança do [[Archivio Bellini]] para entrada de dois visitantes às 23h30, **ainda não executada**, valor exato não declarado. Cooperação limitada de Aldo e [[Leandro Vasconcelos]] no caso [[San Michele]] não criou boon formal de Henrico.
+Referências: [[Promessas]] · [[Matriz de Conhecimento]] · [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]].
