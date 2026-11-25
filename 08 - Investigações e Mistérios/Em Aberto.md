@@ -93,3 +93,15 @@
 - Confirmar segurança de Cláudio, Armando, Tiago e Eduardo. Enzo confirmou estar vivo, sem revelar localização; tio Álvaro tem interesse em contato.
 - Hipótese de Augustus como autoridade que autorizou custódia, sem confirmação. Henrico aventou retornar ao Archivio à noite, **não executado**.
 - Joalheria às **15h30** no mesmo dia, ainda futura.
+
+---
+
+## 24/11/2026 — atualização da tarde/noite
+- **Vettore:** investigar divergência entre lacre e manifesto, pressão do destinatário e suposto custodiante, conferência de Ricardo no posto, resultado da descarga na base operacional **Araçariguama**, destino das caixas Série VII, qualquer carga retirada separadamente, e transporte subsequente; nenhum roubo ou abertura foi comprovado.
+- **Aldo/Pietro:** Aldo prometeu verificar Vettore/Bellini/autorização e mandar observação discreta, suspendeu abordagens. Aguardar resultado, sem inventar apuração.
+- **S03/BACKUP:** Lorenzo encontrou índice com Série VII /1989 / custódia transferida 2008 / C. Bellandi e CE-19 retido “vinculação com Série VII não concluída”. O que significa e conteúdo dos arquivos permanecem desconhecidos. Verificar primeira referência ao CE-19 e condições de conservação.
+- **Lote 19:** continua hipótese de incursão noturna ao Archivio por Henrico e Lorenzo; **não executada**. Helena não foi convidada à incursão, não conhece riscos sobrenaturais.
+- **Enzo, Beatriz, Cesare e homem de luvas:** linhas continuam abertas conforme registros anteriores.
+- **Isabella e proteção:** Isabella ficou sabendo da violência real e risco, aceitou experimentar 2–3 dias na cobertura; reconciliação emocional em curso. Não sabe de vampiros, anel, fertilidade ou incursão noturna.
+- **Noivado:** encomenda paga parcialmente **30%**, anel tamanho pendente; aliança de prata de Isabella guardada furtivamente no bolso de Henrico para medida; cuidar de devolver sem presumir sucesso automático. Entrega e pedido ainda não realizados.
+- **Rafael:** Evo X não recuperado devido a nova segurança; pretende ir à cobertura, chegada desconhecida.
