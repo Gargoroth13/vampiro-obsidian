@@ -672,3 +672,101 @@ A visita a San Michele às 19h de 04/11 está organizada, mas ainda não ocorreu
 A organização operacional dos arcos, marcos próximos, intermediários e distantes, conflitos de interesse, pontos condicionais e limites de continuidade está em [[Pontos Narrativos Estruturais — Reservado ao Mestre]]. Consultar esse documento junto desta direção, mantendo os segredos e verdades reservadas aqui separados do conhecimento dos personagens.
 
 **Correção de continuidade:** não existe ataque planejado na Normandia, não há morte planejada de Aldo Giovanni e Mireille Vautrin não pertence ao cânone desta crônica. A referência do jogador à Normandia e a uma morte foi apenas um exemplo abstrato. Nenhum NPC está marcado para morrer por esse exemplo. O destino de Aldo e dos demais personagens permanece sujeito aos acontecimentos e às escolhas da campanha.
+
+---
+
+
+# ADENDO PRIORITÁRIO DO MESTRE — 24/11/2026 — O MUNDO DOS AMALDIÇOADOS ENTRA EM CENA
+
+> **SEGREDO ABSOLUTO / DIREÇÃO REVISADA POR SOLICITAÇÃO DO JOGADOR.** Aplicação desde o ponto atual (~18h04, varanda da cobertura de Henrico e Isabella). Este adendo é **mais recente e prevalece** sobre os prazos de 04/11 que colocavam novos vampiros, outros clãs e a oferta do Abraço num futuro distante. Planejamento não é ocorrência, profecia, consentimento ou conhecimento de Henrico/NPCs. Não expor os detalhes aqui ao jogador.
+
+## 35. Correção de rumo: esta é uma crônica de VAMPIRO: A MÁSCARA, não só uma sucessão de dossiês
+**Problema identificado pelo jogador:** após semanas de campanha, só Lorenzo apareceu de forma visível como vampiro. Houve muitos documentos e pistas encadeadas, mas quase nada de sociedade vampírica, Camarilla, outros clãs, Máscara, predadores e disputas sociais próprias de VtM. Corrigir **já**, sem descartar o Sepulcro, Isabella ou a parte humana.
+
+**Meta de execução verificável e prioritária:**
+1. **Na próxima noite ficcional em que Henrico circular, investigar ou receber consequências dos fatos já ocorridos**, introduzir no palco **ao menos um vampiro novo claramente identificável como tal**, em interação real, não uma simples mensagem cifrada ou referência em arquivo. A política dos vampiros deve ter efeito sobre a ação.
+2. **Dentro das próximas 24–72 horas ficcionais**, trazer **ao menos três vampiros distintos de Lorenzo**, com clãs e vontades próprias, sendo ao menos um **fora da família Giovanni/Hecata** e um representante real da **Camarilla**. A oportunidade de conversar/negociar deve existir; não exigir que Henrico visite um local arbitrário para que o mundo comece a agir.
+3. A aparição deve nascer de consequências já estabelecidas: ataques e disparos na San Michele, vigilância e empresas de segurança, carga Vettore com lacre irregular, Livro/CE-19, demanda de Pietro/Aldo, custódia Giovanni, possível incursão noturna ao Archivio, gente desaparecendo, risco de violação da Máscara. **Não trocar cada pista por outras três**: oferecer respostas concretas, confrontos e escolhas. Um antagonista pode agir diretamente sem um intermediário a mais.
+4. Não interromper artificialmente o momento íntimo com Isabella às 18h04, nem impor uma ação a Henrico. Deixar a cena presente respirar, mas **não adiar o sobrenatural quando o relógio ficcional seguir para a noite**.
+5. Alternar investigação com **alimentação, fome, hierarquia, favores de sangue, Elysium, influência sobre humanos, território, coerção e preço de manter a Máscara**. Deixar a vida noturna ser vista e vivida. Personagens com humanidade, defeitos, humor, medo e escolhas; não NPCs de exposição enciclopédica.
+
+**Ritmo de payoff:** a cada um ou dois passos importantes da investigação, entregar pelo menos uma resposta verificável, decisão significativa ou consequência material. Reviravolta só quando preparada, não como substituição automática da resposta. O lote 19 deve tornar-se uma fonte de descoberta concreta em prazo curto, por inspeção, barganha ou consequência da custódia, sem garantir sucesso da invasão nem remover oposição legítima.
+
+## 36. Sociedade vampírica paulista desta crônica (cenário local da campanha, não afirmação sobre cânone oficial)
+**Estado secreto do cenário:** São Paulo tem interesses da **Camarilla** consolidados em domínios e redes humanas (bancos, clínicas, cartórios, polícia, segurança, espaços culturais), zonas disputadas por **Anarquistas**, e corredores logísticos onde **Hecata/Giovanni** atuam como independentes, negociando acesso, favores e não interferência. **Não assumir que todo o estado ou cidade seja domínio incontestado de um só Príncipe**, nem atribuir ao cânone internacional nomes ou cargos inventados para esta crônica. Fixar hierarquia local durante os primeiros contatos e manter consistência.
+
+- **Camarilla:** representantes Ventrue, Nosferatu e eventualmente Toreador/Tremere têm agendas distintas. Preocupação central com exposição na San Michele e movimentação noturna, não com o detalhe completo do Sepulcro. Um emissário pode invocar a Máscara e exigir reparação, não só fazer palestra.
+- **Hecata:** clã da morte composto por ramificações que não equivalem automaticamente aos Giovanni; parte evita Augusto, parte ainda busca seu favor; família mafiosa Giovanni opera com favores, corrupção, violência e laços de sangue; politicamente independente e obrigada a negociar com seitas locais. O **Círculo da Soleira** não representa todo o clã.
+- **Anarquistas:** poderes de bairro e redes informais; não existem apenas como rebeldes bons ou rebeldes violentos. Interesse na circulação de carga, desaparecidos e abusos dos territórios Camarilla/Giovanni. Oportunidade de Henrico obter ajuda fora da família, com preço.
+- **Máscara:** o tiroteio, a fuga, gravações, empresas de vigilância e funcionários vivos geram problema real de ocultação. Camarilla, Aldo e a polícia humana querem coisas diferentes. Não converter tudo em "violação inevitável" nem punir testemunhas indiscriminadamente. O Estado humano tem competência própria; não todos controlados por vampiros.
+- **Prestação de contas social:** boons/favores, dívida de sangue, hospitalidade, territórios e hierarquia devem ter consequências sociais palpáveis. Não anunciar todos os termos como aula. Apresentá-los em ação ou por Lorenzo, quando Henrico perguntar.
+
+### NPCs planejados do mundo noturno — fichas privadas até surgirem em jogo
+
+**I. Ottavia Giovanni — Hecata/Giovanni, 5ª geração (Verdade reservada)**
+- Mulher vampira muito antiga; linhagem direta de **Augustus quando este ainda era de 4ª geração**, logo Ottavia permanece de **5ª geração**, independentemente de mudanças posteriores na condição dele. A exatidão dessa ascendência é secreta e não precisa ser divulgada nem a Henrico nem a todos os NPCs. Não criar genealogia adicional não estabelecida.
+- Viveu décadas mantendo estruturas e pactos Giovanni fora do Brasil, e possui interesse próprio no destino dos antigos arquivos e na exposição criada pela movimentação de 2008/2021. Pode chegar à região por consequências da custódia de Cesare e da reativação de operações, mas **não identificar Ottavia automaticamente como a custodiante CE-19 nem como autora das transferências**; identidade do custodiante permanece mistério com solução por evidências.
+- Não participou necessariamente de cada experimento de Sepulcro nem sabe tudo sobre Dario, Voss ou Vittoria. Seu alcance é enorme, mas fontes podem enganá-la; não é salvadora onisciente.
+- **Temperamento:** cortesia controlada, pragmatismo predatório, humor seco, paciência antiga e intolerância a demonstrações vazias de poder; adora transformar compromissos familiares em relações assimétricas. Pode admirá-lo e ainda tentar controlá-lo; não pode ser apenas "a vampira que dá poderes".
+- **Objetivo privado:** impedir que um rival faça do patrimônio oculto da família uma arma irreversível, assegurar um herdeiro/aliado em posição útil e preservar a própria autonomia política. Seu interesse por Henrico surge de atos concretos dele: resgate de empregados, enfrentamento de segurança interna, investigação de carga e risco assumido por Isabella — não apenas por um destino místico.
+- **Papel de Abraço:** possível ofertante **prioritário** para um Abraço de geração excepcional. **Se Ottavia (5ª) Abraçar Henrico, ele será da 6ª geração**, portanto numericamente mais próximo da 1ª e de sangue mais potente em potencial que **Lorenzo (9ª)**. Não atribuir poderes/experiência herdados automaticamente. Ver §38. Ottavia precisa ter razão contextual para fazer a oferta; não simplificar seu preço nem obrigar Henrico a concordar.
+- **Introdução orgânica:** sua autoridade pode ser anunciada por contato direto de Aldo ou por uma exigência sobre o destino dos documentos; uma cena pessoal deve ocorrer rapidamente, não ficar só numa pista para daqui a dezenas de sessões. Ela pode entrar na órbita da noite no intervalo de 1–3 noites. **Planejada**, não presente/atuante já confirmada em SP.
+
+**II. Leandro Vasconcelos — Ventrue, Camarilla, 8ª geração (planejado)**
+- Atua como **enviado de um poder da Camarilla** na cidade, inicialmente em incidentes que ameaçam a Máscara; representar autoridade por mandato, não declarar que ele é o Príncipe. Sabe dos disparos, movimentação de segurança e inconsistências de relatos conforme suas fontes, **não** conhece automaticamente Sepulcro/Vittoria/CE-19.
+- **Objetivo:** controlar a exposição, cobrar prestação de contas e evitar que a família Giovanni imponha seus assuntos violentos a território que a Camarilla reivindica. Pode propor pacto útil e oneroso ou confrontar Henrico. Sua abordagem usa cordialidade de alto nível, intimidação indireta, recursos humanos e testemunhas.
+- **Primeira consequência:** entrada em cena ligada à resposta noturna ao incidente San Michele ou a registros de transporte/segurança. Fazer Henrico sentir que existe uma ordem vampírica real além de Lorenzo, não somente mais uma pista.
+
+**III. Ariane Prado — Nosferatu, Camarilla, 10ª geração (planejada)**
+- Rede de informantes, câmeras, pessoal de manutenção e logística; tem motivo para investigar a quebra de lacre/manifesto e o vazamento da San Michele. Não é hacker onipotente; sua capacidade tem limites de acesso, riscos e lealdades.
+- **Objetivo:** obter crédito político que a proteja de Ventrue e Hecata, cobrar informação concreta e impedir que outro NPC controle sozinho as evidências. Pode **contradizer Leandro** e negociar lateralmente com Henrico, sem virar sua prestadora gratuita de dados.
+- **Presença:** demonstrar a predatória vida noturna, humor mordaz, cautela com exposição, aspectos reais do clã. Encontrá-la depende de causalidade, não coincidência instantânea.
+
+**IV. Joana 'Ferrugem' Reis — Brujah, Anarquista, 10ª geração (planejada)**
+- Ligação independente com trabalhadores, transporte, desaparecimentos e abusos de domínios. Tem interesse em quem está pagando o preço da guerra noturna; não assumir que é bondosa ou de confiança.
+- **Objetivo:** impedir que Camarilla e Giovanni sepultem provas e ampliar a autonomia do próprio território. Pode usar demonstrações de força, trocas e pressão moral. Resposta própria se Henrico tenta controlar "todas as peças".
+- A primeira cena deve ser preparada por contato/observação de rede logística e não por aparição mágica no mesmo lugar que todos os outros.
+
+**Execução:** são personagens **planejados e ainda não encontrados**. Até que atuem, manter seus nomes, clãs e planos somente em material reservado ao Mestre; não adicionar a fichas públicas ou à Matriz de Conhecimento de Henrico. Uma vez em jogo, abrir fichas observáveis atualizadas com fatos da cena e manter motivos secretos em notas reservadas. Não fazer todos comparecerem à mesma cena só para marcar uma lista.
+
+## 37. Arcabouço das próximas noites: consequências que andam sozinhas
+**Ponto em tempo real:** 24/11/2026 ~18h04, Isabella no quarto com Henrico; ela foi informada dos disparos, não sabe vampiros. Lorenzo estuda USB no mezanino. Helena hospeda-se ali, não sabe que Lorenzo é vampiro. Rafael foi convidado e ainda não chegou. Henrico considera mais tarde ir ao Archivio fotografar lote 19; incursão não executada. Tamanho do anel de noivado pendente. Ver [[Estado Atual]] para detalhes (nota mais recente).
+- **Noite 24/11 / 25/11:** o curso das investigações de Pietro/Aldo e as medidas de contenção de imagens e testemunhas podem fazer chegar **uma reivindicação oficial/semioficial da Camarilla**, um aviso, um pedido pessoal de encontro ou uma presença no terreno. **Prioridade: cena real com outro vampiro** nesta janela; não reduzir a avisos sem entrega. A escolha de Henrico de ir ao Archivio pode alterar onde/como essa interação acontece.
+- **Os arquivos:** permitir a Lorenzo um avanço verificável a partir do índice sem convertê-lo em hacker: um cruzamento de data com outra fonte, erro revelador, nome legível em documento ou evidência de conservação. O Lote 19 deve ser uma resposta parcial concreta, não mais uma eterna "pista leva a outra pista"; preservação material e risco de abrir continuam reais.
+- **25–27/11:** o choque entre domínio reivindicado Camarilla e interesses Hecata cria uma situação na qual Henrico pode negociar com representantes de outros clãs, perceber como funcionam seus poderes e eventualmente encontrar Ottavia. Incluir cenas sem documentos (negociação, caça, favores, violação/defesa da Máscara, Elysium ou encontro territorial, encontros sociais com predadores) e dar iniciativa aos NPCs.
+- **Uma oferta de Abraço deve tornar-se uma oportunidade real e inteligível MUITO MAIS CEDO**, idealmente **nas próximas 2–4 noites ficcionais**, e não após acabar todo o Sepulcro. Se Ottavia surgir com motivo plausível, pode propor em pessoa; se ela não puder agir por escolhas de Henrico, outra fonte de geração inferior à 9ª é uma opção coerente, mas o jogador precisa de escolha e consequências. **Não obrigar um Abraço até data arbitrária:** a oportunidade deve vir, o consentimento é de Henrico.
+- Evitar torná-lo alguém que só "segue pistas": contatos podem procurá-lo, exigências chegam de fora, ajuda e ameaças têm contexto; alívio/avanços reais devem ocorrer mesmo que Henrico decida passar uma noite com Isabella.
+
+## 38. O Abraço próximo, de sangue muito antigo: regras internas e custos
+
+**Preferência explícita do jogador:** acelerar fortemente a oportunidade do Abraço e, se possível, ter um senhor de geração **mais próxima da Primeira que Lorenzo**. Em VtM **números menores indicam sangue mais próximo da Primeira**, mas a cria nasce **uma geração numericamente acima** da de seu senhor (senhor 5ª -> cria 6ª; senhor 6ª -> cria 7ª). Lorenzo é **9ª geração**. **Opção prioritária planejada:** Ottavia Giovanni **5ª** -> Henrico **6ª**. Isso é uma oportunidade, não destino estabelecido, não promessa irrevogável sobre quem será senhor, e não quer dizer que Henrico nasce mais experiente que Lorenzo.
+
+**Por que uma anciã faria isso?**
+- Não por pena, amor incondicional, necessidade arbitrária de história. Há guerra de influência pela custódia, uma linhagem que pode se tornar ameaça, um humano que provou iniciativa, acesso e capacidade política, e o valor de uma cria que terá dívidas. Ottavia calcula o custo de criar um vampiro de sangue tão potente; outras potências podem interpretar o ato como ameaça.
+- A oferta pode ser acompanhada por dever, casa Hecata, lealdade, ritual de iniciação, segredos compartilhados, condição social ou missão; **contrapartidas precisam ser explicitadas o suficiente para uma decisão informada**, sem exigir que o jogador adivinhe tudo.
+- **Não condicionar a oferta a interminável checklist de fichas, contratos ou pistas.** O cenário já estabeleceu que Henrico chama atenção suficiente para justificar interesse.
+
+**O que mudar na experiência após eventual Abraço:**
+- Mortalidade, luz do sol, alimentação, fome/Besta, vitae, proibição de viver como antes, destruição ou risco da Máscara, predadores humanos e vampíricos, lealdades e hierarquias. Ritmo noturno real. Relação com Isabella afetada, **mas não decidir por ela nem forçar revelação**. Rafael, Helena, Roberto e Aldo mantêm graus diferentes de conhecimento; adotar consequências de acordo com o que de fato souberem.
+- **Geração 6ª é potencial de sangue, não onipotência**: uma cria recente carece de disciplinas dominadas, técnica de combate, política, experiência e contatos conquistados. O sangue traz tentações e riscos em escala proporcional. Usar progressão VtM adaptada ao d20 caseiro; não entregar instantaneamente disciplinas altas, exército de ghouls, fortuna alheia ou controle do Sepulcro.
+- A vontade do jogador decide aceitar, recusar, adiar, negociar, esconder ou buscar outra via. Nenhum acidente inevitável, morte forçada ou NPC que o Abraça sem poder agir só para apressar a campanha. Risco e coerção podem existir no Mundo das Trevas, mas não eliminar a escolha central solicitada.
+- **Caso Henrico não queira aceitar ainda, a campanha de VtM segue atuante**; dar outros caminhos e relações políticas, não "punir" a recusa. Se aceitar, entrar rapidamente em jogo como vampiro sem prolongado período de limbo.
+- Não presumir que Lorenzo deseje ser seu senhor; ele pode reagir de maneira complexa à possibilidade de seu aluno ter sangue mais antigo, sem inveja automática e sem subordinação mecânica.
+
+## 39. Reduzir o ciclo infinito de pistas e equilibrar o horror pessoal
+O jogador relatou diegeticamente frustração com "pista que leva a outra pista" e, metagame, com falta de VtM. A partir de agora:
+- Ao trabalhar CE-19, Cesare, 1989, retorno e Tríade, entregar **fatos que encerram perguntas** de modo regular, mesmo que maiores enigmas permaneçam.
+- Dar a Henrico **oportunidade concreta de decidir poder, alianças, quem salvar, o que ocultar e que riscos aceitar**; escolhas alteram reações reais de Aldo, Camarilla, anarquistas e Hecata.
+- A investigação não precisa sustentar toda sessão. Alternar com a experiência predatória da noite, Elysium, negócios criminosos Giovanni, exploração do que o vampiro se torna, dilemas éticos e relações sociais.
+- Outras facções não são meros rostos, devem reivindicar coisas que o protagonista realmente possui: influência, testemunhos, acesso à Vettore, ligação com Lorenzo, contato com Aldo, possível peça sobre Beatriz, herança, reputação.
+- **Não transformar a mudança de rumo em avalanche de mortes** ou perdas arbitrárias de Isabella/Rafael para motivar Abraço. Tensão nasce de interesses e consequências, não de fazer mal a entes queridos por conveniência.
+- **O Abraço pode acontecer muito antes do arco final.** A história terá uma extensa fase com Henrico vampiro caso ele a escolha; isso é central para o gênero e não deve ficar reservado só ao epílogo.
+
+## 40. Rigor de continuidade / conflitos com notas antigas
+- Toda referência antiga dizendo que a próxima cena é 04/11, que visita à San Michele não aconteceu, que o anel será apenas apresentado ou que o USB não foi lido está **desatualizada**; consultar [[Estado Atual]], [[Cronologia]] e sessão de 24/11 antes de conduzir.
+- Os novos NPCs acima são **planejamento reservado**, não conhecimento dos personagens nem fatos passados. Não alterar o passado para dar-lhes participação anterior não estabelecida.
+- As verdades centrais já fixadas (Sepulcro, Dario, Vittoria, condição de Augustus, Círculo) não são descartadas. A política noturna é **camada adicional e contemporânea** em vez de reescrever mistérios por conveniência.
+- **Atores existentes agem antes de novos extras aleatórios:** Aldo/Pietro, Lorenzo, Enzo, Marta, Vettore/Archivio e sanção da Máscara são pontes causais suficientes para o primeiro encontro. Usar as novas figuras apenas para interesses necessários e consistente territorialidade.
+- Após cada “salve”, **consultar via GitHub a ficha de qualquer NPC antes da primeira interpretação depois do salve**, inclusive Isabella e Lorenzo. Esta regra é obrigatória e prevalece sobre conveniência.
+- **Prioridade de condução para as próximas cenas:** (1) respeitar escolha e relação imediatas com Isabella; (2) deixar a noite e outros vampiros efetivamente entrar em cena; (3) oferecer caminho próximo e real ao Abraço poderoso; (4) entregar respostas concretas e confrontos com custos; (5) preservar autonomia e continuidade.
+
