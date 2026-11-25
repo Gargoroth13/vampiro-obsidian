@@ -20,3 +20,12 @@ Existe uma rede clandestina de interesses Hecata ligada ao conhecimento do Sepul
 A rede é heterogênea: integrantes podem discordar, negociar, trair-se ou cooperar temporariamente com Henrico. Revelar gradualmente por contatos, documentos, intermediários e conflitos. Não apresentar a rede inteira de uma só vez. Novos NPCs só devem ser criados quando necessários e com função definida.
 
 Para os arcos, marcos, motivações e conflitos reservados ao Mestre, consultar [[Pontos Narrativos Estruturais — Reservado ao Mestre]].
+
+---
+
+## Informações observadas — 24/11/2026 à noite
+- **Camarilla:** [[Henrico Giovanni]] conheceu [[Leandro Vasconcelos]], vampiro do clã **Ventrue** e emissário de interesses da Camarilla em São Paulo; não se apresentou como príncipe ou representante de toda a seita. Buscou administrar risco à **Máscara** pela gravação da [[San Michele]], com tensão política diante de [[Aldo Giovanni]]. Propôs/aprovou cooperação **limitada** para identificar quem controla segurança e filmagens, não uma aliança irrestrita.
+- **Ventrue:** [[Lorenzo]] explicou a Henrico a tradição de aristocratas, banqueiros e governantes e que alguns Ventrue possuem alimentação seletiva e poderes de imposição de vontade. Informação geral transmitida em diálogo, não evidência específica de que Leandro aplicou poder sobre alguém.
+- **Hecata:** Lorenzo prometeu mostrar parentes Abraçados e uma demonstração futura de necromancia, não executada. Henrico quer conhecer outros vampiros; ele **continua mortal**.
+- **Círculo da Soleira:** detalhes permanecem **reservados ao Mestre** em [[Círculo da Soleira]], sem conhecimento in-game adquirido no encontro Camarilla.
+Referências: [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]] · [[Matriz de Conhecimento]] · [[Estado Atual]] · [[Vampiros]].
