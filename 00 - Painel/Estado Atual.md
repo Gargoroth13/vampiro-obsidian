@@ -1,28 +1,27 @@
 # Estado Atual — Crônica Giovanni
 
-## Ponto exato para retomar (salve de 24/11/2026, ~11h50)
+## Ponto exato para retomar — salve de 24/11/2026, 17h53
+**Local:** varanda da suíte principal da cobertura de Henrico, Avenida Paulista, São Paulo; início da noite, chuva fina.
+**Presentes:** Henrico Giovanni (humano, **não Abraçado**, de calça leve de pijama após banho) e **Isabella Moretti**, de roupa confortável. Estão juntos ao parapeito, Isabella com a cabeça apoiada no ombro de Henrico e mão entrelaçada à dele.
+**Último diálogo:** Henrico convidou Isabella a decorar e fazer da cobertura sua casa, dizendo que ela não precisa voltar para a antiga residência. Isabella disse que se um dia morar ali gostaria que fosse **casa dos dois**, com presença efetiva de Henrico, não apenas permissão para escolher móveis. Ainda **não aceitou mudança permanente**; aceitou ficar por aproximadamente **2–3 dias** para experimentar.
+**Próximo ato:** aguardar fala/ação do jogador como Henrico; não narrar decisão afetiva por ele nem avançar tempo.
 
-**Local:** Alfa Romeo Giulia de Henrico na rodovia Castelo Branco, sentido interior / São Roque, São Paulo; pista úmida, tempo encoberto.
-**Presentes:** Henrico Giovanni (dirigindo, humano, não Abraçado) e Helena Duarte (passageira, biomédica, desconhece vampiros). Estão **seguindo à distância um caminhão-baú branco da Vettore Logística**, que saiu do Archivio Bellini na Rua dos Aflitos, Liberdade, levando remessa de arquivo; destino declarado do **Lote 17: município São Roque**; endereço exato e carga confirmada desconhecidos.
-**Última fala em cena:** Helena perguntou a Henrico o que ele acredita estar sendo protegido por referência a Augustus. Henrico afirmou anteriormente que quem tem poder para restringir o próprio patrimônio familiar talvez seja o patriarca **Augustus Giovanni**, hipótese ainda sem prova. Conversa por telefone com Marta Azevedo **já encerrada**.
-**Próximo ato:** jogador responde como Henrico; não adiantar para São Roque nem perder caminhão automaticamente.
+## Estado da relação e segredos
+- Henrico contou a Isabella sobre violência e disparos na noite anterior: atirou em duas pessoas, acertou van que bateu; acredita que **motorista morreu**, não confirmou outros óbitos; funcionários inocentes sobreviveram. Isabella está abalada, mas presente, carinhosa e fazendo perguntas. Não tratar como totalmente resolvido.
+- Isabella conhece **Helena Duarte** (apresentada na cobertura), sabe que foi resgatada e busca Beatriz; conhece **Lorenzo** e sabe que Rafael às vezes fica lá. **Não sabe** que vampiros existem, que Lorenzo é vampiro, nem sobre o Projeto Sepulcro real, o anel de noivado, o plano de pedido ou preservação de fertilidade.
+- Henrico **furtivamente pegou aliança fina de prata de Isabella, usada no anelar direito, para medir tamanho do anel de noivado**; está no bolso dele, Isabella ainda não percebeu. Joalheria Ricci: **contrato de anel assinado e sinal de 30% aprovado** hoje; modelo escolhido perfil baixo em platina, diamante esmeralda seis quilates, seis garras, gravação “Per sempre tuo. H.G.”; tamanho e entrega ainda pendentes, preço definitivo não estabelecer sem fonte.
+- Isabella fez comentário sobre querer plantas, cortinas, decoração e participação na casa. Não confundir convite com aceitação de casamento.
 
-## Descobertas atuais
-- Archivio Bellini conserva acervos antigos; **Lote 17 — Série VII**: fotografias, negativos, documentação técnica, destino São Roque; **Lote 18**: documentação administrativa, destino coberto; **Lote 19 — Conservação Especial**: **retido**, precisa de autorização nominal e não deve ser expedido junto à Série VII. Henrico viu caixas/etiquetas e Helena fotografou parte de folha de expedição.
-- Marta relatou que **Cesare Bellandi** controlava contrato de custódia em 2008: terceiro indicado poderia impedir que o proprietário original, possivelmente Giovanni, recuperasse os documentos. Código **CE-19**, correspondência com Lote 19 ainda **não confirmada**. Álvaro Bellini teria trabalhado diretamente com Cesare até 2008, segundo Marta.
-- **Álvaro Bellini** é tio de **Enzo Bellini**, segundo ambos; Enzo confirmou por telefone ao tio “Estou bem, tio” a pedido de Henrico, **sem revelar número**. Álvaro entregou o nome Vettore Logística e município São Roque em troca. Henrico dissera pertencer aos Giovanni e bloqueara a saída de carga com Alfa Romeo; Álvaro pode estar desconfiado.
-- Investigação de **Beatriz Valença**, desaparecida há cerca de onze dias: custódia de pasta lacrada com Marta, arquivos da Tríade; Helena não sabe destino. Marta quer ser avisada em segurança primeiro; Henrico prometeu proteger Beatriz e não divulgar à família antes de estar segura.
-- Cláudio Nascimento relata circuito auxiliar de **contenção** na San Michele; enviou foto **S-07 / RETORNO / ETAPA 04**; desconhecido ligou à sua esposa perguntando pelo desligamento.
-- Eduardo Sampaio foi procurado por homem terno escuro, cabelo grisalho curto, **luvas de couro** (descrição semelhante a visitante da oficina de Rafael; identidade não confirmada). Cartão com telefone **(11) 3047-1989**, inscrição “Não permita que religuem o retorno”; Eduardo disse que tentaria ir ao hotel com ajuda do irmão; ainda não confirmado. Cláudio relatou hotel de Armando e Tiago e que ele próprio saiu temporariamente; proteção não é garantida.
-- **Henrico cogitou retornar ao Archivio à noite** para investigar o Lote 19; ainda não foi nem efetuou invasão. Helena deixou claro que não participaria de furto/invasão sem informações adequadas.
+## Casa, investigação e contatos
+- **Lorenzo** permanece no escritório do mezanino, estudando USB S03/BACKUP via VM Kali com impressões parciais. Índice: **Série VII /1989, custódia transferida em 2008, C. Bellandi; CE-19 conservação especial retida, vinculação com Série VII não concluída**, autorização não disponível. Continua não especializado em computadores.
+- **Helena Duarte** está na cobertura, hospedada ala oeste. Conheceu Isabella. Não sabe vampirismo, natureza de Lorenzo, relação entre Voss e Duarte (não comprovada).
+- **Rafael** relatou ter visto Evo X ainda na San Michele, com segurança nova, **não recuperou veículo**; após convite de Henrico, pretende ir dormir na cobertura, mas chegada não confirmada. Sabe que homem de luvas procurou outras pessoas, sem ameaça direta relatada até então. Não conhece vampiros.
+- **Aldo** recebeu telefonema de Henrico da base Vettore em Araçariguama; determinou a Pietro apurar origem da transferência e possíveis autorizações Giovanni, solicitou vigilância discreta mas suspendeu abordagem ao saber de possível autorização de alto escalão. Resultados não confirmados.
+- **Vettore Logística:** no posto, Ricardo, conferente, identificou **número de lacre divergente do manifesto** (não prova troca de carga), recusou liberação verbal; veículo conduzido à base operacional em Araçariguama, onde caixas inclusive Série VII foram descarregadas. Foto da placa da picape de Ricardo **FQZ-7H21** por Helena. Lote 17 destino final declarado São Roque mas endereço/custodiante desconhecidos; lote 18 destino desconhecido; lote 19 permanece no Archivio Bellini, em retenção especial, salvo novos eventos.
+- **Plano apenas discutido:** Henrico pensa em retornar **à noite** ao Archivio Bellini, com balaclavas, para fotografar conteúdo do lote 19 e deixá-lo no lugar. Lorenzo está disposto a considerar ir; ainda nada planejado/executado operacionalmente, Helena excluída por risco. Nenhum resultado automático.
+- **Outras questões:** Beatriz continua desaparecida, Marta tem pasta e contrato 2008, Cesare Bellandi referência 2021; homem de luvas e ordem de circuito de contenção ainda não identificados.
 
-## Prazos e recursos
-- **Compromisso hoje às 15h30:** apresentação de projeto de anel de noivado na joalheria privada. Henrico deseja pedir Isabella Moretti em casamento, ela **ainda não sabe**. Preservação de fertilidade iniciada anteriormente, contrato inconcluso.
-- **Lorenzo** ficou na cobertura de Henrico, com VM Kali em que foi conectado dispositivo USB S03/BACKUP; arquivos listados mas não analisados; Lorenzo não é especialista em computadores. **Rafael** com chaves do Evo X, deveria verificar a San Michele com Diego apenas se totalmente seguro; status posterior não informado. **Roberto** mandou Sérgio investigar Vieira e contratos; não recebeu confissão do USB/fotos. Colt 1911 carregada em coldre oculto de Henrico; Alfa Romeo em uso; Evo X abandonado na San Michele.
-- Henrico conhece **Augustus Giovanni** como patriarca ancestral vampírico e figura da necromancia Giovanni. Lorenzo mencionou ordem atribuída a Augustus relacionada ao apagamento de registros de 1989, **sem assinatura independente comprovada**.
-
-## Regra de memória do jogador
-Se o jogador disser que não sabe um fato que Henrico **já sabe por experiência ou informação recebida na ficção**, responder com **lembrete breve fora do jogo**, sem spoilers ou conhecimento secreto de narrador.
-
-## Referências
-[[Sessão — Arquivos da Tríade, Archivio Bellini e perseguição à Vettore]] · [[Cronologia]] · [[Em Aberto]] · [[Matriz de Conhecimento]]
+## Diretrizes obrigatórias
+- **Depois de cada “salve”, consultar via GitHub a ficha de cada NPC antes de sua primeira interpretação/aparição ativa no novo intervalo**, mesmo se personagem recorrente. Consultar Estado Atual primeiro. Não revelar spoilers.
+- Diálogo natural e subtexto, sem NPC explicar passo a passo seus pensamentos nem encerrar toda cena com pergunta. Giovanni família mafiosa influente; autonomia real para NPCs. Jogador controla apenas Henrico. Avisar fora de jogo quando jogador esquecer fato que Henrico sabe, sem spoilers.
+- Ver [[Sessão — Vettore, anel de Isabella e noite na cobertura (24-11-2026)]] para cronologia detalhada.
