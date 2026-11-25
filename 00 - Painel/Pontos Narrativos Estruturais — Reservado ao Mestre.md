@@ -513,3 +513,22 @@ O encontro com Lorenzo às 19h e a visita à San Michele ainda estão por aconte
 | Ponto exato | [[Estado Atual]]: **24/11/2026 ~22h21**, jardim/porta coberta na residência Roberto |
 
 **Fichas reservadas** em [[Índice Reservado — Personagens Futuros]], separadas de [[Matriz de Conhecimento]]. Não tratar esses marcos como cenas pré-determinadas. [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]].
+
+---
+
+## Marcos corrigidos — salve 25/11/2026 ~00h59 (superam tabela antiga)
+| Arco | Estado atual |
+|---|---|
+| Camarilla e [[Leandro Vasconcelos]] | Já introduzidos 24/11, cooperação limitada com Aldo não cumprida/concluída |
+| **[[Joana Ferrugem Reis]] Brujah Anarquista** | **APRESENTADA** no [[Il Notturno]] 25/11 ~00h37, interesses próprios de proteger trabalhadores; amizade/aliança não realizadas |
+| [[Ariane Prado — Reservado ao Mestre]] Nosferatu | **AINDA NÃO APRESENTADA**, preservar oportunidade de introdução orgânica |
+| [[Ottavia Giovanni — Reservado ao Mestre]] | **CITADA por Lorenzo**, Aldo prometeu sondar contatos 25/11; **não apresentada nem ofertou Abraço**; curto horizonte prioritário |
+| Abraço de Henrico | **NÃO OCORREU**, Henrico permanece humano, escolha futura preservada |
+| Lote 18 no [[Archivio Bellini]] | **EXAMINADO/FOTOGRAFADO** em 24–25/11; várias perguntas fechadas documentalmente |
+| Lote 19 | **NÃO ABERTO** fisicamente; documentos identificam 19-A/B/C, foto do 19-C como CE-19/C; gravação 19-B/04 retirada de sala 23/11 |
+| [[Álvaro Bellini]] | Documento o registra como **recebedor** da fita 19-B/04 às 02h49 de 23/11, não necessariamente autor ou guardião atual; ainda não confrontado |
+| [[Dario Nascimento]] | Busca ativa novamente prioritária; contatos com [[Enzo Bellini]] e [[Aldo Giovanni]] ainda **propostos**, não efetuados |
+| Vettore 17 | Seis volumes na base Araçariguama; janela possível noite **25/11**, sem execução/horário confirmado |
+| Próxima cena | [[Estado Atual]]: **25/11 ~00h59**, mesa com Joana e Lorenzo no Il Notturno; música ao vivo prestes a começar |
+
+**Regras de condução:** personalidade sóbria de Lorenzo e Aldo; não transformar encontro humano em aula moral, nem interações vampíricas em uma avalanche de mais pistas sem resolução. [[Sessão — Lote 18, procurações e encontro com a Brujah (24-25-11-2026)]].
