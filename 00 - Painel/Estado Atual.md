@@ -1,3 +1,5 @@
+> **Retomada mais recente — 24/11/2026 ~18h04 (posterior ao último salve):** Henrico e Isabella estão na **suíte principal da cobertura na Paulista**, após conversarem sobre os desaparecidos, os riscos de Henrico e a decisão dele de sair de novo mais tarde. Isabella ficou receosa e pediu que ele não se imaginasse invencível; **Henrico prometeu**. Ambos continuam próximos. Isabella convidou Henrico a se sentar no sofá com ela sob a manta e **escolher algo para assistirem, “nada de filme de máfia”**. Não decidir o filme, a resposta nem novas ações por Henrico. A incursão noturna ao Archivio ainda **não aconteceu**. O pedido do jogador de acelerar a presença dos vampiros e do Abraço foi registrado no planejamento reservado do Mestre; **nenhum novo vampiro apareceu e Henrico continua humano**. A nota abaixo de 17h53 retrata o ponto do salve anterior, não a cena corrente.
+
 # Estado Atual — Crônica Giovanni
 
 ## Ponto exato para retomar — salve de 24/11/2026, 17h53
