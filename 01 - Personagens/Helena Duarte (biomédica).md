@@ -14,3 +14,8 @@ Flertou de leve com Henrico, e ambos fingiram ser namorados diante de Álvaro; *
 
 ## 24/11/2026 — tarde
 Acompanhou Henrico ao posto e à base Vettore; ouviu do conferente Ricardo indiretamente divergência entre lacre e manifesto e pressão do destinatário, fotografou **placa FQZ-7H21 da picape de Ricardo**, não placa caminhão; observou descarga de caixas Série VII na base Araçariguama. Almoçou com Henrico na Cantina Steffano e debateram controle, poder e livre-arbítrio; Henrico admitiu ambição de controlar peças do tabuleiro. Retornou à cobertura ~15h02, aproximou-se de Lorenzo para analisar pesquisa, conheceu **Isabella Moretti** quando ela chegou ~17h09; entendeu que Isabella é namorada de Henrico. **Helena não sabe que Lorenzo é vampiro, nem sobre sua idade real**. Henrico e Lorenzo consideram incursão noturna sem envolvê-la; não atribuir a Helena ciência dessa decisão sem transmissão.
+
+---
+
+## 24/11/2026, noite — vida na cobertura
+Preparou espaguete com molho de tomate na cozinha de [[Henrico Giovanni]], criticou despensa vazia e ralador/utensílios, enviou ao telefone de Henrico **lista de compras para 4–5 dias** com alimentos, ingredientes e utensílios. [[Rafael Moreira]] chegou à cobertura, trouxe queijo e mantimentos; conheceu-se com ele e compartilharam jantar junto a [[Lorenzo]] e Henrico. Helena sabe apenas que os dois sairiam para tratar de negócios familiares, **não sabe** que seriam visitas a [[Aldo Giovanni]], [[Leandro Vasconcelos]] ou invasão noturna ao [[Archivio Bellini]]. Não conhece vampiros nem natureza de Lorenzo. Mantém interesse em [[Beatriz Valença]] e seu paradeiro, sem novidades nesta noite. Referências: [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]] · [[Matriz de Conhecimento]] · [[Estado Atual]].
