@@ -205,3 +205,14 @@ Humano não Abraçado; dirige Alfa Romeo Giulia na Castelo Branco rumo a São Ro
 **Prometeu** a Marta avisá-la primeiro caso localize Beatriz e não revelar à família até estar segura; ofereceu proteção aos prestadores. **Considera** retorno noturno ao Archivio, sem execução.
 **Pendências:** joalheiro **15h30** deste dia; Isabella desconhece pedido/anel/preservação de fertilidade. Helena desconhece natureza vampírica de Lorenzo.
 **Preferência do jogador:** se esquecer informação sabida por Henrico, lembrete breve fora do jogo sem spoilers.
+
+---
+
+## 24/11/2026 — tarde e início da noite
+- Seguiu caminhão Vettore com Helena; conheceu conferente Ricardo no posto, alertou contra liberar carga com lacre divergente do manifesto; viu descarga de caixas Série VII na base Araçariguama. Telefonou ao tio Aldo, revelou transporte de registros do subsolo e possibilidade de autorização de alto escalão; Aldo encarregou Pietro e suspendeu abordagem.
+- Em almoço com Helena na Cantina Steffano, declarou querer **controlar todas as peças do tabuleiro**, não apenas fugir de ordens. Não presumir mudança de objetivo.
+- Encomendou anel de noivado com Valentina Ricci, **montagem baixa em platina, seis garras, diamante esmeralda 6 quilates, inscrição “Per sempre tuo. H.G.”**, contrato assinado e **sinal 30% aprovado**. Tamanho pendente; Isabella não sabe. Pegou furtivamente **aliança de prata usada por Isabella no anelar direito** para medida; última posse é de Henrico, guardada no bolso.
+- Contou a Isabella sobre violência da véspera, disparos contra pessoas e van, funcionário resgatados; motorista da van acredita morto, demais situação não confirmada. Convidou Isabella a passar 2–3 dias na cobertura; ela aceitou visitar, sem se mudar definitivamente.
+- Relatou a Lorenzo os lotes 17–19, informações de Marta/Cláudio, e discutiu **possível incursão noturna ao Archivio Bellini**, com balaclavas e ideia de fotografar Lote 19 e deixar como estava. Lorenzo consideraria ir; nenhuma ação executada.
+- Rafael e Diego não recuperaram Evo X, segurança nova San Michele. Rafael pretende ir à cobertura após oficina, sem confirmação de chegada.
+- **Último ponto ~17h53**: Henrico de pijama com Isabella na varanda da suíte principal, ela apoiada em seu ombro e segurando sua mão. Henrico é **humano não Abraçado**. Localização da Colt 1911 após banho não foi narrada, não atribuir automaticamente na cintura.
