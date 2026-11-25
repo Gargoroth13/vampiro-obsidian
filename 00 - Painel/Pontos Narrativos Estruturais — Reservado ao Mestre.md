@@ -495,3 +495,21 @@ O encontro com Lorenzo às 19h e a visita à San Michele ainda estão por aconte
 | Isabella | **Hospedada por 2–3 dias de experiência; não sabe do sobrenatural** |
 | Ponto de retomada | **24/11/2026, ~18h04, suíte principal com Isabella** |
 
+---
+
+## Atualização de marcos — 24/11/2026 ~22h21
+> **MESTRE — SPOILERS.** Supersede status antigos (04/11 e ~18h04) sem apagar história.
+| Marco | Estado agora |
+|---|---|
+| Primeiro contato vampírico além de [[Lorenzo]] | **CONCLUÍDO:** [[Leandro Vasconcelos]], Ventrue Camarilla, na residência Roberto ~21h42 |
+| Camarilla em conflito com Giovanni por gravação de [[San Michele]] | **EM CURSO**, cooperação apenas limitada, vídeo completo não entregue |
+| Mais vampiros / facções / parentes Hecata | **EM PREPARAÇÃO IMEDIATA**; [[Ariane Prado — Reservado ao Mestre]] e [[Joana Ferrugem Reis — Reservado ao Mestre]] ainda não apresentadas |
+| Oportunidade de Abraço próximo, sangue antigo | **EM PREPARAÇÃO, NÃO OFERECIDA**, [[Ottavia Giovanni — Reservado ao Mestre]] como candidata prioritária, não obrigatória |
+| Rituais e sociedade noturna para Henrico | **DESEJO DECLARADO**, Lorenzo sugeriu bar de vampiros e ritual simples; nada ainda ocorreu |
+| Investigação [[Archivio Bellini]] Lote 18/19 | **23h30 de 24/11, ENTRADA ARRANJADA E NÃO EXECUTADA**; sala 19 trancada, sem chave do guarda |
+| Lote 17 na [[Vettore Logística]] | **6 volumes retidos em Araçariguama**, acesso de ~1h na noite seguinte apenas em negociação |
+| Investigação [[Arcádia Administração Patrimonial]] / [[Cesare Bellandi]] | **EM CURSO**, credencial 2008 utilizada 12h08 de 24/11; usuário real ignorado |
+| Acordo Giulia/Lancer com Lorenzo | **FIRMADO, CONDICIONAL A RECUPERAÇÃO INTACTA DO EVO X**, não executado |
+| Ponto exato | [[Estado Atual]]: **24/11/2026 ~22h21**, jardim/porta coberta na residência Roberto |
+
+**Fichas reservadas** em [[Índice Reservado — Personagens Futuros]], separadas de [[Matriz de Conhecimento]]. Não tratar esses marcos como cenas pré-determinadas. [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]].
