@@ -28,3 +28,10 @@ Não presumir que Álvaro sabe do conteúdo do telefonema entre Henrico, Marta e
 
 ## Continuação — 24/11/2026, até 11h40
 Henrico admitiu ser Giovanni sem fornecer nome completo formal, tentou obter acesso aos acervos da família; Álvaro exigiu comprovação e não liberou arquivo. Depois, Henrico obstruiu a saída do caminhão com Alfa Romeo e conversou com Álvaro na calçada, insinuando que documentos ou coisas sumiram sob Enzo na San Michele. Álvaro disse que Enzo tinha hábito de guardar cópias, mesmo indevidas, mas não confirmou desvios. Aceitou ouvir do sobrinho “Estou bem, tio” ao telefone de Henrico; demonstrou emoção e entregou como contrapartida **Vettore Logística e São Roque**, município de entrega de lote 17. Não informou endereço nem outros lotes. Depois voltou ao escritório. Não presumir que sabe das fotografias clandestinas de Helena.
+
+---
+
+## 23–25/11/2026 — achado documental descoberto por terceiros (não conhecimento concedido automaticamente)
+No livro **Controle de Entrega e Recebimento** do Lote 18, fotografado clandestinamente por [[Henrico Giovanni]] e [[Lorenzo]] na madrugada **25/11**, **[[Álvaro Bellini]] é o responsável registrado pelo recebimento** da fita **19-B/04**, retirada do recinto especial **23/11/2026 às 02h49**, para **guarda externa temporária**. O registro mostra assinatura manuscrita; **não comprova que Álvaro ordenou abertura, que era autoridade superior, que ainda guarda fita, nem que sabe da investigação dos dois**. Henrico ainda não o confrontou com essa informação.
+**Correção direta do jogador:** em visita **diurna** a Álvaro no dia **24/11**, Henrico estava **acompanhado de [[Helena Duarte (biomédica)|Helena]]**, **não de Lorenzo**; Lorenzo foi ao Archivio à noite pela primeira vez. Álvaro não foi informado da entrada noturna; o lacre de envelope foi refeito parcialmente com marca discreta.
+[[Archivio Bellini]] · [[Objetos e Documentos]] · [[Matriz de Conhecimento]] · [[Sessão — Lote 18, procurações e encontro com a Brujah (24-25-11-2026)]].
