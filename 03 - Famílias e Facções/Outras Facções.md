@@ -29,3 +29,8 @@ Para os arcos, marcos, motivações e conflitos reservados ao Mestre, consultar 
 - **Hecata:** Lorenzo prometeu mostrar parentes Abraçados e uma demonstração futura de necromancia, não executada. Henrico quer conhecer outros vampiros; ele **continua mortal**.
 - **Círculo da Soleira:** detalhes permanecem **reservados ao Mestre** em [[Círculo da Soleira]], sem conhecimento in-game adquirido no encontro Camarilla.
 Referências: [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]] · [[Matriz de Conhecimento]] · [[Estado Atual]] · [[Vampiros]].
+
+---
+
+## 25/11/2026 ~00h37–00h59 — primeiro encontro com uma Brujah Anarquista
+[[Henrico Giovanni]], ainda humano, foi apresentado por [[Lorenzo]] a [[Joana Ferrugem Reis]] no [[Il Notturno]] na Bela Vista. Joana afirmou rejeitar a autoridade Camarilla imposta só por idade e apresentou **Barões, hierarquias próprias, disputas territoriais e riscos de repetir opressões** dentro dos Anarquistas; não declarou a seita perfeita. Ela tem animosidade política com o emissário [[Leandro Vasconcelos]], sem conhecer detalhes da reunião com Aldo. A facção Hecata/Giovanni continua politicamente independente, mas não onipotente. **Sem aliança formal** entre Joana e Henrico ou entre Hecata e Anarquistas. Contatos de Joana investigam trabalhadores da [[San Michele]], não implica que ela saiba sobre os experimentos/CE-19. [[Estado Atual]] · [[Matriz de Conhecimento]] · [[Sessão — Lote 18, procurações e encontro com a Brujah (24-25-11-2026)]].
