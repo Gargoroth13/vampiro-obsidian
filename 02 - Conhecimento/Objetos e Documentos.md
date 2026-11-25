@@ -102,3 +102,14 @@ Registro de objetos relevantes e de sua situação conhecida. Não inferir posse
 - **Placa FQZ-7H21:** fotografada por Helena na **picape prateada de Ricardo**, conferente no posto, NÃO no caminhão da Vettore nem no sedã do homem de terno.
 - **Lacre de caminhão Vettore:** Ricardo disse que número não correspondia ao manifesto, fotografou e recusou liberar sem formalidade; a divergência não prova troca de conteúdo. Carga levada a base Araçariguama para conferência; caixas incluindo Série VII descarregadas.
 - **Evo X:** visto por Rafael e Diego de fora na San Michele, segurança nova impediu tentativa de retirada.
+
+---
+
+## 24/11/2026, noite — imagens, Vettore, equipamento e veículos
+- **Fotografias exibidas por [[Leandro Vasconcelos]] na [[Residência de Roberto]]:** Henrico portando Colt, homens armados e criatura pálida S-07 junto ao portão da [[San Michele]], com segunda mão parcialmente formada no antebraço. Não demonstram saída da propriedade. [[Henrico Giovanni]] examinou-as, **não recebeu posse das fotos nem cópia do vídeo**. Segundo Leandro, um trecho de ~20s teria sido oferecido à [[Verônica Leme]]; fonte e autenticidade permanecem não confirmadas.
+- **[[Vettore Logística]] / [[Arcádia Administração Patrimonial]]:** retificação às **12h08 de 24/11** São Roque → base Araçariguama com credencial 2008 ligada a [[Cesare Bellandi]]. **Seis volumes Lote 17** retidos na base conforme investigação de [[Pietro]]; caixa pequena **sem número de lote** saiu às 14h17 em sedã. Não atribuir ao Lote 17 ou 19. A pasta consultada por Henrico permaneceu com [[Aldo Giovanni]].
+- **Entrada ao [[Archivio Bellini]]:** dois visitantes, porta de serviço 23h30, guarda subornado; lote 18 arquivo comum, lote 19 sala especial sem chave do guarda. Nenhum acesso ainda executado.
+- **Henrico, equipado:** Colt 1911 limpa e conferida em coldre oculto, kit de gazuas, lanterna pilhas novas, gravador de áudio **não acionado**, sapatos de sola leve, chapéu de aba larga, sobretudo, cigarros e isqueiro maçarico. Não presume balaclava equipada.
+- **Contrato verbal de veículos:** [[Lorenzo]] recuperará o [[Mitsubishi Lancer Evo X]] de Henrico na San Michele **sem um arranhão novo**; se conseguir, Henrico lhe dará o **Alfa Romeo Giulia**. Acordo com aperto de mão, **não cumprido**, Giulia continua de Henrico e estacionado na residência Roberto. Ver [[Dívidas e Favores]].
+- **Lista de compras:** [[Helena Duarte (biomédica)]] enviou ao celular de Henrico lista de mantimentos e utensílios para 4–5 dias, detalhes quantitativos não confirmados.
+Referências: [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]] · [[Matriz de Conhecimento]] · [[Em Aberto]].
