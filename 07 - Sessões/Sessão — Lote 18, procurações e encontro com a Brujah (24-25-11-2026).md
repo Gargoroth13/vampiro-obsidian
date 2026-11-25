@@ -42,6 +42,6 @@
 
 ## Segredos e limites
 - Henrico permanece **humano e não Abraçado**, geração não estabelecida; [[Isabella Moretti]], [[Helena Duarte (biomédica)]] e [[Rafael Moreira]] **não conhecem vampirismo**, Camarilla, Joana nem o lote 18. Isabella espera notícias após Henrico sair; mensagem de chegada **não narrada como enviada**.
-- [[Aldo Giovanni]] prometeu **consultar intermediários de Ottavia no dia 25/11 para possível apresentação**, não fez contato nem marcou encontro. [[Ottavia Giovanni — Reservado ao Mestre]] ainda não apareceu; não atribuir conhecimento automático.
+- [[Aldo Giovanni]] prometeu **consultar intermediários de Ottavia no dia 25/11 para possível apresentação**, não fez contato nem marcou encontro. nota reservada de Ottavia (Mestre) ainda não apareceu; não atribuir conhecimento automático.
 - [[Vettore Logística]] mantém seis volumes do Lote 17 em Araçariguama, acesso possível de ~1h **na noite de 25/11** se contato de Aldo confirmar; não ocorreu. [[Mitsubishi Lancer Evo X]] ainda preso na San Michele, acordo Giulia condicional.
 - Fotografia do inventário do Lote 19 constitui **forte nexo documental CE-19/C**; conteúdo efetivo do recipiente, autenticidade de cadeia de custódia e titular de abertura ainda não confirmados.
