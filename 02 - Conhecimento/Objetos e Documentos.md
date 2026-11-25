@@ -92,3 +92,13 @@ Registro de objetos relevantes e de sua situação conhecida. Não inferir posse
 - **Cartão recebido por Eduardo:** (11) 3047-1989, verso “Não permita que religuem o retorno”; Eduardo disse que se desfaria dele, mas guardaria número. Henrico não possui cartão.
 - **Contrato de 2008:** apenas relato/cópia parcial em posse de Marta; custódia por terceiro designado por Cesare, nome removido, código CE-19, vínculo com lote 19 ainda não comprovado.
 - **USB S03/BACKUP:** com Lorenzo no mezanino sul da cobertura, inserido por dispositivo em VM Kali; diretórios REGISTROS, PROCEDIMENTOS, TRANSFERENCIAS e arquivos INDEX.csv, LEIA-ME.txt listados, conteúdo não examinado.
+
+---
+
+## Novos objetos e evidências — 24/11/2026, tarde
+- **Anel de noivado (ENCOMENDADO, não entregue):** Valentina Ricci, joalheria privada Jardins; diamante natural 6 quilates lapidação esmeralda, platina, seis garras, **perfil baixo**, gravação “Per sempre tuo. H.G.”; contrato assinado e sinal **30% pago por cartão**. Tamanho exato, preço total e entrega sem confirmação na cena. Contrato e comprovante com Henrico, localização exata após retorno à cobertura não afirmada.
+- **Aliança fina de prata de Isabella:** Henrico pegou furtivamente da bandeja do quarto dela em 24/11 ~16h31, guardou em seu bolso para usar como referência do anelar direito. Isabella não percebeu na cena; não presumir devolução. **Posse de Henrico na última cena conhecida**.
+- **Registro USB S03/BACKUP impresso por Lorenzo:** “SÉRIE VII / 1989 — CUSTÓDIA TRANSFERIDA / 2008 — C. BELLANDI”; “CE-19 / CONSERVAÇÃO ESPECIAL — RETIDO — AUTORIZAÇÃO [CAMPO NÃO DISPONÍVEL] — VINCULAÇÃO COM SÉRIE VII NÃO CONCLUÍDA”. Índice parcial, não contrato nem conteúdo.
+- **Placa FQZ-7H21:** fotografada por Helena na **picape prateada de Ricardo**, conferente no posto, NÃO no caminhão da Vettore nem no sedã do homem de terno.
+- **Lacre de caminhão Vettore:** Ricardo disse que número não correspondia ao manifesto, fotografou e recusou liberar sem formalidade; a divergência não prova troca de conteúdo. Carga levada a base Araçariguama para conferência; caixas incluindo Série VII descarregadas.
+- **Evo X:** visto por Rafael e Diego de fora na San Michele, segurança nova impediu tentativa de retirada.
