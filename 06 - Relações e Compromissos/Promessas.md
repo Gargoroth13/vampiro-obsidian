@@ -27,3 +27,13 @@ Isabella pediu que Henrico avisasse quando chegasse à residência de Roberto e 
 - **Roberto:** disse que tentaria falar com Aldo sobre localizar o anel formal do avô Giovanni e que poderiam procurá-lo no dia seguinte. Conversa e busca não confirmadas.
 - **Dr. Marcelo/clínica:** proposta de revisar contrato, aguardar análise, avaliar coletas adicionais e agendar reunião jurídica com Isabella. Próximos passos propostos; nenhum contrato ou encontro agendado.
 - **Joalheria:** consultora apresentará três pedras certificadas, desenho e orçamento em sessão privada prevista para manhã de 05/11, com possibilidade de antecipação. Não é compromisso de compra ou fabricação.
+
+---
+
+## 24/11/2026, noite — compromissos
+- [[Henrico Giovanni]] / [[Lorenzo]]: acordo de recuperação do [[Mitsubishi Lancer Evo X]] na [[San Michele]] sem arranhões novos, em troca do **Giulia** apenas **se houver recuperação**. Aperto de mãos, ainda não executado; [[Dívidas e Favores]].
+- [[Isabella Moretti]]: Henrico prometeu não se tratar como invencível e avisou que sairia; Isabella pediu mensagem de chegada e cautela. Não afirmar mensagem posterior enviada.
+- [[Aldo Giovanni]] / [[Pietro]]: acesso clandestino arranjado à porta de serviço do [[Archivio Bellini]] para duas pessoas **23h30 desta noite**, chefe de segurança pago, **sem chave da sala especial**; entrada ainda não ocorreu.
+- Aldo e [[Leandro Vasconcelos]]: cooperação **limitada** de informações relevantes sobre operação e filmagens da San Michele, sem obrigação de acesso irrestrito ou boon.
+- Lorenzo sugeriu contato com parentes vampiros, lugar social após o Archivio e ritual didático de espírito; **sugestões ainda não realizadas**, não são conhecimento/poder adquirido.
+Referências: [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]] · [[Matriz de Conhecimento]].
