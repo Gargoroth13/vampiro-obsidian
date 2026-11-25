@@ -113,3 +113,18 @@ Registro de objetos relevantes e de sua situação conhecida. Não inferir posse
 - **Contrato verbal de veículos:** [[Lorenzo]] recuperará o [[Mitsubishi Lancer Evo X]] de Henrico na San Michele **sem um arranhão novo**; se conseguir, Henrico lhe dará o **Alfa Romeo Giulia**. Acordo com aperto de mão, **não cumprido**, Giulia continua de Henrico e estacionado na residência Roberto. Ver [[Dívidas e Favores]].
 - **Lista de compras:** [[Helena Duarte (biomédica)]] enviou ao celular de Henrico lista de mantimentos e utensílios para 4–5 dias, detalhes quantitativos não confirmados.
 Referências: [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]] · [[Matriz de Conhecimento]] · [[Em Aberto]].
+
+---
+
+## 24–25/11/2026 — Lote 18 efetivamente fotografado no Archivio
+**Local de evidências:** fotos de documentos no celular de [[Henrico Giovanni]], capturadas na noite de 24–25/11 enquanto [[Lorenzo]] organizava as páginas. **Nenhum documento, fita ou recipiente retirado**, apenas imagens. [[Álvaro Bellini]] não foi avisado da intrusão e ainda não se sabe se descobrirá vestígios.
+- **Termo de Segregação 17/09/2008:** Lote 17 = fotografia/técnica, 18 = administração/pessoal, 19 = conservação especial; [[Cesare Bellandi]] executor, sem poder de abrir/transferir 19.
+- **Procuração 21/09/1989, autenticada 2008:** outorgante [[Augustus Giovanni]], mandatário Bellandi; poderes de guarda/contratos/transferência de custódia, **não abertura especial**. Titular especial não identificado; não comprova ações físicas posteriores de Augustus.
+- **Controle de acesso Lote 19:** 20/09/2008 transferência administrativa; 14/06/2021 inspeção supervisionada; **23/11/2026 02h16 abertura**, **02h49 fechamento** via autorização especial sem nome.
+- **Inventário Lote 19 no envelope lacrado:** 19-A livro transferências set/1989; 19-B **6 gravações magnéticas**; 19-C **recipiente biológico lacrado**, com advertência de condições originais de contenção e **fotografia do cilindro metálico rotulado CE-19/C**. Termo de instruções com firmas “C. Bellandi” e “H. Voss”, sendo nome H. Voss em documento 2008, **não prova identidade ou presença pessoal da mulher histórica [[Helena Voss]]**.
+- **Relatório 23/11/2026 02h49:** 19-A presente, **19-B 5/6 presentes**, 19-C lacre externo **declarado** intacto. **19-B/04** retirada sob autorização especial, sem registro de devolução. **1989-T/04** = gravação audiovisual integral do procedimento de transferência em Setor VII **17/09/1989**, supostamente **nenhuma cópia de consulta**. **Não é a mesma gravação digital de câmeras da [[San Michele]] mostrada pela Camarilla**.
+- **Livro Controle de Entrega e Recebimento 23/11/2026 02h49:** 19-B/04 entregue para **guarda externa temporária**, recebedor registrado **[[Álvaro Bellini]]**, assinatura manuscrita. Não autoriza presumir que Álvaro está hoje com fita ou que assinou ordem de abertura.
+- **Envelope original lacrado de cera:** Henrico retirou inteiro com canivete (d20=17), recolocou após fotografar com dorso de canivete aquecido no isqueiro (d20=13 parcial); agora lacrado, intacto à inspeção superficial, **faixa mais brilhante visível em análise cuidadosa**.
+- **Equipamento:** Henrico tirou **luvas de couro do próprio bolso** para manuseio, usou canivete e isqueiro; não definir onde guardou esses itens depois. Gravador de áudio portado, **não ligado em cena**.
+- **Não confundir:** Lote 19 dentro do Archivio **não foi acessado**, 19-C recipiente não foi visto fisicamente, apenas foto e documento; vídeos de 1989 e gravação Camarilla 2026 são distintos.
+Referências: [[Archivio Bellini]] · [[Helena Voss]] · [[Álvaro Bellini]] · [[Em Aberto]] · [[Sessão — Lote 18, procurações e encontro com a Brujah (24-25-11-2026)]].
