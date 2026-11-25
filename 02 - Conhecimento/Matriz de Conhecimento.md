@@ -535,3 +535,16 @@ O Salve identifica Lorenzo como responsável pelos experimentos em Dario e diz q
 - **Lorenzo:** conhece elementos históricos da Tríade por envolvimento e tem USB em Kali VM; não é perito em computação. Não presumir que acompanhou visita à Liberdade.
 - **Patrícia:** intermediou ligação a Marta; não presumir que ouviu telefonema confidencial.
 - **Beatriz:** desaparecida, não presumir condições/local ou ciência de eventos novos.
+
+---
+
+## 24/11/2026, ~17h53 — atualização de informações separadas
+- **Henrico:** sabe da divergência do lacre Vettore, observou base Araçariguama e descarga Série VII; informou Aldo sobre acervo do complexo e possível alto escalão; possui contrato de joia e aliança de prata de Isabella tirada sem ela saber. Sabe vampiros e natureza de Lorenzo.
+- **Isabella:** foi informada por Henrico de disparos contra dois e van, motorista aparentemente morto e outras vítimas não confirmadas, funcionários resgatados e agressores desconhecidos. Sabe que há risco, Aldo aumenta segurança; entrou na cobertura por 2–3 dias e foi apresentada a **Helena Duarte**, conhece Lorenzo e Rafael por informações/convívio. **Não sabe** anel/noivado, aliança tirada, coleta de fertilidade, existência de vampiros, Sepulcro real ou plano de invasão Archivio. Afeto não anula medo e dilemas.
+- **Helena Duarte:** observou Vettore, ouviu trechos das discussões no posto, fotografou placa da picape de Ricardo e visitou base; está hospedada na cobertura e conheceu Isabella, sabe que é a namorada de Henrico. Não sabe natureza vampírica de Lorenzo nem plano definitivo de incursão noturna; Henrico e Lorenzo decidiram não levá-la.
+- **Aldo:** Henrico contou sobre acervo do subsolo na Vettore e risco de assinatura de alto escalão Giovanni. Mandou Pietro investigar e observação discreta, sem abordagem; não sabe automaticamente fotos, índice USB ou aliança/joia.
+- **Lorenzo:** analisou parcialmente USB via VM, imprimiu índice Série VII/CE-19; Henrico contou descobertas sobre Archivio, Beatriz, Cláudio e frase sobre “não trazer todos de volta”. Sabe que Isabella chegou, e que Henrico cogita incursão noturna; não sabe automaticamente da joalheria, aliança ou confissão a Isabella.
+- **Rafael:** confirmou perímetro San Michele e segurança nova, não recuperou Evo X; sabe homem de luvas procurou outras pessoas e pretende ir à cobertura. **Não sabe vampiros**, sexo ou mistérios sobrenaturais.
+- **Valentina Ricci:** sabe encomenda, configuração da joia, pagamento sinal 30%, que Henrico quer medir aro da namorada Isabella; não sabe detalhes da San Michele.
+- **Ricardo, conferente:** observou número de lacre discordante do manifesto e recusou liberação informal, conhece Henrico apenas como interlocutor casual que alegou experiência em planejamento logístico; não conhece seu interesse na carga.
+- **Steffano:** conhecido do passado de Henrico e Roberto, fez comentário sobre mãe de Henrico à mesa; isso é relato, não estabelecimento de identidade/história canônica.
