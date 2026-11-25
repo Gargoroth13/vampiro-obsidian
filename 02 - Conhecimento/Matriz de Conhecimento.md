@@ -548,3 +548,18 @@ O Salve identifica Lorenzo como responsável pelos experimentos em Dario e diz q
 - **Valentina Ricci:** sabe encomenda, configuração da joia, pagamento sinal 30%, que Henrico quer medir aro da namorada Isabella; não sabe detalhes da San Michele.
 - **Ricardo, conferente:** observou número de lacre discordante do manifesto e recusou liberação informal, conhece Henrico apenas como interlocutor casual que alegou experiência em planejamento logístico; não conhece seu interesse na carga.
 - **Steffano:** conhecido do passado de Henrico e Roberto, fez comentário sobre mãe de Henrico à mesa; isso é relato, não estabelecimento de identidade/história canônica.
+
+---
+
+## 24/11/2026 ~22h21 — conhecimentos separados, após visita à Camarilla
+- **[[Henrico Giovanni]]:** viu fotos da San Michele com criatura pálida à superfície; sabe de Leandro vampiro Ventrue/Camarilla, não sua geração; ouviu relato sobre vídeos/jornalista; viu papéis Vettore/Arcádia/Cesare e sabe de acesso pago ao Archivio 23h30, sala Lote 19 trancada. Comprometeu Giulia como recompensa condicional por recuperação do Evo X; quer conhecer mais vampiros e necromancia. Não foi Abraçado.
+- **[[Lorenzo]]:** conhece Leandro de antes (natureza/alcance não explicitados). Viu documentos e fotos, sabe intenção de visita 23h30, seu próprio compromisso de recuperar Evo X em troca do Giulia. Disposto a se alimentar discretamente e apresentar conhecidos do mundo vampírico; **não se alimentou ainda**. Helena/Rafael/Isabella não sabem sua natureza.
+- **[[Aldo Giovanni]]:** conhece a atividade da Arcádia, seis volumes Série VII retidos, caixa sem lote retirada, acordo limitado com Camarilla, intenção de Henrico e Lorenzo entrarem no Archivio e o horário arranjado por Pietro; sabe que Henri/Lorenzo estão no próprio jardim, e que Roberto está ausente. Não conhece joalheria/aliança.
+- **[[Leandro Vasconcelos]]:** sabe das imagens da San Michele e que Henrico participou de tiros, suspeita de ocultação e exposição. Viu Aldo/Lorenzo/Henrico, exigiu acesso a vídeos de transporte se obtidos, aceitou investigar movimentos últimos 48h. **Não** conhece automaticamente conteúdo do Sepulcro, identidade de custodiante, ou planos do Archivio.
+- **[[Roberto Giovanni]]:** não presenciou encontro com Leandro nem acordo da Vettore/Archivio; segundo Aldo estava com Sérgio apurando segurança. Não transmitir automaticamente.
+- **[[Isabella Moretti]]:** assistiu Círculo de Fogo com Henrico e sabe que ele saiu depois, não para onde exatamente; é advogada. Desconhece facções/vampirismo, planos e transações de carros.
+- **[[Rafael Moreira]]:** chegou à cobertura, sabe apenas do convite/pernoite, situação Lancer e outras conversas domésticas; desconhece acordo Giulia, Camarilla, sobrenatural e ameaça precisa. **[[Helena Duarte (biomédica)|Helena]]:** preparou jantar, fez lista, sabe saída de Henrico/Lorenzo por assunto de família, mas desconhece incursão e vampiros.
+- **[[Pietro]]:** operador de Aldo, conhece ordem Vettore/Arcádia, negociações de guarda e ponte de acesso, não necessariamente todas as descobertas sobrenaturais e intenções de Henrico.
+- **[[Verônica Leme]]:** segundo Leandro, recebeu oferta de trecho 20s, pediu perícia independente, investigava segurança terceirizada; não se sabe o quanto entendeu e não há contato com Henrico.
+- **[[Cesare Bellandi]]:** sua credencial 2008 ainda ativa foi usada na Vettore, autoria de uso atual **desconhecida**; não atribuir a ele ciência ou vida presente.
+- **[[Beatriz Valença]], [[Eduardo Sampaio]], [[Cláudio Nascimento]], [[Enzo Bellini]], [[Álvaro Bellini]] e [[Marta Azevedo]]:** sem novas informações diretamente transmitidas nesta noite; manter últimos estados.
