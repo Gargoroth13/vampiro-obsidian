@@ -47,3 +47,8 @@ Preservar sua proximidade com Henrico, aprovação acompanhada de cautela e inte
 **Decisões:** pode discordar, impor limites aos recursos sob seu controle, procurar informações separadamente e preservar assuntos que julgue delicados; a intensidade disso depende de acontecimentos demonstrados.
 **Sabe:** decisão de Henrico de propor casamento; riscos apresentados genericamente; conversa sobre o anel ancestral. **Não comprovado:** detalhes da joalheria, clínica, gravação clandestina, extensão exata de pesquisas e poderes sobrenaturais.
 **Interpretação:** apoio acompanhado de avaliação própria; evitar o pai que apenas elogia ou serve de facilitador.
+
+---
+
+## 24/11/2026, noite — ausência durante reunião
+Segundo [[Aldo Giovanni]], Roberto se ausentou da [[Residência de Roberto]] para encontro com Sérgio sobre a segurança da [[San Michele]], já marcado anteriormente. Aldo disse que Roberto permitiu o uso da biblioteca, mas **não sabia do emissário [[Leandro Vasconcelos]] nem da presença de Henrico** naquela conversa. **Não transferir automaticamente** informações sobre Camarilla, Vettore, acordos de entrada no Archivio, ou planos de Henrico. Retorno de Roberto ainda **não observado**. Referências: [[Cronologia]] · [[Matriz de Conhecimento]] · [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]].
