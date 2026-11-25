@@ -68,3 +68,10 @@ Henrico tirou discretamente aliança fina de prata da penteadeira dela enquanto 
 
 ## Correção de continuidade — 24/11/2026, ~18h09
 O jogador confirmou expressamente que Isabella é **advogada desde sua introdução na crônica**, detalhe omitido das fichas anteriores. É um fato preexistente, não nova carreira. Na suíte, Henrico brincou depois de Isabella dizer que não precisaram chamar advogado para negociar cortinas: “Acho que a senhorita está esquecendo que você é a advogada no caso, não é?”. A resposta de Isabella é assunto da próxima cena; não registrar fala não ocorrida. Não confundir formação jurídica com concordância automática, onisciência legal ou disposição a administrar os negócios ilícitos Giovanni.
+
+---
+
+## 24/11/2026 — noite posterior ao último registro
+[[Henrico Giovanni]] prometeu a Isabella não agir como invencível, após discutir os inocentes desaparecidos. Os dois assistiram ao filme *Círculo de Fogo* no telão retrátil da suíte, junto na cama; Isabella divertiu-se e adormeceu ~20h24. Antes de sair ~21h06, Henrico acordou-a gentilmente, avisou que sairia e disse amá-la; Isabella pediu notícias de chegada e cuidado. **Ela continua na cobertura**, não conhece identidade de [[Leandro Vasconcelos]], Camarilla, vampiros, plano de incursão no [[Archivio Bellini]], nem o acordo do Giulia com [[Lorenzo]]. [[Helena Duarte (biomédica)|Helena]] preparou jantar na cozinha.
+**Profissão:** advogada, desde a introdução original, confirmado pelo jogador e corrigido neste Vault. Não inventar área de prática ou emprego.
+Referências: [[Estado Atual]] · [[Cronologia]] · [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]] · [[Henrico Giovanni]] · [[Lorenzo]].
