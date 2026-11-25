@@ -29,3 +29,8 @@ Direção integral: [[Direção da Campanha — Reservado ao Mestre]].
 > Diretrizes para cenas futuras, não fatos retroativos. Hipóteses não equivalem a conhecimento de personagem.
 
 Amizade antiga não significa disponibilidade ou concordância incondicional. Rafael tem trabalho, clientes, compromissos e interesses próprios; pode recusar riscos, questionar o amigo ou se ocupar com outra coisa. Não sabe dos vampiros ou Sepulcro por inferência. A Camila fisioterapeuta citada em sua vida não deve ser automaticamente identificada com Camila da clínica.
+
+---
+
+## 24/11/2026 — Evo X e convite à cobertura
+Rafael foi com Diego reconhecer **exterior da San Michele**, percebeu **segurança nova** e decidiu não entrar nem tentar recuperar Evo X; acredita que carro ainda está lá. Henrico convidou Rafael por mensagem ~17h26 a dormir na cobertura, alertou que homem de terno e luvas também visitou outras pessoas, embora até então sem ameaças diretas confirmadas. Rafael pretendia fechar a oficina cedo, sair com Diego até estacionamento e **aceitou intenção de ir à cobertura**, mas **não há confirmação de chegada**. Rafael **não sabe vampiros existem**, mantém preocupações e vida própria.
