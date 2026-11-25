@@ -216,3 +216,13 @@ Humano não Abraçado; dirige Alfa Romeo Giulia na Castelo Branco rumo a São Ro
 - Relatou a Lorenzo os lotes 17–19, informações de Marta/Cláudio, e discutiu **possível incursão noturna ao Archivio Bellini**, com balaclavas e ideia de fotografar Lote 19 e deixar como estava. Lorenzo consideraria ir; nenhuma ação executada.
 - Rafael e Diego não recuperaram Evo X, segurança nova San Michele. Rafael pretende ir à cobertura após oficina, sem confirmação de chegada.
 - **Último ponto ~17h53**: Henrico de pijama com Isabella na varanda da suíte principal, ela apoiada em seu ombro e segurando sua mão. Henrico é **humano não Abraçado**. Localização da Colt 1911 após banho não foi narrada, não atribuir automaticamente na cintura.
+
+---
+
+## Atualização — 24/11/2026 ~22h21 (pós-salve)
+Henrico **permanece humano**; viu pela primeira vez emissário da Camarilla, vampiro **[[Leandro Vasconcelos]]**, que [[Lorenzo]] identificou como Ventrue. Visitou [[Aldo Giovanni]] na [[Residência de Roberto]], ouviu relatos da gravação da [[San Michele]] e das fotografias da criatura pálida junto ao portão, oferecimento de trecho a [[Verônica Leme]], documentos da [[Arcádia Administração Patrimonial]]/[[Vettore Logística]], e ouviu de [[Pietro]] por Aldo acesso ao [[Archivio Bellini]] às **23h30** pela porta de serviço. Lote 18 comum; lote 19 em sala trancada sem chave do guarda. Ele afirmou que fechou acessos que abriu na San Michele; não assumiu responsabilidade por eventuais outras rotas.
+**Objetivo expresso:** conhecer mais vampiros, parentes Giovanni Abraçados, outros clãs e rituais de necromancia, e estudar sociedade noturna, não apenas arquivos. [[Lorenzo]] indicou lugar social vampírico após Archivio, sem encontro nem ritual ainda.
+**Novo acordo:** apertou mãos com Lorenzo — **Giulia passa a Lorenzo somente se este recuperar o Evo X sem um arranhão novo**. O Evo X continua na San Michele; Giulia parado na residência de Roberto e ainda pertence a Henrico. [[Rafael Moreira]] não foi informado.
+**Equipado ao sair da cobertura ~21h:** Colt 1911 conferida e no coldre oculto, kit de gazuas, lanterna com pilhas novas, gravador de som não acionado, sapatos silenciosos, chapéu aba larga, sobretudo, cigarros e isqueiro maçarico. Não atribuir balaclava vestida.
+**Isabella:** Henrico a avisou que sairia, e prometeu segurança cautelosa e mensagens; não disse sobre vampiros ou invasão. Ela é [[Isabella Moretti|advogada]], detalhe original confirmado pelo jogador.
+**Ponto exato:** com [[Lorenzo]] na porta do jardim coberto da residência de Roberto ~22h21, prestes a retornar a falar com Aldo; controle do próximo gesto é do jogador. [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]].
