@@ -1,6 +1,7 @@
 # Isabella Moretti
 
 ## Identificação
+- **Profissão:** advogada, conforme estabelecido na introdução original da personagem e reiterado pelo jogador em 24/11/2026. Área de atuação, escritório, clientela e detalhes acadêmicos não estabelecidos; não inventar especialização.
 - **Relação com Henrico:** companheira.
 - **Condição sobrenatural:** não estabelecida.
 - **Papel:** personagem importante na vida pessoal e nos planos de futuro de Henrico.
@@ -64,3 +65,6 @@ Henrico a procurou em casa ~16h08 e confessou que, na noite anterior, enfrentou 
 Henrico convidou-a a passar dias na cobertura da Paulista como local que diz ser mais seguro e não estar ostensivamente em nome Giovanni; Isabella concordou em **experimentar por dois ou três dias**, sem mudança formal. Conheceu **Helena Duarte**, mulher resgatada em instalação e hospedada que investiga Beatriz desaparecida; conhece **Lorenzo** e sabe de Rafael. **Não sabe** que Lorenzo é vampiro, existência de vampiros, natureza do Sepulcro, pedido de casamento/anel, preservação da fertilidade, plano de incursão noturna ao Archivio, nem que Henrico pegou uma aliança de prata dela.
 Henrico tirou discretamente aliança fina de prata da penteadeira dela enquanto ela preparava mala para usá-la como medida para anel de noivado, **sem conhecimento de Isabella**.
 **Última cena:** ~17h53 na varanda da suíte principal da cobertura, Isabella com cabeça apoiada no ombro de Henrico, mãos entrelaçadas. Henrico ofereceu que ela decorasse cobertura, comprasse plantas/móveis/quadros e não precisasse voltar a casa. Isabella quer, caso um dia venha a morar lá, que seja **casa conjunta, com presença de Henrico**, não apenas espaço decorado; não aceitou mudança definitiva nem houve pedido. Amor com autonomia e desconfiança plausível após confissão.
+
+## Correção de continuidade — 24/11/2026, ~18h09
+O jogador confirmou expressamente que Isabella é **advogada desde sua introdução na crônica**, detalhe omitido das fichas anteriores. É um fato preexistente, não nova carreira. Na suíte, Henrico brincou depois de Isabella dizer que não precisaram chamar advogado para negociar cortinas: “Acho que a senhorita está esquecendo que você é a advogada no caso, não é?”. A resposta de Isabella é assunto da próxima cena; não registrar fala não ocorrida. Não confundir formação jurídica com concordância automática, onisciência legal ou disposição a administrar os negócios ilícitos Giovanni.
