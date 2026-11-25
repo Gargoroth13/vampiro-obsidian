@@ -458,3 +458,40 @@ O encontro com Lorenzo às 19h e a visita à San Michele ainda estão por aconte
 ### Outras referências citadas
 
 [[Cronologia]] · [[Estado Atual]] · [[Marina]] · [[Rafael Moreira]] · [[Sílvia]] · [[Segredos]] · [[Família Giovanni]] · [[Maison Belle]] · [[Residência de Roberto]] · [[Necromancia]] · [[Vampiros]] · [[Relações]]
+
+---
+
+
+# ADENDO DE EXECUÇÃO — REVISÃO PRIORITÁRIA 24/11/2026
+
+> **MESTRE / NÃO MOSTRAR AO JOGADOR.** Estado correto é **24/11/2026 ~18h04 na suíte principal da cobertura, com Isabella e Henrico**, após conversa sobre moralidade, desaparecidos e risco pessoal. Os marcos datados de 04/11 no corpo desta nota são **históricos/desatualizados**, não o ponto de retomada. Direção integral e novas fichas planejadas estão em [[Direção da Campanha — Reservado ao Mestre]] §§35–40. Este adendo altera **prazo e prioridade**, sem declarar eventos realizados.
+
+## A. Novo objetivo imediato: Vampiro: A Máscara em primeiro plano
+- Nas próximas cenas noturnas, apresentar **vampiro adicional em interação verdadeira** (não só rumores). Nas **24–72 horas ficcionais** dar acesso em jogo a pelo menos **três NPCs vampiros além de Lorenzo**, incluindo **Camarilla, outro clã e interesses Hecata**. Explorar domínios, Máscara, influência mortal, favores e rivalidades. Não fazer todos de uma vez nem criar cenas artificiais para preencher cotas; ancorar em San Michele, Vettore, CE-19, Aldo/Pietro, câmeras, disparos e custodiante.
+- Contatos agem autonomamente se Henrico ficar em casa; não dependem exclusivamente de iniciativa do jogador. Não interromper artificialmente a conversa íntima em andamento.
+- Os personagens reservados **Ottavia Giovanni** (Hecata 5ª), **Leandro Vasconcelos** (Ventrue Camarilla 8ª), **Ariane Prado** (Nosferatu Camarilla 10ª) e **Joana 'Ferrugem' Reis** (Brujah Anarquista 10ª) são **projetos**, não encontros ocorridos ou nomes conhecidos de Henrico. Conferir funções, limites e motivações na Direção da Campanha.
+
+## B. Abraço deixa de ser plano longínquo
+- **Mudança explícita da prioridade antiga:** oportunidade real de Abraço no curto prazo, preferencialmente **dentro de 2–4 noites ficcionais**, em cena pessoal com ofertante motivado, custo identificável e plena decisão de Henrico. **Não impor a conversão**, tampouco adiar à conclusão do Sepulcro.
+- Lorenzo é **9ª geração**. O jogador deseja que Henrico seja Abraçado por vampiro de geração numericamente **menor** (mais próxima da 1ª). **Candidata preferencial Ottavia Giovanni, 5ª, que geraria Henrico da 6ª geração.** Se a campanha impedir a aproximação, considerar alternativas de geração inferior à de Lorenzo por motivos coerentes, preservando raça/clã conforme verdadeiro senhor e escolha.
+- Uma eventual cria 6ª é recém-transformada, sem disciplinas/aprendizado/política equivalentes a um ancião. A geração é **potencial**, não imunidade a perigos, Besta, fome ou outros vampiros. Sua história **como vampiro** deve ocupar amplo trecho da campanha, não ser epílogo.
+- Ingresso no Mundo das Trevas causa novas interações e dilemas concretos envolvendo Isabella, Rafael, Lorenzo, Aldo, a Máscara e a hierarquia, com conhecimentos separados.
+
+## C. Payoffs e agência
+- Lote 19 e os registros não podem ser outra sequência interminável de "pista leva a pista": permitir respostas factuais por investigação ou confronto num horizonte curto, com consequências reais se uma operação falhar.
+- Preservar pistas vencidas, autonomia de NPCs, proteção de material reservado, andamento da vida dos demais, situação do anel (30% pago, aliança de prata de Isabella com Henrico), Evo X ainda San Michele, chegada de Rafael não confirmada, divergência do lacre e deslocamento para base Araçariguama.
+- Se Henrique mudar de ideia e permanecer em casa com Isabella, cenas sociais noturnas e investigações de NPCs **continuam organicamente**, em tempo devido, sem teleporte ou coincidência.
+
+## D. Estado dos marcos
+| Marco | Novo status |
+|---|---|
+| Introdução de outros vampiros/clãs e Camarilla | **PRIORIDADE IMEDIATA, ainda não feita** |
+| Encontro político real com Camarilla | **Em preparação imediata por repercussões da San Michele** |
+| Contatos Anarquistas/Hecata não Giovanni | **Em preparação de curto prazo** |
+| Oferta de Abraço de baixa geração numérica | **Em preparação para 2–4 noites, não oferecida** |
+| Abraço de Henrico | **Não ocorrido; consentimento e senhor em aberto** |
+| Lote 19 / CE-19 | **A investigar; sem abertura confirmada** |
+| Joia de noivado | **Encomendada e sinal de 30% pago; entrega/tamanho pendentes** |
+| Isabella | **Hospedada por 2–3 dias de experiência; não sabe do sobrenatural** |
+| Ponto de retomada | **24/11/2026, ~18h04, suíte principal com Isabella** |
+
