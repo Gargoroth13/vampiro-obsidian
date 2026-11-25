@@ -105,3 +105,14 @@
 - **Isabella e proteção:** Isabella ficou sabendo da violência real e risco, aceitou experimentar 2–3 dias na cobertura; reconciliação emocional em curso. Não sabe de vampiros, anel, fertilidade ou incursão noturna.
 - **Noivado:** encomenda paga parcialmente **30%**, anel tamanho pendente; aliança de prata de Isabella guardada furtivamente no bolso de Henrico para medida; cuidar de devolver sem presumir sucesso automático. Entrega e pedido ainda não realizados.
 - **Rafael:** Evo X não recuperado devido a nova segurança; pretende ir à cobertura, chegada desconhecida.
+
+---
+
+## 24/11/2026 ~22h21 — novos indícios e próximos passos
+- **Máscara/Camarilla:** [[Leandro Vasconcelos]] exibiu foto de criatura anômala perto do portão da [[San Michele]]; soldados aparentemente não interagiram. Não comprova fuga para a cidade. Segundo Leandro, uma cópia/trecho 20s foi oferecido à jornalista [[Verônica Leme]], Linha de Frente; fonte, comprador, conteúdo e publicação pendentes. A Camarilla quer apurar movimentos de pessoas/carros nas últimas 48h, enquanto [[Aldo Giovanni]] apura [[Marcelo Vieira]] e autorizações, sob cooperação limitada.
+- **Carga [[Vettore Logística]]:** [[Pietro]] encontrou credencial de 2008 vinculada a [[Cesare Bellandi]] usada para retificar destino às 12h08 por [[Arcádia Administração Patrimonial]], empresa sem operação regular hoje. Não se sabe quem a usou. Seis volumes identificados Lote 17 estão retidos na base Araçariguama; caixa separada sem lote saiu 14h17 em sedã. Inspeção privada de uma hora na noite de **25/11** é possibilidade negociada, não execução.
+- **[[Archivio Bellini]]:** Lotes **18 e 19 no local** conforme relato; entrada de duas pessoas arranjada para **23h30 de 24/11** pela porta de serviço, guarda pago, sala especial do lote 19 **sem chave do guarda**. Henrico e Lorenzo ainda não entraram, não sabem conteúdos.
+- **Sociedade vampírica:** Henrico conheceu Leandro, segundo vampiro da história pessoal depois de [[Lorenzo]]. Quer conhecer parentes Hecata e necromancia; Lorenzo sugeriu lugar social para depois do Archivio e possível ritual didático. Não realizado; alimentação de Lorenzo também pendente.
+- **Relações:** [[Isabella Moretti]] informada de que Henrico saiu, sem saber destino nem vampirismo; [[Rafael Moreira]] chegou à cobertura; [[Helena Duarte (biomédica)]] cozinhou e fez lista. [[Roberto Giovanni]] ausente da reunião.
+- **Contrato carros:** acordo [[Henrico Giovanni]]/Lorenzo para recuperar [[Mitsubishi Lancer Evo X]] sem arranhões novos em troca do Giulia, ainda não cumprido.
+Ver [[Estado Atual]] · [[Objetos e Documentos]] · [[Promessas]] · [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]].
