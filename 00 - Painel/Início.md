@@ -2,12 +2,13 @@
 
 > Página inicial do vault. O estado atual é a referência para retomar a narrativa; a cronologia preserva os acontecimentos já registrados.
 
-## Retomada
-- [[Estado Atual]] · [[Quarto Salve]]
-- [[Cronologia]]
-- [[Sessão 003]]
+## Retomada — ponto vivo: 25/11/2026 ~00h59
+- **[[Estado Atual]]** · **[[Sessão — Lote 18, procurações e encontro com a Brujah (24-25-11-2026)]]** · [[Cronologia]]
+- [[Il Notturno]] · [[Henrico Giovanni]] · [[Lorenzo]] · [[Joana Ferrugem Reis]]
+- [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]] · [[Quarto Salve]] · [[Sessão 003]]
 
 ## Personagens
+- [[Joana Ferrugem Reis]] · [[Leandro Vasconcelos]] · [[Ottavia Giovanni — Reservado ao Mestre|Ottavia (Mestre — reservado)]]
 - [[Henrico Giovanni]] · [[Isabella Moretti]] · [[Roberto Giovanni]] · [[Aldo Giovanni]] · [[Lorenzo]]
 - [[Augustus Giovanni]] · [[Vittoria Giovanni]] · [[Rafael Moreira]] · [[Elena Giovanni]] · [[Matteo Giovanni]]
 - [[Enzo Bellini]] · [[Dario Nascimento]] · [[Tommaso Giovanni]]
@@ -56,3 +57,12 @@
 - **Outros NPCs com fichas:** [[Álvaro Bellini]] · [[Enzo Bellini]] · [[Marina (Archivio Bellini)]] · [[Marta Azevedo]] · [[Patrícia (arquivo de Marta)]] · [[Valentina Ricci]] · [[Ricardo (conferente Vettore)]] · [[Steffano (cantina)]] · [[Helena Voss]] · [[Marcelo Vieira]] · [[Beatriz Valença]].
 - **Locais, transportadoras e investigação:** [[San Michele]] · [[Archivio Bellini]] · [[Vettore Logística]] · [[Arcádia Administração Patrimonial]] · [[Projeto Sepulcro]] · [[Objetos e Documentos]] · [[Em Aberto]] · [[Promessas]] · [[Dívidas e Favores]].
 > As seções antigas desta página podem fazer referência à sessão de 04/11 ou de 17h53: são históricas. A retomada correta é o título acima e [[Estado Atual]]. Personagens **reservados/futuros** não são listados aqui; usar [[Índice Reservado — Personagens Futuros]] apenas como Mestre, sem ler segredos ao jogador.
+
+---
+
+## Adendo de navegação — 25/11/2026 ~00h59
+- **Última sessão e retomada:** [[Estado Atual]] · [[Sessão — Lote 18, procurações e encontro com a Brujah (24-25-11-2026)]].
+- **Il Notturno e sociedade noturna:** [[Il Notturno]] · [[Joana Ferrugem Reis]] · [[Outras Facções]] · [[Vampiros]].
+- **Evidências do Archivio:** [[Archivio Bellini]] · [[Objetos e Documentos]] · [[Álvaro Bellini]] · [[Helena Voss]] · [[Em Aberto]] · [[Matriz de Conhecimento]].
+- **Reservado ao Mestre:** [[Índice Reservado — Personagens Futuros]] · [[Direção da Campanha — Reservado ao Mestre]].
+> Se passagens antigas desta página apontarem 24/11 ~22h21 como estado vigente, estão desatualizadas e servem somente de registro histórico.
