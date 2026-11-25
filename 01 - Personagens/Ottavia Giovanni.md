@@ -1,5 +1,5 @@
 # Ottavia Giovanni
-> **Ficha observável até 25/11/2026 ~00h59.** Não contém informações ocultas da direção reservada do Mestre. Não confundir com [[Ottavia Giovanni — Reservado ao Mestre]].
+> **Ficha observável até 25/11/2026 ~00h59.** Não contém informações ocultas da direção reservada do Mestre. Não confundir com nota reservada de Ottavia (Mestre).
 
 ## Conhecimento de Henrico
 - [[Lorenzo]] citou Ottavia Giovanni como uma vampira **que admira**, de grande tradição e influência dentro da família. Referiu-se à experiência política e inteligência dela, disse que **já era considerada anciã quando ele foi Abraçado em 1876**.
