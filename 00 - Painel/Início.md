@@ -3,7 +3,7 @@
 > Página inicial do vault. O estado atual é a referência para retomar a narrativa; a cronologia preserva os acontecimentos já registrados.
 
 ## Retomada — ponto vivo: 25/11/2026 ~00h59
-- **[[Estado Atual]]** · **[[Sessão — Lote 18, procurações e encontro com a Brujah (24-25-11-2026)]]** · [[Cronologia]]
+- **[[Estado Atual]]** · **[[Sessão — Lote 18, procurações e encontro com a Brujah (24-25-11-2026)]]** · [[Salve — 25-11-2026 00h59, Il Notturno]] · [[Cronologia]]
 - [[Il Notturno]] · [[Henrico Giovanni]] · [[Lorenzo]] · [[Joana Ferrugem Reis]]
 - [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]] · [[Quarto Salve]] · [[Sessão 003]]
 
