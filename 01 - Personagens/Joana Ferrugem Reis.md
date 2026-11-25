@@ -1,6 +1,6 @@
 # Joana “Ferrugem” Reis
 
-> **FICHA DO PERSONAGEM APRESENTADO EM CENA.** Somente informações observadas/ditas em jogo; motivações secretas separadas em [[Joana Ferrugem Reis — Reservado ao Mestre]]. Referência: [[Estado Atual]].
+> **FICHA DO PERSONAGEM APRESENTADO EM CENA.** Somente informações observadas/ditas em jogo; motivações secretas separadas em nota reservada de Joana (Mestre). Referência: [[Estado Atual]].
 
 ## Identificação e aparência
 Vampira do **clã Brujah** e integrante do **Movimento Anarquista**, apresentada pessoalmente a [[Henrico Giovanni]] por [[Lorenzo]] no **[[Il Notturno]]**, Bela Vista, São Paulo, em **25/11/2026 ~00h37**. **Terceira vampira conhecida por Henrico**, após Lorenzo e [[Leandro Vasconcelos]]. **Geração, senhor, idade real, disciplinas e domínios exatos não informados a Henrico.**
@@ -24,4 +24,4 @@ Assertiva, desconfiada, territorial e direta; percebe ironias, não se intimida 
 - Último lugar observado: **mesa do fundo do [[Il Notturno]] com Henrico e Lorenzo, 25/11 ~00h59**, atenta à cantora que começaria a apresentação.
 
 ## Links
-[[Joana Ferrugem Reis — Reservado ao Mestre]] · [[Il Notturno]] · [[Henrico Giovanni]] · [[Lorenzo]] · [[Leandro Vasconcelos]] · [[San Michele]] · [[Cláudio Nascimento]] · [[Outras Facções]] · [[Matriz de Conhecimento]] · [[Sessão — Lote 18, procurações e encontro com a Brujah (24-25-11-2026)]]
+nota reservada de Joana (Mestre) · [[Il Notturno]] · [[Henrico Giovanni]] · [[Lorenzo]] · [[Leandro Vasconcelos]] · [[San Michele]] · [[Cláudio Nascimento]] · [[Outras Facções]] · [[Matriz de Conhecimento]] · [[Sessão — Lote 18, procurações e encontro com a Brujah (24-25-11-2026)]]
