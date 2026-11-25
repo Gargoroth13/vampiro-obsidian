@@ -55,3 +55,8 @@ Roberto pretende conversar com Aldo sobre procurar o anel formal do avô Giovann
 **Conflitos plausíveis:** ambição de Henrico vs. hierarquia; urgência da investigação vs. discrição; transparência pessoal vs. necessidade de preservar fontes.
 **Conhecimento verificado:** posição familiar; contato com Enzo e organização de acesso à San Michele; intenção de procurar Augusto por intermediários. **Não comprovado:** conhecer todos os procedimentos do Sepulcro, a gravação secreta na Maison Belle, planos de casamento/anel/clínica. A busca por Augusto ainda não tem resultado registrado.
 **Regra de atuação:** não solicitar opinião de Henrico por padrão; fazê-lo somente quando a perspectiva dele for relevante e com razão discernível. Poder influenciar Aldo exige argumentos, custos, confiança ou vantagem concreta.
+
+---
+
+## 24/11/2026 — telefonema de Henrico da base Vettore, Araçariguama
+Henrico revelou transportadora Vettore e Archivio Bellini envolvidos em movimentação de documentos **do complexo subterrâneo** San Michele; advertiu que documentos têm autorizações ocultas e podem envolver alguém hierarquicamente acima de Aldo. Aldo demonstrou autoridade e contundência próprias do poder mafioso Giovanni: incumbiu **Pietro** de apurar empresas/contratos, propôs observadores discretos e, ao saber de potencial conflito com alto escalão, **suspendeu qualquer abordagem à carga**, apenas observação, para não provocar guerra interna precipitada. Pediu a Henrico discrição frente a Roberto por enquanto. **Nenhuma confirmação** de responsáveis, contratação, chegada de homens ou recuperação da carga ainda ocorreu. Não o representar como executivo legalista dócil; interesses políticos, poder e autonomia continuam válidos.
