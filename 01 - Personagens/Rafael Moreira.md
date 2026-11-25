@@ -34,3 +34,9 @@ Amizade antiga não significa disponibilidade ou concordância incondicional. Ra
 
 ## 24/11/2026 — Evo X e convite à cobertura
 Rafael foi com Diego reconhecer **exterior da San Michele**, percebeu **segurança nova** e decidiu não entrar nem tentar recuperar Evo X; acredita que carro ainda está lá. Henrico convidou Rafael por mensagem ~17h26 a dormir na cobertura, alertou que homem de terno e luvas também visitou outras pessoas, embora até então sem ameaças diretas confirmadas. Rafael pretendia fechar a oficina cedo, sair com Diego até estacionamento e **aceitou intenção de ir à cobertura**, mas **não há confirmação de chegada**. Rafael **não sabe vampiros existem**, mantém preocupações e vida própria.
+
+---
+
+## 24/11/2026, noite — chegada à cobertura
+Chegou sozinho à cobertura de [[Henrico Giovanni]] por volta de **20h33**, após deixar oficina fechada, com mochila e sacola de mercado (pão, queijo, refrigerante, salgadinhos); pretende pernoitar ali. Conversou com [[Helena Duarte (biomédica)|Helena]] e [[Lorenzo]], jantou espaguete preparado por Helena. Brincou com Henrico sobre chapéu/sobretudo e recebeu gesto obsceno amistoso de despedida no elevador.
+Preocupa-se com Evo X na [[San Michele]] e segurança nova; **não sabe** do acordo condicional entre Henrico e Lorenzo para trocar Giulia pela recuperação do Evo X, nem de vampiros, Camarilla, CE-19 ou entrada noturna no [[Archivio Bellini]]. Último visto na cobertura. [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]].
