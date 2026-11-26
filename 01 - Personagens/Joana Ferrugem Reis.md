@@ -25,3 +25,11 @@ Assertiva, desconfiada, territorial e direta; percebe ironias, não se intimida 
 
 ## Links
 nota reservada de Joana (Mestre) · [[Il Notturno]] · [[Henrico Giovanni]] · [[Lorenzo]] · [[Leandro Vasconcelos]] · [[San Michele]] · [[Cláudio Nascimento]] · [[Outras Facções]] · [[Matriz de Conhecimento]] · [[Sessão — Lote 18, procurações e encontro com a Brujah (24-25-11-2026)]]
+
+---
+
+## 25/11/2026 01h00–01h23 — relato pessoal e contato
+No [[Il Notturno]], falou de shows de rock/jazz e apreciou música. Relatou a Henrico que, antes do Abraço, trabalhava com transporte e organização de trabalhadores, defendendo um colega contra homens contratados para quebrar greve. Sua futura senhora Brujah se interessou pela resistência e lhe ofereceu transformação/poder, omitindo custos; Joana disse ter-se arrependido de decisões por obediência. **É relato dela, sem data/nome da senhora, não história verificada por terceira pessoa**.
+Henrico disse ter conhecido vampiros há apenas um mês, estudar necromancia, poder cogitar Abraço em futuro, não querer Lorenzo necessariamente como senhor e talvez conhecer outro parente. **Joana não conhece identidade de Ottavia ou planos internos Giovanni**.
+Joana explicou de modo coloquial **Laço de Sangue, carniçais e Abraço**, avisou de dependência e domínio. Recebeu oferta de **jantar futuro**, aceitou sem data, e falou em convidar a show de rock, sem agendar. Escreveu **telefone em guardanapo que deu a Henrico**, não há dígitos no relato; ele guardou no bolso do peito da camisa e piscou. Lorenzo pagou conta. **Sem pacto, promessa de proteção, romance ou aliança automática.** Joana permanece com investigação própria de testemunhas da San Michele e imagem do homem de luvas, ainda sem resultado narrado.
+[[Estado Atual]] · [[Sessão — O despertar de São Paulo (25-11-2026)]].
