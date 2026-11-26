@@ -40,3 +40,8 @@ Rafael foi com Diego reconhecer **exterior da San Michele**, percebeu **seguran�
 ## 24/11/2026, noite — chegada à cobertura
 Chegou sozinho à cobertura de [[Henrico Giovanni]] por volta de **20h33**, após deixar oficina fechada, com mochila e sacola de mercado (pão, queijo, refrigerante, salgadinhos); pretende pernoitar ali. Conversou com [[Helena Duarte (biomédica)|Helena]] e [[Lorenzo]], jantou espaguete preparado por Helena. Brincou com Henrico sobre chapéu/sobretudo e recebeu gesto obsceno amistoso de despedida no elevador.
 Preocupa-se com Evo X na [[San Michele]] e segurança nova; **não sabe** do acordo condicional entre Henrico e Lorenzo para trocar Giulia pela recuperação do Evo X, nem de vampiros, Camarilla, CE-19 ou entrada noturna no [[Archivio Bellini]]. Último visto na cobertura. [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]].
+
+---
+
+## 25/11/2026 ~09h01 — manhã e atividades independentes
+Passou a noite como convidado na cobertura Paulista. Preparou **pão na chapa** e café; mexia no celular à ilha, conversou com [[Helena Duarte (biomédica)|Helena]], [[Henrico Giovanni]] e [[Isabella Moretti]], brincou sobre estilo e carona, ouviu Lorenzo ouvindo música clássica durante madrugada. **Não** recebeu informação sobre vampiros, Joana, H. Voss, Lote 18, Ferretti ou acordo de carros. Henrico disse apenas “noite produtiva”. Rafael conserva sua **oficina, clientes, preocupações com Evo X, amizades e decisões próprias**; não fica permanentemente no apartamento e não é escudeiro disponível. Ponto exato de saída/agenda do Rafael após ~09h09 **não narrado**. [[Estado Atual]] · [[Sessão — O despertar de São Paulo (25-11-2026)]].
