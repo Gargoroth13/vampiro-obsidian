@@ -2,10 +2,11 @@
 
 > Página inicial do vault. O estado atual é a referência para retomar a narrativa; a cronologia preserva os acontecimentos já registrados.
 
-## Retomada — ponto vivo: 25/11/2026 ~00h59
-- **[[Estado Atual]]** · **[[Sessão — Lote 18, procurações e encontro com a Brujah (24-25-11-2026)]]** · [[Salve — 25-11-2026 00h59, Il Notturno]] · [[Cronologia]]
-- [[Il Notturno]] · [[Henrico Giovanni]] · [[Lorenzo]] · [[Joana Ferrugem Reis]]
-- [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]] · [[Quarto Salve]] · [[Sessão 003]]
+## Retomada — ponto vivo: 25/11/2026 ~09h20
+- **[[Estado Atual]]** · **[[Salve — 25-11-2026 09h20, família e antagonismos]]** · [[Sessão — O despertar de São Paulo (25-11-2026)]] · [[Cronologia]]
+- **Família ativa:** [[Família Giovanni]] · [[Mapa Familiar Giovanni — Relações Autônomas]] · [[Cecília Arantes Giovanni]] · [[Luísa Giovanni]] · [[Valéria Mancini Giovanni]] · [[Chiara Giovanni]] · [[Dante Giovanni]]
+- **Apenas Mestre:** [[Agenda Familiar — Reservado ao Mestre]] · [[Agenda de Antagonismos — Reservado ao Mestre]]
+- Anterior: [[Salve — 25-11-2026 00h59, Il Notturno]] · [[Sessão — Lote 18, procurações e encontro com a Brujah (24-25-11-2026)]] · [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]]
 
 ## Personagens
 - [[Joana Ferrugem Reis]] · [[Leandro Vasconcelos]] · [[Ottavia Giovanni]]
@@ -66,3 +67,8 @@
 - **Evidências do Archivio:** [[Archivio Bellini]] · [[Objetos e Documentos]] · [[Álvaro Bellini]] · [[Helena Voss]] · [[Em Aberto]] · [[Matriz de Conhecimento]].
 - **Reservado ao Mestre:** [[Índice Reservado — Personagens Futuros]] · [[Direção da Campanha — Reservado ao Mestre]].
 > Se passagens antigas desta página apontarem 24/11 ~22h21 como estado vigente, estão desatualizadas e servem somente de registro histórico.
+
+---
+
+## ATUALIZAÇÃO MAIS RECENTE — 25/11/2026 ~09h20
+> Retomada **no Giulia com Henrico dirigindo e Isabella passageira para o escritório, reunião dela às 10h15**. Os títulos antigos citando 22h21 ou 00h59 são registros de saves históricos, não a posição atual. Novos personagens: [[Cecília Arantes Giovanni]], [[Luísa Giovanni]], [[Valéria Mancini Giovanni]], [[Chiara Giovanni]] e [[Dante Giovanni]]; links reservados do Mestre não representam conhecimento de Henrico.
