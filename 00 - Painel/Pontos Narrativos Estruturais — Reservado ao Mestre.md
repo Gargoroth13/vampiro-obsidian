@@ -532,3 +532,14 @@ O encontro com Lorenzo às 19h e a visita à San Michele ainda estão por aconte
 | Próxima cena | [[Estado Atual]]: **25/11 ~00h59**, mesa com Joana e Lorenzo no Il Notturno; música ao vivo prestes a começar |
 
 **Regras de condução:** personalidade sóbria de Lorenzo e Aldo; não transformar encontro humano em aula moral, nem interações vampíricas em uma avalanche de mais pistas sem resolução. [[Sessão — Lote 18, procurações e encontro com a Brujah (24-25-11-2026)]].
+
+---
+
+## Ampliação e antagonismo — ponto 25/11/2026 ~09h20, em trânsito para escritório de Isabella
+- **Foco presente:** [[Estado Atual]] · [[Sessão — O despertar de São Paulo (25-11-2026)]], não cenas antigas do Il Notturno.
+- [[Joana Ferrugem Reis]] conhecida, contato por guardanapo, show/jantar sem agendamento; [[Lorenzo]] já se alimentou em [[Teresa (Consolação)]] e dorme ala leste; [[Adriano Ferretti]] conheceu Henrico, condição sobrenatural ignorada, cartão recebido. Isabella não sabe vampirismo e ouvira explicação de “alergia ao sol” para Lorenzo.
+- **Pedido explícito do jogador:** expandir família como rede de pessoas com amizades, obrigações, vida profissional, casamentos e **conflitos horizontais próprios**, incluindo [[Cecília Arantes Giovanni]], [[Luísa Giovanni]], [[Valéria Mancini Giovanni]], [[Chiara Giovanni]], [[Dante Giovanni]]. Consultar [[Mapa Familiar Giovanni — Relações Autônomas]] e [[Agenda Familiar — Reservado ao Mestre]]. **Não atribuir ao jogador memórias/inimizades passadas com novos parentes**.
+- **Segundo pedido explícito:** quase todo mundo era neutro/amigo, ninguém “odeia” Henrico. Introduzir **oposição pessoal consequente**: Dante, ressentimento e ódio privados por nepotismo percebido; outros NPCs com motivos específicos já em cena (Álvaro impedido de despachar carga, segurança San Michele exposta, Leandro tentando controlar risco). **Não estender ódio a todos** nem forçar histórias de humilhação que não aconteceram. [[Agenda de Antagonismos — Reservado ao Mestre]]. 
+- **Vampiro/horror:** oportunidade de Abraço de baixo número de geração segue prioridade em próximas noites, figura Ottavia ainda só citada; recursos Vettore, Dario, original 1989-T/04 fornecem payoffs. Não transformar novos familiares em iscas ou reféns para empurrar jogador ao Abraço.
+- **Não consumados:** convite de Ottavia, inspeção Vettore, contato Enzo e Aldo sobre Dario, reunião de Isabella às 10h15, compra no mercado, almoço mãe/Roberto, nenhum confronto de Dante, nenhum retorno do homem grisalho.
+[[Estado Atual]] · [[Direção da Campanha — Reservado ao Mestre]] · [[Protocolo do Narrador — continuidade e agência]].
