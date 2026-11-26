@@ -21,3 +21,9 @@ Após cada **salve** consultar ficha GitHub do NPC antes de primeira fala/apari�
 
 ## Observação do salve ~00h59 de 25/11
 - [[Leandro Vasconcelos]] já apresentou-se em 24/11; [[Joana Ferrugem Reis]] já apresentou-se em 25/11. Não reutilizar notas antigas que digam que ela não apareceu; a introdução está em [[Sessão — Lote 18, procurações e encontro com a Brujah (24-25-11-2026)]].
+
+## Antagonismo e família — atualizado 25/11/2026 ~09h20
+- [[Dante Giovanni]] (ficha observável) e [[Dante Giovanni — Reservado ao Mestre]] (motivações privadas, **ainda NÃO encontrado por Henrico**) são novo parente colateral com conflito pessoal substancial.
+- [[Agenda de Antagonismos — Reservado ao Mestre]] · [[Agenda Familiar — Reservado ao Mestre]] · [[Mapa Familiar Giovanni — Relações Autônomas]].
+- [[Cecília Arantes Giovanni]], [[Luísa Giovanni]], [[Valéria Mancini Giovanni]], [[Chiara Giovanni]] são familiares humanos definidos como relações estruturais, **não foram apresentados em cena**, nem se presume que saibam da Máscara. Oportunidades e relações horizontais continuarão entre cenas.
+- Ponto exato [[Estado Atual]]: manhã 25/11 ~09h20, Isabella passageira no Giulia conduzido por Henrico, escritório ainda não alcançado.
