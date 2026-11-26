@@ -17,3 +17,6 @@
 
 **Obrigação após salve:** ler ficha de cada NPC no GitHub antes de primeira interpretação; distinguir (a) relação estrutural, (b) hipótese/agenda, (c) evento realmente ocorrido.
 [[Protocolo do Narrador — continuidade e agência]] · [[Estado Atual]] · [[Família Giovanni]]
+
+## Segundo pedido do mesmo salve — antagonismo pessoal verdadeiro
+O jogador apontou neutralidade excessiva de NPCs, sem ninguém que odiasse Henrico. Incorporar [[Agenda de Antagonismos — Reservado ao Mestre]], com [[Dante Giovanni — Reservado ao Mestre]] como ressentimento/ódio privadamente estabelecido e demais conflitos familiares, profissionais e políticos. Não supor que Cecília, Luísa, Valéria ou Chiara devam gostar/ajudar/defender Henrico só por parentesco. **Evitar forçar uma vingança arbitrária a cada reunião**; permitir relações também boas, mas não garantir afinidade.
