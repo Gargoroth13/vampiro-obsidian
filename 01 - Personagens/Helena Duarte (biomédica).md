@@ -19,3 +19,8 @@ Acompanhou Henrico ao posto e à base Vettore; ouviu do conferente Ricardo indir
 
 ## 24/11/2026, noite — vida na cobertura
 Preparou espaguete com molho de tomate na cozinha de [[Henrico Giovanni]], criticou despensa vazia e ralador/utensílios, enviou ao telefone de Henrico **lista de compras para 4–5 dias** com alimentos, ingredientes e utensílios. [[Rafael Moreira]] chegou à cobertura, trouxe queijo e mantimentos; conheceu-se com ele e compartilharam jantar junto a [[Lorenzo]] e Henrico. Helena sabe apenas que os dois sairiam para tratar de negócios familiares, **não sabe** que seriam visitas a [[Aldo Giovanni]], [[Leandro Vasconcelos]] ou invasão noturna ao [[Archivio Bellini]]. Não conhece vampiros nem natureza de Lorenzo. Mantém interesse em [[Beatriz Valença]] e seu paradeiro, sem novidades nesta noite. Referências: [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]] · [[Matriz de Conhecimento]] · [[Estado Atual]].
+
+---
+
+## 25/11/2026 ~09h01 — manhã na cobertura
+Permaneceu na cobertura Paulista durante noite, sem participar da saída de Henrico/Lorenzo. De manhã tomou café e trabalhava com notebook/impressos na cozinha, pediu a Henrico notícias da investigação; recebeu apenas **“noite produtiva”**, **não** os detalhes da incursão ao Lote 18, nome H. Voss 2008, recebedor Álvaro, fita 1989-T/04, Teresa ou Joana. Encaminhou a [[Isabella Moretti]] lista de compras antes enviada a Henrico, Isabella pretende ir ao mercado depois do escritório. **Helena não sabe vampiros existem**. Conservar suas prioridades próprias em Beatriz desaparecida; pode pesquisar, questionar Henrico e recusar participação em planos sem informação. [[Estado Atual]] · [[Sessão — O despertar de São Paulo (25-11-2026)]].
