@@ -77,3 +77,11 @@ No fim da reunião na [[Residência de Roberto]], [[Henrico Giovanni]] expressou
 **NÃO recebeu em cena** descoberta das fotografias de Lote 18, retirada 19-B/04, assinatura H. Voss ou recebedor Álvaro; sabe apenas que facilitou entrada ao [[Archivio Bellini]]. Não inferir conhecimento instantâneo.
 **Interpretação obrigatória:** mafioso influente e perigoso, **assertivo, pragmático, politicamente cauteloso diante de hierarquia antiga, afetuoso com sobrinho sem perder rigor, humor só ocasional**. Seus homens e favores são instrumentos de poder, não simples burocracia nem comédia em dupla com Lorenzo. Manter protagonismo e agência dos NPCs.
 [[Estado Atual]] · [[Sessão — Lote 18, procurações e encontro com a Brujah (24-25-11-2026)]].
+
+---
+
+## Ampliação familiar — salve 25/11/2026 ~09h20
+**Parentesco definido:** [[Valéria Mancini Giovanni]] é esposa de Aldo, empresária independente de importação/distribuição; [[Chiara Giovanni]] é a **filha adulta** do casal, designer e dona de ateliê; irmão de [[Roberto Giovanni]], cunhado de [[Cecília Arantes Giovanni]], tio de [[Luísa Giovanni]] e [[Henrico Giovanni]]. A família tem **vida e decisões autônomas**, sem que Aldo controle automaticamente empresa ou filha. Marido e pai com deveres reais e conflitos privados; não apenas “tio que ajuda Henrico”.
+**Relação com Dante:** [[Dante Giovanni]], parente de ramo colateral ligado a operações de ativos, tem interesses e disputas profissionais independentes. A visão privada dele está em ficha reservada, **não automaticamente conhecida por Aldo ou pelo protagonista**.
+**Estado das negociações:** até 25/11 ~09h20, **nenhum encontro efetivo com Henrico pela manhã**, ninguém transmitiu a Aldo fotos do Archivio, retirada 19-B/04 nem nome do recebedor. Ainda apenas prometeu **consultar intermediários de [[Ottavia Giovanni]] em 25/11**; não há resposta, ligação ou apresentação narradas. O filho de Roberto **pensa em visitá-lo após levar Isabella**, sem marcar a visita.
+**Interpretação:** estrategista, mafioso pragmático e firme, capaz de negar favores, cobrar preços, ter rixas e emoções, humor pontual e não caricata; pai, marido e irmão não significam imune a conflito conjugal ou familiar. [[Mapa Familiar Giovanni — Relações Autônomas]] · [[Agenda de Antagonismos — Reservado ao Mestre]] · [[Estado Atual]].
