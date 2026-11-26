@@ -34,3 +34,21 @@
 - **Henrico — Isabella:** Henrico decidiu que quer casar com ela e contou a Roberto, mas ainda não fez o pedido. Isabella não sabe dessa decisão. No telefonema, demonstrou amor e disposição para conhecer aspectos difíceis de Henrico, valorizando autonomia e honestidade; sua pergunta sobre se alguém pagava por atos dele foi encerrada por Henrico. Não há compromisso de casamento nem concordância de Isabella.
 - **Henrico — Roberto:** Roberto aprovou a decisão de Henrico casar, acompanhada de ressalvas sobre autonomia de Isabella, segredos familiares e mortalidade de Henrico. A conversa reforça proximidade e busca de aprovação paterna, sem apagar preocupações de Roberto.
 - **Henrico — Lorenzo:** encontro combinado para 19h de 04/11 para ir à San Michele; Lorenzo concordou. Não há informação de Lorenzo sobre casamento, anel ou clínica.
+
+---
+
+## Ampliação — 25/11/2026 ~09h20, relações familiares que existem sem Henrico
+- **[[Roberto Giovanni]] ↔ [[Cecília Arantes Giovanni]]:** casados, pais de Henrico e [[Luísa Giovanni]]. Relação conjugal com afetos e diferenças sobre o uso da influência Giovanni; não presumir concordância ou rompimento.
+- **[[Roberto Giovanni]] ↔ [[Luísa Giovanni]]:** pai/filha com dinâmica e vida distintas do vínculo Roberto–Henrico. Luísa não subordinada ao pai e trabalha fora da administração familiar.
+- **[[Cecília Arantes Giovanni]] ↔ [[Luísa Giovanni]]:** mãe/filha com profissão própria e temas de convívio que não dependem dos homens da família.
+- **[[Aldo Giovanni]] ↔ [[Valéria Mancini Giovanni]]:** casados, com fronteiras nos próprios negócios; Valéria não é submissa a Aldo nem fachada de seus interesses.
+- **[[Aldo Giovanni]] ↔ [[Chiara Giovanni]]:** pai/filha, podem divergir sobre carreira, recursos e influência.
+- **[[Valéria Mancini Giovanni]] ↔ [[Chiara Giovanni]]:** mãe/filha, relações próprias, aproximação e conflitos sobre exposição e ateliê.
+- **[[Cecília Arantes Giovanni]] ↔ [[Valéria Mancini Giovanni]]:** cunhadas, convívio/correlações de eventos familiares e interesses culturais; não pressupor amizade perfeita.
+- **[[Luísa Giovanni]] ↔ [[Chiara Giovanni]]:** primas, canal próprio de relação sem mediação por Henrico.
+- **[[Roberto Giovanni]] ↔ [[Aldo Giovanni]]:** irmãos que podem divergir na política da família, proteção de filhos/sobrinhos e negócios, não dupla que acata tudo.
+- **[[Dante Giovanni]] ↔ ramo Roberto/Aldo:** ramo colateral com interesses materiais; rivalidades pessoais e hostilidade efetiva são **informação do Mestre em [[Agenda de Antagonismos — Reservado ao Mestre]]**, não conhecimento de Henrico e **nenhuma briga anterior entre ele e Dante foi narrada**.
+- **Henrico ↔ mãe/irmã/tia/prima:** o jogador afirmou distância relativa da mãe, esposa de Aldo pouco vista e memória vaga de filho/filha do tio; **não fixar reencontros, lembranças de infância ou afeto/ódio pessoais sem jogada**.
+- **Isabella ↔ familiares Giovanni:** quer conhecer mãe de Henrico e Roberto pessoalmente fora da política; não conhece nomes novos até que alguém os diga; nenhum convite.
+- **Novas linhas de conflito:** [[Mapa Familiar Giovanni — Relações Autônomas]] e [[Agenda de Antagonismos — Reservado ao Mestre]]; **amor e amizade não impedem recusas e consequências**. Compromissos cotidianos podem ocorrer sem envolver Henrico.
+
