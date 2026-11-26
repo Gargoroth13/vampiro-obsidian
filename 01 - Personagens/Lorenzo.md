@@ -97,3 +97,11 @@ Conduziu Alfa Giulia até [[Il Notturno]] Bela Vista e apresentou [[Henrico Giov
 **Interpretação obrigatória:** culto, **reservado, metódico, preciso, orgulhoso, pragmático, sarcástico apenas ocasionalmente**. Humor e tiradas não devem dominar quase todas as falas, nem desqualificar riscos. Evitar tom de professor que dá aula a cada resposta. Interesses próprios sobre necromancia, Dario e Tommaso importam.
 **Local atual:** mesa do fundo do Il Notturno com Henrico e Joana, 25/11 ~00h59.
 [[Estado Atual]] · [[Matriz de Conhecimento]] · [[Sessão — Lote 18, procurações e encontro com a Brujah (24-25-11-2026)]].
+
+---
+
+## 25/11/2026 01h06–09h06 — alimentação e descanso
+Após recusar condições de sangue da Reserva da Casa do [[Il Notturno]] e vendedor [[Vicente]], [[Lorenzo]] telefonou a [[Teresa (Consolação)]], humana que o atende profissionalmente há quase oito anos segundo relato. Foi ao estabelecimento com Henrico; alimentação **REALIZADA em reservado**, ele saiu por volta de 01h53 visivelmente recomposto e declarou que Teresa foi remunerada. **Não está faminto por não ter bebido no bar**; não inventar quantidade, método ou contratos não vistos.
+Enquanto Henrico aguardava, conheceu [[Adriano Ferretti]]. Lorenzo o conhece de antes, sugeriu ~7 anos desde último encontro, e disse que família Ferretti administra imóveis de terceiros inclusive vampiros; **não sabe por que Adriano está atualmente em São Paulo**. Cautela não equivale a inimigo comprovado.
+Conduziu Alfa Giulia à cobertura Paulista ~02h12, **devolveu chaves a Henrico**. Henrico pediu que descansasse e ouvisse música, não estudasse no escritório; Lorenzo aceitou, ouviu piano pelo sistema de som e escolheu **suíte da ala leste** ao invés de quarto pequeno ao lado do escritório, com cortinas protetoras para sono diurno. Às 09h06 Henrico bateu de leve à porta, **sem resposta; Lorenzo não acordou**. Não conhece conversas do banho da manhã com Isabella, inclusive versão de “alergia ao sol”, sem transmissão.
+**Interpretação:** personalidade séria, acadêmica, orgulhosa, metódica, ironia ocasional, não palhaço. Relações antigas com Teresa e Ferretti podem ter dinâmicas sem Henrico, sem dar a Lorenzo onisciência. [[Estado Atual]] · [[Sessão — O despertar de São Paulo (25-11-2026)]].
