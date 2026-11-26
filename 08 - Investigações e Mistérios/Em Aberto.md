@@ -129,3 +129,15 @@ Ver [[Estado Atual]] · [[Objetos e Documentos]] · [[Promessas]] · [[Sessão �
 - **Joana, Cláudio e homem de luvas:** Joana possui amiga cujo irmão trabalhou na San Michele, sem nome confirmado. Henrico afirmou ter oferecido refúgio a [[Cláudio Nascimento]], **sem confirmação de chegada**. Joana prometeu parar busca direta dele e pedir verificação de imagens do **homem grisalho com luvas** procurado por trabalhadores, **sem imagem/nome ainda**. Possível carniçal diurno é **hipótese**; natureza e empregador desconhecidos.
 - **Vettore:** janela de ~1h para seis volumes do Lote 17 na base Araçariguama à noite de **25/11** ainda potencial/não confirmada; credencial antiga de [[Arcádia Administração Patrimonial]] e caixa separada permanecem pendências.
 Ver [[Estado Atual]] · [[Sessão — Lote 18, procurações e encontro com a Brujah (24-25-11-2026)]].
+
+---
+
+## 25/11/2026 ~09h20 — status após noite social e vida doméstica
+- [[Lorenzo]] **resolveu sua fome** em atendimento pago de [[Teresa (Consolação)]] por volta 01h53, descreveu estar bem; não inventar quantidade/procedimento privado.
+- [[Adriano Ferretti]] apareceu na sala de espera, conheceu Henrico, falou de relações antigas com Aldo/Roberto e deu cartão; **condição e interesses atuais desconhecidos**, não presumir vampiro ou adversário.
+- [[Joana Ferrugem Reis]] forneceu **telefone em guardanapo**, aceitou jantar/show em ideia, **não há data**; continua investigar homem grisalho de luvas, sem fotografia/nome confirmados. Não há aliança formal com Anarquistas.
+- [[Dario Nascimento]] continua desaparecido; Henrico pretende procurar [[Enzo Bellini]] e Aldo, **sem contato efetuado**. Fita **19-B/04 = 1989-T/04** retirada 23/11 e recebida **segundo livro** por [[Álvaro Bellini]], ainda sem paradeiro comprovado; H. Voss 2008 identidade não confirmada; Lote 19 não aberto fisicamente.
+- Aldo prometeu tentar intermediários de [[Ottavia Giovanni]] **25/11**, não houve ligação/convite/vista de cena ainda. O Abraço é possibilidade, protagonista ainda humano.
+- Janela ~1h Vettore para seis volumes do Lote 17 em Araçariguama **noite 25/11** ainda sujeita a confirmação/horário não marcado; caixa pequena sem lote 14h17 de 24/11 permanece mistério.
+- **Família Giovanni ampliada como mundo**, não mistério a ser resolvido: mãe Cecília, irmã Luísa, tia Valéria, prima Chiara, parente colateral Dante agora têm fichas e vida própria, **sem retroagir lembranças**. Relações reais e antagonismos devem entrar na narrativa com causas/tempo, não todos como pistas de Sepulcro. Reservado ao Mestre: [[Agenda Familiar — Reservado ao Mestre]] e [[Agenda de Antagonismos — Reservado ao Mestre]].
+[[Estado Atual]] · [[Sessão — O despertar de São Paulo (25-11-2026)]].
