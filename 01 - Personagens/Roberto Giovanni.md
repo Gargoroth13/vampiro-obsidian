@@ -52,3 +52,12 @@ Preservar sua proximidade com Henrico, aprovação acompanhada de cautela e inte
 
 ## 24/11/2026, noite — ausência durante reunião
 Segundo [[Aldo Giovanni]], Roberto se ausentou da [[Residência de Roberto]] para encontro com Sérgio sobre a segurança da [[San Michele]], já marcado anteriormente. Aldo disse que Roberto permitiu o uso da biblioteca, mas **não sabia do emissário [[Leandro Vasconcelos]] nem da presença de Henrico** naquela conversa. **Não transferir automaticamente** informações sobre Camarilla, Vettore, acordos de entrada no Archivio, ou planos de Henrico. Retorno de Roberto ainda **não observado**. Referências: [[Cronologia]] · [[Matriz de Conhecimento]] · [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]].
+
+---
+
+## Ampliação familiar e dia 25/11/2026 ~09h20 — vida fora de Henrico
+**Parentesco estabelecido por solicitação do jogador:** esposo de **[[Cecília Arantes Giovanni]]** (arquiteta independente), pai de **[[Henrico Giovanni]]** e de **[[Luísa Giovanni]]** (irmã mais nova adulta de Henrico, engenheira ambiental), irmão de [[Aldo Giovanni]], cunhado de [[Valéria Mancini Giovanni]], tio de [[Chiara Giovanni]]. A informação genealógica é cânone **a partir deste salve, não uma cena anterior criada**. Roberto tem **dois filhos**, não tratar Henrico como filho único. Não presumir que sua relação com Luísa replica a relação com Henrico.
+**Conflitos/vida autônoma:** seu casamento e os projetos da esposa existem à parte do poder familiar; pode discordar de Cecília sobre risco/tempo destinados à estrutura Giovanni, sem que nenhum seja vilão. Sua filha Luísa tem carreira independente e perspectivas que podem contrariá-lo. Com Aldo compartilha parte da autoridade de família, mas tem interesses e julgamentos próprios, **não concordam sempre**. É um pai afetuoso, mas proteção não equivale à concordância automática com as ações de Henrico. Relações detalhadas sem cenas ainda abertas.
+**Última posição efetivamente observada:** ausente da reunião de 24/11 na residência, segundo Aldo encontrando Sérgio para apurar segurança San Michele; **não houve retorno confirmado ou nova conversa com Henrico**. Nem resultados do Lote 18 nem decisão de Isabel/filho pela visita foram transmitidos.
+**Novo dado de Henrico:** relógio de luxo que Roberto lhe deu de presente quando completou **18 anos**, hoje usado em 25/11; marca e custo desconhecidos.
+[[Mapa Familiar Giovanni — Relações Autônomas]] · [[Estado Atual]] · [[Sessão — O despertar de São Paulo (25-11-2026)]].
