@@ -37,3 +37,14 @@ Isabella pediu que Henrico avisasse quando chegasse à residência de Roberto e 
 - Aldo e [[Leandro Vasconcelos]]: cooperação **limitada** de informações relevantes sobre operação e filmagens da San Michele, sem obrigação de acesso irrestrito ou boon.
 - Lorenzo sugeriu contato com parentes vampiros, lugar social após o Archivio e ritual didático de espírito; **sugestões ainda não realizadas**, não são conhecimento/poder adquirido.
 Referências: [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]] · [[Matriz de Conhecimento]].
+
+---
+
+## Promessas e expectativas novas — 25/11/2026 01h00–09h20
+- **[[Henrico Giovanni]] — [[Joana Ferrugem Reis]]:** ofereceu **jantar futuro** pelo tempo/informações; Joana aceitou ideia sem data, local ou pagamento. Conversaram também sobre **ir a show de rock** um dia; não há convite marcado nem dívida formal. Joana entregou contato em guardanapo.
+- **Henrico — [[Isabella Moretti]]:** insistiu em levá-la ao escritório pela manhã e está **cumprindo a carona em seu Giulia**, ainda em trajeto ~09h20. Acordo doméstico de teste de **2–3 dias** continua provisório. **Não prometeu jantar hoje**, disse que investigações noturnas podem chamá-lo; Isabella pediu **aviso se indisponível**, sem que isso a obrigue a esperar. Ela se ofereceu para **comprar itens da lista de Helena e croissants** depois do trabalho; ainda não fez compras.
+- **Isabella — família de Henrico:** manifestou desejo de conhecer **mãe e Roberto fora dos negócios**; **nenhum convite, almoço ou apresentação foram realizados**, não é promessa formal de Henrico.
+- **[[Lorenzo]] — Henrico:** aceitou não trabalhar no escritório no restante da madrugada e ouvir música/repousar em suíte da ala leste; **de fato ouviu música e foi dormir**. Alimentou-se através de [[Teresa (Consolação)]], remunerada, sem dívida nova descrita a Henrico.
+- **[[Aldo Giovanni]] — Henrico:** continua devendo **tentar consultar intermediários de Ottavia em 25/11** e ponte para Lote 17 Vettore, ambos sem resultado narrado até 09h20. Não transformar promessa de tentar em sucesso.
+- **Família ampliada e antagonismos:** identidades de [[Cecília Arantes Giovanni]], [[Luísa Giovanni]], [[Valéria Mancini Giovanni]], [[Chiara Giovanni]], [[Dante Giovanni]] definidas, **nenhum deles assumiu compromissos com Henrico em cena**. [[Mapa Familiar Giovanni — Relações Autônomas]] e [[Agenda de Antagonismos — Reservado ao Mestre]].
+[[Estado Atual]] · [[Sessão — O despertar de São Paulo (25-11-2026)]].
