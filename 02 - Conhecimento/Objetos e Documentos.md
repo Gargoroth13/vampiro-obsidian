@@ -128,3 +128,18 @@ Referências: [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]]
 - **Equipamento:** Henrico tirou **luvas de couro do próprio bolso** para manuseio, usou canivete e isqueiro; não definir onde guardou esses itens depois. Gravador de áudio portado, **não ligado em cena**.
 - **Não confundir:** Lote 19 dentro do Archivio **não foi acessado**, 19-C recipiente não foi visto fisicamente, apenas foto e documento; vídeos de 1989 e gravação Camarilla 2026 são distintos.
 Referências: [[Archivio Bellini]] · [[Helena Voss]] · [[Álvaro Bellini]] · [[Em Aberto]] · [[Sessão — Lote 18, procurações e encontro com a Brujah (24-25-11-2026)]].
+
+---
+
+## 25/11/2026 ~01h00–09h20 — objetos, pagamento e posição
+- **Contato de [[Joana Ferrugem Reis]]:** ela escreveu **número de telefone em guardanapo** no Il Notturno ~01h23 e entregou a [[Henrico Giovanni]], que o guardou **no bolso do peito da camisa** e comentou não poder perdê-lo. **Dígitos não narrados**; ao chegar à cobertura ~02h19, Henrico guardou roupas e objetos no cofre do closet; **não declarar em que bolso/local ficou o guardanapo depois da troca**. Não foi perdido por decreto.
+- **Cartão de [[Adriano Ferretti]]:** cartão de visitas branco impresso **ADRIANO FERRETTI — Consultoria Patrimonial e Relações Privadas** e telefone sem dígitos narrados; dado ao Henrico na sala de espera de [[Teresa (Consolação)]] ~01h55; **guardou na carteira**. Localização após cofre/troca não especificada.
+- **Pagamento da alimentação:** Lorenzo recusou proposta da “Reserva da Casa” de Vicente no bar e **não se alimentou ali**; em atendimento reservado com Teresa, **alimentação realizada** e **compensação paga a ela**, segundo Lorenzo. Não inventar valor, tipo de sangue ou método. Lorenzo pagou também a conta do Il Notturno antes de sair.
+- **Armamento/roupas:** Henrico regressou à cobertura ~02h12 e **guardou as roupas da noite e os objetos/equipamentos usados dentro do cofre do armário/closet**, incluindo **Colt 1911**, coldre, gazuas, canivete e acessórios; não afirmar que o gravador foi ligado. **Nada indica que portava arma quando levou Isabella ao trabalho de manhã.**
+- **Relógio de luxo:** acessório real que [[Roberto Giovanni]] deu de presente a Henrico quando ele completou **18 anos**; Henrico o colocou em **25/11 ~08h49** e está usando com camisa social preta e mangas dobradas, calça/cinto/sapato discretos. **Marca, modelo, preço, gravação e história de aquisição por Roberto não estabelecidos**.
+- **Aliança de prata de Isabella:** Henrico a retirou discretamente da penteadeira para medir aro do anel de noivado no dia anterior; **nenhuma devolução efetuada em cena**, lugar exato após guardar roupas/cofre não especificado. **Isabella não sabe da retirada**.
+- **Anel de noivado Ricci:** encomenda platina, diamante seis quilates, talhe esmeralda, seis garras, gravação “Per sempre tuo. H.G.”, sinal 30% pago; **aro/entrega pendentes**; Isabella não sabe.
+- **Alfa Romeo Giulia:** chaves devolvidas por Lorenzo ~02h12, agora **Henrico dirige** para levar Isabella ao trabalho ~09h20. **Ainda pertence a Henrico**, só será de Lorenzo caso este recupere **Mitsubishi Lancer Evo X da San Michele sem arranhões novos**, ainda não realizado.
+- **Lista de compras de [[Helena Duarte (biomédica)|Helena]]:** já enviada ao telefone de [[Isabella Moretti]], que pretende ir ao mercado depois do escritório, compra **não consumada**; croissants pedidos para café da manhã de 26/11, **não comprados**.
+- **Fotografias do Archivio Lote 18:** permanecem no celular de Henrico, **não compartilhadas em cena** com Aldo, Helena, Roberto, Isabella. 19-B/04 = 1989-T/04 continua sem localização atual conhecida.
+[[Estado Atual]] · [[Sessão — O despertar de São Paulo (25-11-2026)]].
