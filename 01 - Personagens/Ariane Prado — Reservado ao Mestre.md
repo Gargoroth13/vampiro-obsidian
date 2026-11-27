@@ -10,3 +10,9 @@
 Cena futura por rede de filmagens/transportes ou repercussão da cooperação Camarilla-Giovanni de 24/11; não teletransportar nem inventar que já interveio. Escolher postura, reações e objetivos próprios.
 ## Links
 [[Direção da Campanha — Reservado ao Mestre]] · [[Pontos Narrativos Estruturais — Reservado ao Mestre]] · [[Leandro Vasconcelos]] · [[Outras Facções]] · [[Vampiros]] · [[San Michele]]
+
+
+---
+
+## Revisão de entrada e ação — OOC 27/11/2026 (planejado, não ocorreu)
+Ariane pode emergir de **conflito de testemunhas, turno de manutenção, filmagem ou logística** com causa verificável, e agir fisicamente para proteger ou explorar um contato. Sua oposição a Leandro pode aparecer como decisão, custo e risco, não como outro dossiê gratuito. Ainda **não apareceu** nem recebeu por osmose a SMS de Enzo ou detalhes de Ottavia. Introduzir vida Nosferatu real, interesses, limites, diferenças e ameaça ou humor próprio. [[Ritmo Vivo — Guia de Execução do Mestre]].

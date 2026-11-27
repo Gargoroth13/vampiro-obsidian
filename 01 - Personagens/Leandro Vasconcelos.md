@@ -12,3 +12,9 @@ Trata o risco à Máscara e à autoridade territorial como problema político pr
 **Reservado ao Mestre (não conhecimento de Henrico):** ficha do planejamento em [[Direção da Campanha — Reservado ao Mestre]] §36 estabelece Ventrue da **8ª geração**, objetivos e limites; não revelar em jogo sem evidência.
 ## Links
 [[Aldo Giovanni]] · [[Henrico Giovanni]] · [[Lorenzo]] · [[Verônica Leme]] · [[San Michele]] · [[Outras Facções]] · [[Vampiros]] · [[Matriz de Conhecimento]] · [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]]
+
+
+---
+
+## Nota de execução OOC 27/11/2026 — sem ocorrência nova
+Se houver próximo contato, Leandro deve pôr em jogo **reivindicação concreta da Máscara ou de território** com oferta, preço, sanção ou atrito crível, e não prolongar burocracia com mais um pedido de gravação. Camarilla e Hecata têm prioridades distintas e recursos finitos. A cooperação limitada após 24/11 ainda não teve resultado comprovado. **Leandro não soube automaticamente** da SMS a Enzo, das fotos entregues a Helena ou da agente de Ottavia; não conhece uma eventual geração de Henrico por profecia. [[Ritmo Vivo — Guia de Execução do Mestre]].

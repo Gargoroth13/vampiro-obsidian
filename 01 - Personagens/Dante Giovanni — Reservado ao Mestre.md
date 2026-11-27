@@ -25,3 +25,9 @@
 ## Regra de introdução
 Só introduzir por contato causal real (negócio, reunião familiar, disputa de autorização, agenda própria), **não em perseguição fabricada ou anúncio profético**. Sua antipatia é concreta e pode gerar perdas reais, mas não é destino inevitável.
 [[Dante Giovanni]] · [[Agenda de Antagonismos — Reservado ao Mestre]] · [[Protocolo do Narrador — continuidade e agência]]
+
+
+---
+
+## Conflito material a usar em cena — OOC 27/11/2026 (não ocorrido)
+Dante mantém **ressentimento/ódio privado por privilégio percebido**, injusto, sem histórico inventado de culpa ou briga de Henrico. Quando interesses patrimoniais concretos aproximarem os dois, pode **recusar apoio, disputar cronograma/equipe/fornecedor ou prejudicar reputação** dentro do alcance legítimo de seu trabalho, com risco de reação e possíveis custos para si. Não colocá-lo de surpresa em toda cena, nem fazê-lo saber documentos/sobrenatural sem fonte. Uma palavra amistosa não dissipa automaticamente seu rancor. Ele tem clientes, problemas e aliados próprios. [[Ritmo Vivo — Guia de Execução do Mestre]].

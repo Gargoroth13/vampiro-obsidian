@@ -12,3 +12,9 @@
 
 ## Referências
 [[Henrico Giovanni]] · [[Lorenzo]] · [[Aldo Giovanni]] · [[Família Giovanni]] · [[Vampiros]] · [[Estado Atual]] · [[Sessão — Lote 18, procurações e encontro com a Brujah (24-25-11-2026)]]
+
+
+---
+
+## Atualização observável — 25/11/2026 ~10h17
+Henrico soube por [[Aldo Giovanni]] que o tio **já contatou uma agente feminina de Ottavia no Brasil naquela manhã** e forneceu o nome de Henrico e de seu pai Roberto. A agente perguntou idade e se houve apresentação formal; Aldo cogitou resposta fim da tarde. **Até ~13h59 NÃO houve resposta, convite, encontro, proposta ou Abraço.** Não declarar que Ottavia pessoalmente ouviu a conversa ou está em São Paulo. **Henrico não conhece sua geração**; detalhes secretos exclusivamente em [[Ottavia Giovanni — Reservado ao Mestre]].

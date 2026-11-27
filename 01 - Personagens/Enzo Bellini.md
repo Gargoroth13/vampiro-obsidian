@@ -47,3 +47,11 @@ Direção integral: [[Direção da Campanha — Reservado ao Mestre]].
 
 ## Telefonema — 24/11/2026
 Henrico contatou Enzo de frente ao Archivio Bellini; Enzo confirmou **Álvaro Bellini como tio**, de quem está afastado há anos. Ficou alarmado por Henrico visitar o escritório e relatou que Álvaro guardava materiais para pessoas questionáveis (avaliação pessoal). Aceitou dizer a Álvaro diretamente apenas “Estou bem, tio” e desligou. **Não deu número ou localização ao tio.** Ainda recusava encontro com Lorenzo. Álvaro afirmou antigas divergências comerciais e notícias desatualizadas ligadas a Milão. Não presumir localização atual de Enzo.
+
+
+---
+
+## 25/11/2026 ~11h07–13h59 — contato e Café Aroeira
+Henrico telefonou sobre desaparecimento de [[Beatriz Valença]] e a custódia por Álvaro. Enzo conhece Beatriz de correspondência científica da San Michele, mantém distância do tio [[Álvaro Bellini]] e **recusa reunião com Lorenzo**. Combinou encontro às **14h no Café Aroeira, Rua dos Pinheiros**, com Henrico e [[Helena Duarte (biomédica)]], e tem outro compromisso às **15h30**. Por SMS, recebeu **nome/função de Helena** e texto de Henrico dizendo explicitamente **“cadáveres voltaram a vida” e “vampiros”**, explicando que Helena ignorava esses segredos. Enzo censurou o registro digital, aceitou a reunião. **Helena não leu essa SMS**.
+Às ~13h57 cumprimentou Henrico e Helena; examinou **cópias** de inventário Lote19, retirada 19-B/04 e Álvaro como **recebedor registrado** em 23/11 02h49; ouviu anotações técnicas sobre Beatriz. Afirmou que a assinatura do **autorizador está ausente** no material exposto e pediu documento que a identifique, sem evidência de onde está a fita agora. **Ainda não revelou seu papel na saída de Dario**, conforme segredo de Mestre em seção anterior; não entregar automaticamente. 
+**Direção dramática:** Enzo deve oferecer a possibilidade de conhecimento **operacional vivido, testemunho, observação comportamental ou decisão concreta**, conforme conversa, pressão e riscos. Evitar tornar sua exigência de assinatura outro portão obrigatório de arquivos. Pode recusar, desconfiar e proteger a si mesmo mesmo diante de argumentos, com consequências de verdade. [[Ritmo Vivo — Guia de Execução do Mestre]] · [[Estado Atual]].
