@@ -48,3 +48,14 @@ Referências: [[Sessão — Camarilla, Aldo e a noite do Archivio (24-11-2026)]]
 - **[[Aldo Giovanni]] — Henrico:** continua devendo **tentar consultar intermediários de Ottavia em 25/11** e ponte para Lote 17 Vettore, ambos sem resultado narrado até 09h20. Não transformar promessa de tentar em sucesso.
 - **Família ampliada e antagonismos:** identidades de [[Cecília Arantes Giovanni]], [[Luísa Giovanni]], [[Valéria Mancini Giovanni]], [[Chiara Giovanni]], [[Dante Giovanni]] definidas, **nenhum deles assumiu compromissos com Henrico em cena**. [[Mapa Familiar Giovanni — Relações Autônomas]] e [[Agenda de Antagonismos — Reservado ao Mestre]].
 [[Estado Atual]] · [[Sessão — O despertar de São Paulo (25-11-2026)]].
+
+
+---
+
+## Compromissos atualizados 25/11/2026 ~13h59
+- **Henrico / Isabella:** **carona ao trabalho CUMPRIDA** ~09h46, reunião dela 10h15. Pedido de avisar sobre ausência noturna permanece; **não houve promessa de jantar**. Ela manifestou desejo de almoço com mãe/Roberto em domingo próximo, **nada marcado**. Isabella continua desconhecendo anel/noivado e vampirismo.
+- **Aldo / Ottavia:** tentativa de sondar intermediários foi **CUMPRIDA PARCIALMENTE**: Aldo falou com **agente feminina ligada a Ottavia no Brasil** na manhã de 25/11, passou nome de Henrico e Roberto, recebeu perguntas de idade/apresentação. **Resposta, convite e Abraço NÃO ocorreram** até 13h59; possibilidade próxima preservada. Nenhum compromisso pessoal de Ottavia foi assumido.
+- **Enzo / Helena / Henrico:** encontro **MARCAD0 e JÁ EM CURSO** para 25/11 14h, Café Aroeira. Enzo exigiu **Lorenzo ausente**, condição respeitada. Enzo tem compromisso às **15h30**. Documentos mostrados em **cópias**; autor da retirada desconhecido. Nenhum acordo futuro concluído.
+- **Helena / Marta / Patrícia:** Marta tentará obter, via Patrícia, **nome do escritório remetente** de suposta notificação extrajudicial sobre documentos de Beatriz. Nenhuma cópia/nome/validade obtidos até 13h59. Henrique sugeriu Isabella como possível advogada, **nenhum contato feito**, sem trabalho aceito.
+- **Joia e carro:** Valentina recebeu sinal 30% e confirmou aro16, entrega sem data; anel de prata devolvido a **Henrico** em envelope, não a Isabella em cena. Rafael informou que Evo X continua sem acesso, acordo condicional Giulia/Lancer com Lorenzo **não cumprido**. Janela Vettore noite 25/11 continua somente possibilidade.
+- **Correção de condução OOC:** não fazer de acordos/promessas uma sequência infinita de checklists documentais; criar consequências e alternativas diretas. [[Ritmo Vivo — Guia de Execução do Mestre]].

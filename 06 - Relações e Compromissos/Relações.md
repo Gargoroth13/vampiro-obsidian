@@ -52,3 +52,13 @@
 - **Isabella ↔ familiares Giovanni:** quer conhecer mãe de Henrico e Roberto pessoalmente fora da política; não conhece nomes novos até que alguém os diga; nenhum convite.
 - **Novas linhas de conflito:** [[Mapa Familiar Giovanni — Relações Autônomas]] e [[Agenda de Antagonismos — Reservado ao Mestre]]; **amor e amizade não impedem recusas e consequências**. Compromissos cotidianos podem ocorrer sem envolver Henrico.
 
+
+
+---
+
+## Dinâmicas observadas 25/11/2026 ~13h59
+- **Henrico e Isabella:** despedida afetuosa no escritório ~09h46. Ela preserva trabalho jurídico e pediu aviso noturno; quer conhecer família em domingo sem data fixada. A encomenda secreta de anel foi ajustada a aro16, sem conhecimento dela; não devolver automaticamente seu anel de prata. Ela pode aceitar ou recusar pedido profissional futuro de ajudar Helena.
+- **Henrico e Helena:** cooperação real em pesquisa de Beatriz; Helena recebeu fotos noturnas pela primeira vez, estudou divergência 2007/2008 e foi ao Café Aroeira. Brincaram sobre massagem/charme; **não houve massagem nem relacionamento romântico**. Helena mantém obrigações de laboratório e interesses próprios. **Não sabe vampiros** e não viu SMS a Enzo.
+- **Enzo e Henrico:** desconfiança real após ligação ao tio Álvaro e envio por SMS de referências a vampiros/cadáveres revividos. Enzo aceitou reunião sob condição **Lorenzo ausente**, cumprida. Ele pode ter seus próprios medos, razões e antipatias, não se tornará aliado automático ao ver cópias.
+- **Enzo e Helena:** conhecidos nominalmente por registros científicos, primeira apresentação pessoal narrada no Café Aroeira ~13h57. Ela busca colega desaparecida; ele questiona a inferência de causalidade. Ainda não existe confiança.
+- **Família Giovanni e Ottavia:** Aldo procurou agente de Ottavia, ainda sem convite. O futuro Abraço requer escolha do jogador e pode repercutir na rede familiar/política, mas **nada ocorreu ainda**. Conflitos horizontais continuam próprios. [[Ritmo Vivo — Guia de Execução do Mestre]].

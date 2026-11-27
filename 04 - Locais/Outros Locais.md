@@ -20,3 +20,9 @@ Henrico e Lorenzo estão dentro do Mitsubishi Lancer Evo X, estacionado em um be
 
 ## Retorno em 01/11/2026
 Henrico voltou da residência de Isabella à residência de Roberto, dirigindo a Mercedes de Roberto. Naquela cena anterior, Roberto e Lorenzo estavam na sala e Aldo telefonou para Enzo. O ponto atual é o Evo X de Henrico, em beco próximo à [[Maison Belle]], conforme [[Estado Atual]].
+
+
+---
+
+## Café Aroeira — 25/11/2026 ~13h57
+Ver [[Café Aroeira]]. Em Pinheiros, é o local da reunião entre Henrico, Helena e Enzo sobre Beatriz e material do Archivio. Todas as entradas “Ponto atual 01/11” acima são **históricas**; o ponto presente está em [[Estado Atual]].

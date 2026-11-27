@@ -72,3 +72,10 @@
 
 ## ATUALIZAÇÃO MAIS RECENTE — 25/11/2026 ~09h20
 > Retomada **no Giulia com Henrico dirigindo e Isabella passageira para o escritório, reunião dela às 10h15**. Os títulos antigos citando 22h21 ou 00h59 são registros de saves históricos, não a posição atual. Novos personagens: [[Cecília Arantes Giovanni]], [[Luísa Giovanni]], [[Valéria Mancini Giovanni]], [[Chiara Giovanni]] e [[Dante Giovanni]]; links reservados do Mestre não representam conhecimento de Henrico.
+
+
+---
+
+## RETOMADA ATUAL — 25/11/2026 ~13h59 (revisão OOC de 27/11)
+O ponto vivo é **[[Café Aroeira]]**, Pinheiros: [[Henrico Giovanni]] (humano), [[Helena Duarte (biomédica)]] e [[Enzo Bellini]]. Enzo examinou **cópias** do Lote18 e perguntou **quem autorizou retirada 19-B/04**, após assinatura de Álvaro como recebedor. **Última ação de Henrico**: cumprimentar Enzo e sinalizar para Helena apresentar as cópias; **ainda não respondeu**. Helena não sabe sobre vampiros. [[Estado Atual]] · [[Sessão — O despertar de São Paulo (25-11-2026)]] · [[Matriz de Conhecimento]].
+**Revisão de direção obrigatória para o Mestre:** [[Ritmo Vivo — Guia de Execução do Mestre]] · [[Próximas Cenas — Ramificações e Consequências (25-28-11-2026) — Reservado ao Mestre]]. **Ottavia e opção próxima de Abraço preservadas**, sem impor transformação e sem revelar notas de Mestre ao personagem. Os pontos antigos de retomada da página são históricos.
