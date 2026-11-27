@@ -141,3 +141,13 @@ Ver [[Estado Atual]] · [[Sessão — Lote 18, procurações e encontro com a Br
 - Janela ~1h Vettore para seis volumes do Lote 17 em Araçariguama **noite 25/11** ainda sujeita a confirmação/horário não marcado; caixa pequena sem lote 14h17 de 24/11 permanece mistério.
 - **Família Giovanni ampliada como mundo**, não mistério a ser resolvido: mãe Cecília, irmã Luísa, tia Valéria, prima Chiara, parente colateral Dante agora têm fichas e vida própria, **sem retroagir lembranças**. Relações reais e antagonismos devem entrar na narrativa com causas/tempo, não todos como pistas de Sepulcro. Reservado ao Mestre: [[Agenda Familiar — Reservado ao Mestre]] e [[Agenda de Antagonismos — Reservado ao Mestre]].
 [[Estado Atual]] · [[Sessão — O despertar de São Paulo (25-11-2026)]].
+
+
+---
+
+## Situação atual das perguntas — 25/11/2026 ~13h59
+- **Enzo/retirada fita:** no Café Aroeira Enzo viu cópias com Álvaro como recebedor e pediu identificação do autorizante, **ainda desconhecido**. Não estabelecer que Álvaro mantém a fita ou aprovou ordem. **Cena em andamento**. Desenvolver outras vias testemunhais/operacionais e possíveis consequências, evitando próxima procuração obrigatória. [[Ritmo Vivo — Guia de Execução do Mestre]].
+- **Helena e Beatriz:** fotos noturnas compartilhadas; agora nota divergência **referência técnica 2007 versus classificação inventário 2008**, causa ignorada. Marta relatou via Patrícia suposta **notificação extrajudicial**, texto/signatário/validade desconhecidos, sem pasta apreendida confirmada. Isabella ainda não foi consultada. Investigar pessoas, lugares e impacto humano.
+- **SMS da Máscara:** Henrico mandou a Enzo texto explícito sobre vampiros/reanimação, afirmando Helena desinformada; somente Enzo recebeu, sem vazamento confirmado. Consequências podem surgir por acesso/transmissão com causa.
+- **Ottavia:** Aldo relatou contato **já feito** com agente feminina no Brasil pela manhã de 25/11; resposta possível fim da tarde, **sem convite/Abraço até ~13h59**. O jogador reafirmou oportunidade próxima como prioridade, sem exigir conclusão do Sepulcro; o Abraço deve ser escolha de Henrico.
+- **Dario:** Aldo não encontrou resultado concreto. **Vettore:** Lote17 seis volumes na base Araçariguama com janela possível de 1h na noite 25/11, não confirmada. **Evo:** Rafael ainda sem acesso.

@@ -143,3 +143,14 @@ Referências: [[Archivio Bellini]] · [[Helena Voss]] · [[Álvaro Bellini]] · 
 - **Lista de compras de [[Helena Duarte (biomédica)|Helena]]:** já enviada ao telefone de [[Isabella Moretti]], que pretende ir ao mercado depois do escritório, compra **não consumada**; croissants pedidos para café da manhã de 26/11, **não comprados**.
 - **Fotografias do Archivio Lote 18:** permanecem no celular de Henrico, **não compartilhadas em cena** com Aldo, Helena, Roberto, Isabella. 19-B/04 = 1989-T/04 continua sem localização atual conhecida.
 [[Estado Atual]] · [[Sessão — O despertar de São Paulo (25-11-2026)]].
+
+
+---
+
+## 25/11/2026 — inventário atualizado até ~13h59
+- **Anel fino de prata de Isabella:** medido por Valentina em anelar direito como **aro brasileiro 16**; **devolvido a Henrico em envelope de veludo** após consulta ~10h16. Não foi devolvido a Isabella em cena; não inventar local subsequente. Esquerdo pode ter diferença.
+- **Anel de noivado:** pedido técnico confirmado em aro16, platina, diamante natural 6 ct talhe esmeralda, engaste baixo seis garras, gravação “Per sempre tuo. H.G.”; sinal 30% pago, saldo na entrega, **data de conclusão indefinida**. Isabella desconhece.
+- **Fotografias de Archivio:** Henrico e Lorenzo tiraram madrugada 24–25/11; ~11h02 Henrico **imprimiu e enviou digitalmente à Helena**. Helena levou **cópias** ao Café Aroeira e mostrou a Enzo. Originais físicos dos documentos **permanecem Archivio**; Lote19 não aberto fisicamente. Não confundir cópia da fita 1989 com vídeo Camarilla de 2026.
+- **SMS a Enzo:** texto enviado pelo celular de Henrico a Enzo contendo referências explícitas a “vampiros” e “cadáveres voltaram a vida” e nome/área de Helena, que **não leu SMS**. Fonte de prova digital potencial se alguém acessar histórico real.
+- **Vestuário/equipamentos:** após academia/banho ~12h52, camisa preta, calça cinza-escura, jaqueta leve, sapatos de couro, relógio presente Roberto; narração descreveu **Colt 1911 em coldre sob a jaqueta** mais carteira, celular, chaves. Não inventar ações com arma.
+- **Veículos:** Giulia segue com Henrico, que conduziu Helena ao Café Aroeira; Evo X ainda inacessível em San Michele (Rafael SMS ~12h17). Aposta Giulia/Lancer não consumada.
