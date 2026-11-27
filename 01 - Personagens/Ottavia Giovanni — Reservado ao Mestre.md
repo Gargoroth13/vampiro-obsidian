@@ -23,3 +23,9 @@ Cortesia controlada; pragmatismo predatório; humor seco; paciência longa; desp
 Contatos por repercussões da [[Vettore Logística]], [[Archivio Bellini]], custódia de 2008/2021, mensagens via Aldo e controvérsia sobre o acesso do clã. **Não afirmar que esteve no encontro com [[Leandro Vasconcelos]] nem que está em São Paulo agora.**
 ## Referências reservadas
 [[Direção da Campanha — Reservado ao Mestre]] · [[Pontos Narrativos Estruturais — Reservado ao Mestre]] · [[Augustus Giovanni]] · [[Henrico Giovanni]] · [[Aldo Giovanni]] · [[Família Giovanni]] · [[Vampiros]]
+
+
+---
+
+## Retenção obrigatória / prazo vivo — OOC 27/11/2026
+O jogador explicitamente **não quer perder Ottavia nem a oportunidade próxima de Henrico virar vampiro**. Aldo falou com **agente feminina dos interesses de Ottavia no Brasil** em 25/11 manhã, passou nome Henrico e Roberto; a agente perguntou idade e status formal. Até ~13h59 não havia resposta ou audiência. Próximo movimento da rede deve ter consequência concreta, audiência possível em **1–3 noites** e oferta de Abraço **real em 2–4 noites ficcionais** quando condições políticas/interação permitirem, sem depender de dossiês adicionais. Ottavia **5ª**; se aceitar e ela o Abraçar, Henrico **6ª geração**. Potencial enorme e experiência de neófito; política e perigo de ser alvo requerem que adversários descubram a linhagem por meios plausíveis. Sem poderes de ancião instantâneos, sem onisciência de Ottavia, sem conversão forçada nem retaliação automática à recusa. [[Ritmo Vivo — Guia de Execução do Mestre]] · [[Próximas Cenas — Ramificações e Consequências (25-28-11-2026) — Reservado ao Mestre]].

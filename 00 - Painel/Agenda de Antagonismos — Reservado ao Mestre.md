@@ -29,3 +29,9 @@
 6. Inimigos devem possuir reputação, amizades, lealdades, habilidades e vulnerabilidades próprias. Nem todas as pessoas odeiam Henrico, mas **não há unanimidade social**.
 7. As consequências de conflitos não precisam ser mortes/ataques; contratos, reputação, isolamento, exclusão, lealdade e decisões íntimas podem ser devastadores.
 [[Direção da Campanha — Reservado ao Mestre]] · [[Agenda Familiar — Reservado ao Mestre]] · [[Protocolo do Narrador — continuidade e agência]]
+
+
+---
+
+## Oposição material e geração antiga — ajuste OOC 27/11/2026
+Dante deve manifestar rancor em situação **profissional concreta** e produzir custo (recusa, influência, reputação), sem inventar confrontos passados. Enzo pode desconfiar, negar ou impor preço à colaboração; a cena 25/11 14h exige ação humana e informação vivida, não só outra assinatura. Álvaro pode agir por interesse próprio se descobrir ameaça à custódia, não sabe intrusão ou marca do lacre por padrão. Leandro age por Máscara e território com recursos e limites, não por sermão. Rivalidades por um eventual neófito de **6ª geração** podem surgir somente **depois de Abraço voluntário** e mediante conhecimento plausível da linhagem; potencial alto e experiência baixa. Preservar amizades e discordâncias particulares. [[Ritmo Vivo — Guia de Execução do Mestre]].

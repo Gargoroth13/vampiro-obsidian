@@ -112,3 +112,9 @@ Henrico é controlado apenas pelo jogador. O Narrador controla NPCs, ambiente, c
 - **Agência e continuidade:** nunca controlar Henrico, nem determinar como ele se sente a respeito da irmã ou mãe, nem inventar memórias infantis. As fichas definiram parentesco/profissões **agora**, enquanto a interação revela sua história subjetiva.
 - **Retomada:** [[Estado Atual]], 25/11 ~09h20, Henrico conduz Giulia com Isabella para reunião 10h15. Após cada salve, ler ficha Github ANTES de primeira representação do NPC, inclusive novos parentes e rivais. 
 [[Sessão — O despertar de São Paulo (25-11-2026)]] · [[Agenda Familiar — Reservado ao Mestre]].
+
+
+---
+
+## Regra obrigatória de execução — revisão OOC 27/11/2026
+**Fim da burocracia como mecanismo dominante.** Consultar [[Ritmo Vivo — Guia de Execução do Mestre]] a cada arco. Mistérios necessitam de pelo menos **duas vias viáveis não documentais** e um avanço verdadeiro a cada 1–2 passos relevantes. Alternar horror ambiental, mundo vampírico em ação, conflitos humanos/políticos, perigos físicos e calma familiar. Documentos podem confirmar resultados; falta de assinatura não é o padrão de atraso. NPCs têm agendas próprias, ressentimentos duradouros e ações concretas; não fazer todo personagem ajudar Henrico nem transformar imprevisto em retaliação gratuita. Não encerrar toda conversa com pergunta, não narrar vontade de Henrico; d20 para incerteza real, com dificuldade antecipada. Evitar vício de prosa em contrastes “não é X, é Y”. **Ottavia e oportunidade próxima de Abraço continuam prioridades explícitas**: [[Ottavia Giovanni — Reservado ao Mestre]], 5ª → cria 6ª caso aceito, com política perigosa e inexperiência real. [[Próximas Cenas — Ramificações e Consequências (25-28-11-2026) — Reservado ao Mestre]].

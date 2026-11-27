@@ -543,3 +543,9 @@ O encontro com Lorenzo às 19h e a visita à San Michele ainda estão por aconte
 - **Vampiro/horror:** oportunidade de Abraço de baixo número de geração segue prioridade em próximas noites, figura Ottavia ainda só citada; recursos Vettore, Dario, original 1989-T/04 fornecem payoffs. Não transformar novos familiares em iscas ou reféns para empurrar jogador ao Abraço.
 - **Não consumados:** convite de Ottavia, inspeção Vettore, contato Enzo e Aldo sobre Dario, reunião de Isabella às 10h15, compra no mercado, almoço mãe/Roberto, nenhum confronto de Dante, nenhum retorno do homem grisalho.
 [[Estado Atual]] · [[Direção da Campanha — Reservado ao Mestre]] · [[Protocolo do Narrador — continuidade e agência]].
+
+
+---
+
+## Marcos atualizados — revisão 27/11 OOC / 25/11 ~13h59 em jogo
+O encontro com Enzo **já começou**, com Helena e cópias de 19-B/04 na mesa. Enzo pediu documento de quem autorizou retirada; evitar que sua fala vire nova cadeia de burocracia. Prioridade de payoff por testemunho humano, memória operacional, tensão interpessoal ou consequência real; fonte alternativa independente para cada pista. Próximos marcos: vida noturna e sanção política em cena, horror ambiental, acesso físico/atividade dos volumes de Vettore, repercussões da San Michele, conflito familiar não reduzido a Sepulcro. **Aldo já contatou agente de Ottavia** na manhã de 25/11; oferecer audiência plausível próximas 1–3 noites e Abraço opcional próximas 2–4. **Ottavia permanece personagem central** e possível senhora 5ª → cria 6ª de grande risco político, sob livre escolha do jogador. Usar [[Ritmo Vivo — Guia de Execução do Mestre]] e [[Próximas Cenas — Ramificações e Consequências (25-28-11-2026) — Reservado ao Mestre]].

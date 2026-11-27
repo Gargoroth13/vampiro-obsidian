@@ -1,0 +1,27 @@
+# Próximas Cenas — Ramificações e Consequências (25-28-11-2026) — Reservado ao Mestre
+> **MESTRE / PLANEJAMENTO CONTINGENTE.** NENHUM evento futuro descrito aqui aconteceu. Retomar em [[Estado Atual]]: 25/11/2026 ~13h59, [[Café Aroeira]], Henrico, Helena, Enzo. [[Ritmo Vivo — Guia de Execução do Mestre]] tem precedência sobre burocracia de roteiros antigos.
+
+## Café Aroeira, 25/11 ~13h59
+[[Enzo Bellini]] examinou cópias do inventário do Lote 19 e o livro que **registra Álvaro como recebedor** da gravação **19-B/04** retirada 23/11. Enzo pergunta quem autorizou. Essa pergunta pode expressar seu interesse legítimo de separar responsável pela retirada de quem recebeu, porém **não deve converter a cena em busca obrigatória de outro documento**. Enzo já presenciou operações e crises da San Michele; pode ser pressionado a revelar **detalhe operacional, memória vivida ou contradição com o comportamento de alguém**, de forma proporcional a suas razões e às escolhas do jogador. A verdade reservada sobre sua participação na saída de Dario está na [[Direção da Campanha — Reservado ao Mestre]], sem confissão gratuita. Helena tem informações neurofisiológicas de Beatriz e interesse humano concreto; pode entrar em conflito com Enzo, que tem reunião às 15h30. Dar avanço, recusa com efeito e/ou custo político real. Se Henrico escolher romper conversa, Enzo segue com sua própria agenda.
+
+**Vias:** o testemunho de Enzo, a observação da tensão entre os dois, visita voluntária a local com alguém da crise, interlocutor humano, confronto com Álvaro só quando houver acesso causal. Evitar 'fita na pasta do Enzo', autor desconhecido revelado arbitrariamente, vampiro onisciente na mesa ou documento conveniente que resolva tudo.
+
+**Risco autônomo:** Henrico enviou SMS a Enzo com as expressões **“cadáveres voltaram a vida” e “vampiros”**, dizendo que Helena não sabe. **Enzo possui mensagem; Helena NÃO a leu**. Poderá tomar decisões sobre conservar, apagar ou usar isso, mas nada vazou automaticamente para outros.
+
+## Próximos movimentos independentes
+- **Ottavia / Aldo:** Aldo **já falou com agente feminina no Brasil em 25/11 ~10h17** e espera eventual retorno fim da tarde. Dar movimento concreto da rede, convite/recusa com significado e possibilidade real de encontro, sem adiar por assinatura. Ottavia ainda não apareceu. Audiência possível próximas 1–3 noites, Abraço opcional de sangue antigo em 2–4 noites.
+- **Vettore:** seis volumes Lote 17 em Araçariguama, possibilidade não confirmada de acesso de 1h na noite 25/11. Se houver acesso, apresentar galpão, trabalhadores, tempo, carga, escolhas, risco e descoberta física; se houver bloqueio, outra linha humana/observacional existe, em vez de nova autorização obrigatória.
+- **Beatriz:** a notificação extrajudicial foi **relatada** por Marta via informação de Patrícia, sem cópia, signatário ou validade confirmados. Helena quer recuperar amiga, tem laboratório e interesses próprios. Isabella é advogada, mas **ninguém a consultou**, e ela pode recusar por trabalho/ética. Seguir pessoas e consequências, sem todas as descobertas passarem por Marta ou contratos.
+- **Dario / San Michele:** Aldo sem resultado concreto, Enzo sabe aspectos operacionais, Joana/Leandro/segurança têm agendas separadas. Inserir evidência direta de impacto da crise, testemunha ou horror residual, sem desvendar imediatamente localização de Dario.
+- **Evo X:** Rafael na oficina, Diego atendia cliente, acesso ao carro ainda negado. Aposta por Giulia é condicional; recuperação deve exigir ação real, não interminável formulários.
+- **Família:** Cecília, Roberto, Luísa, Valéria, Aldo, Chiara, Dante seguem com trabalhos/afetos/desentendimentos sem estar todos ligados ao Sepulcro. Antagonismo pessoal de Dante só aparece quando o interesse profissional dele criar contato causal.
+
+## Noite vampírica em cena
+A Camarilla já surgiu com Leandro e a Anarquista Joana; não tratá-los como professores de lore. Mostrar poder via território reivindicado, favor devido, ameaça à Máscara, pessoa exposta, alimentação, decisão arriscada. Ariane (Nosferatu) ainda é planejada e não introduzida. Nem todo lugar é operação secreta; dar vida própria à cidade. Uma atividade em primeiro plano com consequência material vale mais que três reuniões de arquivo.
+
+## A oportunidade de Ottavia e a geração de Henrico
+Ottavia não precisa revelar Sepulcro nem ser custodiante CE-19 para se interessar por Henrico. Seus motivos políticos/familiares e riscos devem ser próprios, uma oferta pessoal caso ocorra. **5ª → 6ª se e somente se Abraço aceito e realizado.** Perigo posterior: 1) inveja/ressentimento interno Hecata; 2) disputa de legitimidade com Camarilla; 3) predadores interessados em sangue e poder potencial. Cada oposição requer **descoberta da linhagem por canal plausível**, recursos e oportunidade; nenhuma caçada automática. Neófito ainda sem experiência e com novas obrigações.
+**Ramos válidos:** aceitar, negociar, adiar, recusar; a história segue em todos. Não matar Isabella/Rafael nem enforcar escolha para forçar transformação.
+
+## Guardas de continuidade
+Dia diurno 24/11 no Archivio: **Helena**; noturno 24–25/11: **Lorenzo**. Enzo como sobrinho afastado de Álvaro, reunião às 14h e outra 15h30. H. Voss de 2008 sem identidade provada, Álvaro apenas recebedor. Helena não sabe vampiros. Lorenzo alimentado e dorme de dia. Beatriz e Dario ainda desaparecidos. Toda futura revelação respeita a verdade fixada no planejamento reservado; nenhum NPC sabe mais por roteiro do que por comunicação real.

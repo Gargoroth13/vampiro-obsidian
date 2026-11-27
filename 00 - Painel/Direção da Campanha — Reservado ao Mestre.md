@@ -808,3 +808,10 @@ Ver [[Sessão — Lote 18, procurações e encontro com a Brujah (24-25-11-2026)
 **Outros marcos mantidos:** Aldo promete sondar Ottavia dia 25/11 sem resposta vista; Abraço Hecata de sangue antigo possibilidade de curto prazo, nunca forçar decisão. Lote 18 fotogrado, 19 não aberto, 19-B/04 original 1989-T/04 recebido segundo livro por Álvaro, H. Voss não identificada; Dario desaparecido; Lote 17 Vettore ~1h acesso noturno potencial. Acelerar consequências materiais, não cadeia infinita de pistas.
 **Protocolo:** após este salve, antes de primeira fala/atuação de cada NPC, reler ficha Github e Estado Atual. Personagens NPC não oniscientes; Henrico continua humano. Lorenzo, Aldo de caráter sério, ironia dosada, não comediantes.
 [[Sessão — O despertar de São Paulo (25-11-2026)]] · [[Protocolo do Narrador — continuidade e agência]].
+
+
+---
+
+## Prioridade revalidada após análise de Bloodlines — OOC 27/11/2026, ficção 25/11 ~13h59
+O jogador considera excessivo o foco em arquivos, contratos e autorizações e quer **variedade verdadeira de ritmo, horror, ação, vidas autônomas, antagonismos e avanços que não exijam mais documentos**. O planejamento antigo já reconhecia isso, mas a execução não realizou com consistência. A partir de agora [[Ritmo Vivo — Guia de Execução do Mestre]] e [[Próximas Cenas — Ramificações e Consequências (25-28-11-2026) — Reservado ao Mestre]] são **diretrizes de prioridade alta**.
+**Ottavia é intocável como oportunidade importante:** Aldo confirmou em 25/11 ~10h17 que **já procurou agente feminina de Ottavia no Brasil**, transmitindo nome de Henrico e Roberto; ainda não existe resposta/convite até 13h59. Criar retorno com consequência em curto prazo, audiência viável em 1–3 noites e oportunidade de Abraço em 2–4 noites ficcionais, sem exigir conclusão do Sepulcro. Ottavia 5ª, Henrico potencial cria 6ª: sangue de potencial antigo, política de alvo quando rivais souberem, porém inexperiência, Máscara, Besta e dependência. **Não forçar decisão, não dar geração ao humano, não garantir oferta irreversível antes da interação.** Verdades fixadas sobre Dario, Augustus, Vittoria e Círculo permanecem.

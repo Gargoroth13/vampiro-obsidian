@@ -20,3 +20,9 @@
 
 ## Segundo pedido do mesmo salve — antagonismo pessoal verdadeiro
 O jogador apontou neutralidade excessiva de NPCs, sem ninguém que odiasse Henrico. Incorporar [[Agenda de Antagonismos — Reservado ao Mestre]], com [[Dante Giovanni — Reservado ao Mestre]] como ressentimento/ódio privadamente estabelecido e demais conflitos familiares, profissionais e políticos. Não supor que Cecília, Luísa, Valéria ou Chiara devam gostar/ajudar/defender Henrico só por parentesco. **Evitar forçar uma vingança arbitrária a cada reunião**; permitir relações também boas, mas não garantir afinidade.
+
+
+---
+
+## Vida horizontal sem obrigatoriedade de pistas — OOC 27/11/2026
+A vida de Cecília (conservação urbana), Luísa (engenharia ambiental), Valéria (distribuição/importação), Chiara (ateliê), Roberto e Aldo continua com metas próprias. Incluir trabalho, decisões, atritos entre cônjuges, parentes e clientes, lazer e humor mesmo quando não há conexão com Sepulcro. Família não é uma fila de quest givers. Dante mantém ressentimento e pode minar prestígio quando contexto de negócio justificar, sem aparecer em toda cena. Evitar violência gratuita contra Isabella/família para induzir Abraço. [[Ritmo Vivo — Guia de Execução do Mestre]].
